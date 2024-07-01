@@ -1,0 +1,54 @@
+Method Statement for Feasibility Study on Temporary Widening at SSK Drive
+
+### Key Points of the Method Statement:
+1. **Introduction**:
+   - This method statement outlines the general methodology for conducting a feasibility study on temporary widening along SSK Drive (Work Areas W8A, W8B). It includes topography survey inspection, recording survey results, and analyzing inspection records. The document describes the procedures, required instrumentation and equipment, and considers risk and safety precautions.
+
+2. **Scope of Works**:
+   - Applicable to topography surveys along SSK Drive for the feasibility study on temporary widening (approx. 870m).
+   - Includes surveying the site area occupied by CEDD Contract No. NL/2020/07.
+
+3. **Responsibilities**:
+   - Lists the responsibilities of key personnel, including Construction Managers, Engineers, Safety Managers, Surveyors, and Site Supervisors. Each has specific duties for overseeing and executing the work.
+
+4. **Programme and Working Hours**:
+   - The survey work is scheduled for mid-January 2024, with general working hours from 08:00 to 18:00, Monday to Saturday, and is expected to be completed within a week.
+
+5. **Plant, Equipment & Material**:
+   - Equipment such as Leica Total Station TS15A, Leica Digital Level DNA03, tripods, prism poles, and other surveying tools will be inspected and used. All equipment must be in good working condition and comply with regulations.
+
+6. **Works Methodology**:
+   - Detailed survey process, including accuracy requirements for control networks, steps for conducting the topography survey, and data recording procedures.
+
+7. **Safety**:
+   - Coordination with CEDD Contract No. NL/2020/07, ensuring all workers wear reflective vests and safety helmets. Safety briefings and meetings will be conducted before starting work, and safety barriers and traffic cones will demarcate the working area.
+
+8. **Environmental Measures**:
+   - Noise control measures will be followed, and general works will be conducted during normal working hours. If works are needed outside these hours, a construction noise permit will be obtained. Care will be taken to avoid damaging existing trees.
+
+9. **Quality Control**:
+   - All works will comply with the Quality Plan. Work activities classified as "Quality Hold Point" require inspection and acceptance by MTR's inspectorate before proceeding with subsequent work.
+
+### Workflow:
+1. **Preparation**:
+   - Inspect and ensure all equipment and materials meet regulations.
+   - Coordinate with relevant contract parties to understand the survey scope and working hours.
+
+2. **On-site Survey**:
+   - Conduct the topography survey according to the planned time and scope, recording the existing topography, ground levels, and features.
+   - Perform on-site verification to ensure data coverage and accuracy, using a data logger for recording.
+
+3. **Safety Management**:
+   - Conduct safety briefings and pre-meetings to ensure all workers understand safety requirements.
+   - Implement safety measures on-site, such as reflective traffic cones and barriers.
+
+4. **Environmental Protection**:
+   - Control construction noise and conduct works within specified hours.
+   - Monitor and mitigate any environmental impacts, particularly on existing trees.
+
+5. **Data Analysis and Reporting**:
+   - Analyze and record survey results after completion.
+   - Ensure all work complies with the Quality Plan, with necessary inspections and approvals at quality control points.
+
+### Summary:
+The method statement provides a comprehensive outline of the steps and requirements for conducting the feasibility study on temporary widening at SSK Drive. It covers the scope of works, responsibilities, equipment usage, safety and environmental measures, and quality control to ensure the survey is conducted efficiently and safely.
