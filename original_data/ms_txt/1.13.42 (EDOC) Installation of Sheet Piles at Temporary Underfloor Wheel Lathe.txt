@@ -1,0 +1,212 @@
+MS Reference Number: CSHK CET MS C 2024 000092
+
+ACC Reference Number: 1701 W 000 CSC 760 000155
+
+METHOD STATEMENT TITLE: Rev.C
+
+Method Statement for Installation of Sheet Piles for the Temporary Underfloor Wheel Lathe
+
+Prepared by: Checked by: Reviewed by: Reviewed by:
+
+Signature: A 2 2 壮2
+
+Name: Andy Lo Ted Leung Leung Kwok Fung/Hui Wai Kwan MH Isa / WH Lam
+
+Position: Engineer Construction Manager SM/SO QM/QE
+
+Date: 2215124 2215/24 2715/24 2715/24
+
+Reviewed by: Reviewed by: Reviewed by: Approved by:
+
+Signature: AT ha Te M. 
+
+Name: James Ma/sHo Yeung Wai Lun Paul Freeman/-MarkMcGleenon Eric Fong
+
+Position: EM/EO A. Project Director Sr.Project Director/A. Project Director Project Director
+
+Date: 2715124 2018/24 2215/24 2715129
+
+Document Title: Method Statement for Excavation and Lateral Support for the Temporary Underfloor Wheel Lathe
+
+Document Revision: 22-Feb-24
+
+Deadline: 28-May-24
+
+Item 1: Section SHD-Dev Reference 7.2 Utilities detection Page 15 Comment: Following the BUGN requirements, survey shall be conducted on railway equipment / facilities to ensure protection measures can be applied. Survey of railway facilities at ground level, and further detection will be conducted by the Contractor for underground utility prior to work commencement. The report for the survey for underground utility and railway facilities at ground level with protection details shall be submitted to MTR. Contractor's Response: Underground Utilities Detection was carried out and Underground Utilities Survey Report was issued to MTR for reference. Within the area of construction of Temporary Underfloor Wheel Lathe Sheet Piles, only one utility was found within the area and that utility shall be abandoned by another contract 1732. Therefore, with reference to the information, no existing utility is within the area of Temporary Underfloor Wheel Lathe.
+
+2: SHD-Dev. Appendix K Permit-to-dig Comment: A FS pipe was damaged by a contractor's excavator recently. Following the incident, the following changes have been suggested to Permit-to-Dig system:-Pls consider amending 1701 Permit-to-Dig system accordingly. Kindly clearly state the reasons why the changes are considered inapplicable otherwise. Contractor's Response: Permit-to-Dig system was updated and attached in Appendix K for your reference. The permit to dig is issued by the Site Agent or Construction Manager. He/She is responsible to brief the Engineer for the underground utilities in the area in the Permit to Dig. The Engineer will brief the plant operators and workers in a training and sign on the Permit to Dig for record. A Chinese version method statement and layout plan will be also presented in the briefing section.
+
+3: RP - Comment: Please find my comments which are marked in Red in the attached returned file. (refer to Yu Sir email) Contractor's Response: The comments are addressed and attached in the email for your reference.
+
+4: RP - Comment: Figure 7.1.1 refers, please provide a layout plan showing the clearance between the sheet pile and railway facilities to justify the extent of 5m height sheet pile. Contractor's Response: The figure 7.7.1 is updated to show the minimum extend of maximum 5m height sheet pile for your reference.
+
+5: RP - Comment: The setup location of the silent piling machine and the relationship between the railway facilities shall be considered. Contractor's Response: The setup location is around 29m, which is a screenshot captured in the Navisworks model and attached in Figure 7.7.3 for your reference.
+
+6: RP - Comment: PA works shall be applied when the sheet pile location was 10m measure from the railway facilities. Contractor's Response: Noted. PA works will be input in ETMS system before commencement of work within 10m from the railway facilities if necessary. This sentence also added to section 7.7 Step 3 for clarification of the works.
+
+7: RP - Comment: Appendix D, proposed TUFWAL lifting plan (stage 1) refers, the operation zone for the 32T crane lorry was found intruded into the existing railway facilities which is not acceptable. The jib length shall be specified. The lifting capacity of the crane lorry shall not exceed 80% of SWL. Section showing the critical lifting works shall be provided. The collapse path of the lifting works shall not intrude to the railway facilities.
+
+8: Comment: Setting out survey should be conducted in quality hold point with RISC prior to the commencement of installation. Contractor's Response: Noted. Inspection and Testing Plan is updated accordingly.
+
+9: Comment: As-built survey of installed sheet piles should be conducted after piling works. Contractor's Response: Noted. Inspection and Testing Plan is updated accordingly for the as-built record of the sheet piles installation with RISC form.
+
+10: Comment: Please provide the calculation of edge distance for the holes of sheet pile (12m) Contractor's Response: Noted. Calculation for one lifting hole is attached in Appendix N. Because two lifting hole is used for safety measures, therefore two lifting holes can fulfill the lifting requirement of sheet pile.
+
+11: Comment: What will be using for counter weight? A bundle of sheet piles? Concrete block? Please advise the lifting arrangement. Contractor's Response: Concrete blocks will be used and attached the setup photos for reference in Appendix P
+
+12: Comment: The ground condition should be checked by ICE. Contractor's Response: Outrigger Pad will be used with at least 3 times the square surface area of the outrigger shoe to fulfil the safety measures of lifting works.
+
+13: Comment: Please provide the lifting radius, LA & LG information and weight of materials, rigging method etc. Contractor's Response: With the use of crane lorry with EN12999 qualification, the details of LA/LG will be larger than 80% of the lifting weight(720kg). The rigging method with shackles will be provided for the lifting works of sheet piles, which 2 holes will be provided and checked with calculation. For more details, please refer to Appendix D
+
+14: Comment: This MS not include the installation of ELS. Why the RA have the lifting works for ELS works? Please clarify. Contractor's Response: The Method Statement only include the installation of the sheet pile. The Risk Assessment is updated accordingly.
+
+15: Comment: Permit to operate should be included. Contractor's Response: Permit to Operate is attached in Appendix O for reference.
+
+16: Comment: Hot work permit should be included. Contractor's Response: Noted. Hot Work Permit is attached in Appendix M for reference.
+
+17: Comment: Section 9 Environmental - Please add:- The works shall follow relevant mitigation measures as required under the Environmental Permit (EP) / EP submissions and Contractor's Environmental Management Plan (EMP) Contractor's Response: Noted. The wordings are added in Section 9.
+
+18: Comment: Why trial pit after commencement of piling? Wrong sequence. Contractor's Response: Noted. The Inspection and Testing Plan is updated accordingly. The wording in the construction sequence also updated accordingly.
+
+19: Comment: There is no welding mentioned in the work method and procedure. Please clarify. Contractor's Response: Welding works will be carried out during the installation of sheet piles. The welding works are included in the construction sequence and risk assessment for your reference. The welding procedure and material submission for welding will be under separate submission and shall be approved before commencement of welding works.
+
+20: Comment: What's the inspection required? Contractor's Response: The inspection can be referred to the Inspection and Testing Plan in Appendix B.
+
+21: Yu Sir The Plan on Page 3 Comment: Where is the existing fence; OHL Masts and OHL? Please indicate it clearly on the Plan. Contractor's Response: The plan view can be found in Section 7, Figure: Section and Plan of ELS at Temporary Underfloor Wheel Lathe and the Existing facilities in BIM Model and Point Cloud
+
+22: Yu Sir The Plan on Page 3 Comment: The distance of the sheet pile wall at various location to the existing fence, OHL Mast, OHL and track shall be clearly dimensioned on the Plan. Contractor's Response: The plan view can be found in Section 7, Figure: Section and Plan of ELS at Temporary Underfloor Wheel Lathe and the Existing facilities in BIM Model and Point Cloud
+
+23: Yu Sir Para. 6 on page 6 Comment: Since the piling work will be carried out by using silent piler, what is the purpose of having a Vibrator? Contractor's Response: Vibrator was removed from the plant list.
+
+24: Yu Sir Para. 6 on page 6 Comment: Fire Marshall shall be provided since Welder is included in the Manpower list. Contractor's Response: Fire warden can be provided and nominated by our safety department if the construction works is within Construction Area.
+
+25: Yu Sir Para. 7.3.1 on Page 15 Comment: What measures will be provided to prevent the concrete fragments fly into OA area during concrete breaking? Contractor's Response: Water will be splashed during breaking concrete works and green net is provided to prevent the concrete affecting the Operation Area.
+
+26: Yu Sir Para. 7.3.2 on Page 15 Comment: Please confirm is Trail Pit required or not here. Cannot just say “if necessary”. If Trial Pit will be excavated, please indicate its location and size as well as safety precautionary measures will be provided. Contractor's Response: If there are no underground utilities along the sheet pile location in Temporary Underfloor Wheel Lathe, trial trench will not be carried out after the blinding concrete is broken. If there are any underground utilities within the sheet pile area, the trial trench is 500mm width x 2.5m depth will be carried out. For this situation, the underground utilities survey report stated that no existing underground utilities within this construction area. The underground utilities survey report was submitted (ACC Ref.: 1701-W-000-CSC-810-000257), and attached in Appendix P for reference. The statement is written in Section 7.3.2
+
+27: Yu Sir Para. 7.3.2 on Page 15 Comment: Why excavation work shall be inspected by a CP once a week? What is CP here stand for? Contractor's Response: With reference to the Underground Utilities Survey Report (Ground-penetrating radar GPR), there is no existing underground utilities within the TUFWL sheet pile area. Therefore, UU CP will inspect the excavation works weekly and WPIC will inspection the inspection works daily.
+
+28: Yu Sir Para. 7.4 on Page 16 Comment: Please confirm will the cable and draw pits already abandoned before commencement of sheet piling work. Otherwise, protective measures required. Contractor's Response: The cable and draw pit are within the sheet pile location. After on site and survey check, the draw pit and PVC ducts are within the sheet pile area but no cable is inside the draw pit, therefore no utilities diversion is required. Attached the location plan and site photo for reference.
+
+29: Yu Sir Para. 7.5.1 7.5.3 onPage 16 - 19 Comment: Please be alerted that before commencement of sheet piling work, all necessary monitoring instrumentation shall be installed and initial readings taken. The initial readings shall be agreed with MTR Railway Protection and joint survey with MKTR Railway Protection to agree on the Initial Readings is required. Contractor's Response: Noted.
+
+30: Yu Sir Para. 7.6.1 on Page 20 Comment: How to control? Contractor's Response: Briefing works will be carried out by the China State Engineer, Safety Department, and under the witness of MTR SIOW, IOW and Safety Department before commencement of works. The plant operator will be signed on the attendance to confirm his operation area during the construction works.
+
+31: Yu Sir Para. 7.6.1 on Page 20 Comment: During sheet pilling work, how to overcome hard material if encountered? Contractor's Response: High pressure water jet along the sheet pile will be carried out to solve this issue.
+
+32: Yu Sir Comment: How to ensure the verticality of the sheet piling work? Contractor's Response: A spirit level will be used to check the verticality of the sheet pile at 0m, 4m and 8m.
+
+33: Yu Sir Comment: Some items in the Risk Assessment in Appendix A are not relevant to this submitted Method Statement for installation of sheet piles such as Installation of ELS; shall be revised and amended Contractor's Response: Noted. The risk assessment is updated accordingly.
+
+34: Yu Sir Appendix C Comment: Appendix C is titled as Temporary Works Design, but on the Emergency Contact List attached ?? Contractor's Response: Noted. The topic is updated to "Emergency Contact List"
+
+36 37: Yu Sir Yu Sir Appendix E Comment: Appendix E is titled as Shop Drawing but only catalogue of the silent piler attached? 1. Figure 7.1.1 on Page 14 of 47 :- The opening radius of the mobile crane is beyond the water-filled barrier and encroached into the adjacent OA & track area. This is unacceptable. A shorter jib shall be adopted. Besides, before EDOC approved, no part of the jib of the crane shall encroached within 10m area from the adjacent OHL / live track. Contractor's Response: Noted. The topic is updated to "Catalogue of Silent Piling Machine"
+
+38: Yu Sir Comment: 1. Figure 7.6.2 on page 21 of 47: Please mark up the 10m line (10m from the adjacent OHL/live track) on the plan. Contractor's Response: Noted. The 10m line is marked in Figure 7.6.2 for your reference.
+
+39: Yu Sir Comment: 1. Figure 7.7.3 & &.7.4 on Page 24 of 47 :- The mentioned 29m distance is misleading. The closet distance between silent piling machine and the OHL Posts shall be measured from the SOP03. Contractor's Response: This figure mainly responds to Rtc No.5 regarding the setup location of the silent piling machine. For the entire sheet piling installation works, the silent piling machine can handle the corner works without requiring any lifting during the installation of the corner sheet pile. Therefore, there is only one designated setup location, SOP01, which aligns with figures 7.7.3 and 7.7.4.
+
+CONTENT
+
+1. Introduction
+
+2. Reference Documents
+
+3. Details of Sub–Contractor/Specialist Sub–Contractor
+
+4. Responsibilities for Activities described within Method Statement
+
+5. Programme and Working Hours
+
+6. Plant, Equipment & Material
+
+7. Construction Methods / Construction Sequence
+
+8. Safety
+
+9. Environmental
+
+10. Quality Control
+
+11. Appendices
+
+This document is controlled in soft copy.
+
+Any hard copies seen are uncontrolled unless chopped with a red control stamp
+
+1. Introduction (Overview of the operation/works): This method statement describes the proposed construction method and sequence of the construction method for the installation of sheet piles for the Temporary Underfloor Wheel Lathe. The workmanship shall comply with the working drawing and general and particular specifications in Section 2.0. This method statement covers the TUFWL area, and we note some sheet piles are located within 10m measuring from the OHL mast of the existing Underfloor Wheel Lathe, and therefore those sheet piles will NOT be commenced prior to approval of the related EDOC. Figure 1.1: Plan View of ELS at Temporary Underfloor Wheel Lathe and the Existing facilities
+
+2. Reference Documents (Identify relevant documents by name and reference number): ⚫ General Specification for Civil Engineering Works (NEC4) (MTR Corporation Limited –2022) ⚫ Contract 1701 working drawings ⚫ Buildings Department Approved drawings of Excavation and Lateral Support for the Temporary Underfloor Wheel Lathe (refer to Appendix J)
+
+3. Details of Sub–Contractor/Specialist Sub–Contractor: Sunny Wealth Civil Engineering Limited is the sub-contractor for this construction work. This contractor is responsible for installing the sheet pile for the Temporary Underfloor Wheel Lathe.
+
+4. Responsibilities for Activities described within Method Statement: CSHK is responsible to inspect and carry out the construction works. The following persons, as listed in the table below, will attend the specific tool–box talk and be responsible for the activities:
+
+Company Name Position
+
+China State Construction Engineering (Hong Kong) Limited Ted Leung (63452668) Construction Manager
+
+Li Yuk Wa (91287583) Assistant Construction Manager
+
+Jack Wong (97760711) Senior Engineer
+
+Andy Lo (96375991) Engineer
+
+Edward Yang (54665752) Graduate Engineer
+
+Kyle Lai (69317392) Graduate Engineer
+
+Cheung Siu Kei (90803168) Superintendent
+
+Wong Yu Fung (54239789) Senior Foreman
+
+Pun Chi Ho (56282947) Foreman
+
+Sunny Wealth Civil Engineering Limited So Kwun Piu (92066144) Project Manager
+
+Lee Yin Hau (60960227) Foreman
+
+Emergency Team contact list is enclosed so that work can be safely arranged to suspend for contingency/ reasons. Please refer to Appendix C.
+
+5. Programme and Working Hours (Start & finish date of operation/works): The works are scheduled to commence in late-May 2024. The general working hours will be from 08:00 – 19:00 daily, from Monday to Saturday. However, it may be required to carry out works from 19:00 to 23:00 and Sunday and Public Holidays if Noise Permit is obtained.
+
+6. All plants and equipment will be inspected prior to the mobilization on site to ensure that they are in good working condition and comply with the current regulations.
+
+The major plants and equipment that will be deployed to carry out the works are approximately as follow, which is subject to site condition: –
+
+
+Plant / Equipment Quantity
+
+45 ton crane lorry (with EN12999 qualification) 1
+
+Excavator, 13 tonnage to 30 tonnage, or equivalent 1
+
+Generator 2
+
+Silent Piling Machine, Model SA100 or equivalent 1
+
+Welding Machine 2
+
+Concrete blocks 10
+
+Manpower Quantity
+
+CP(T) or CP(NT) 1
+
+Rigger 1
+
+Banksman 1
+
+Plant Operator 2
+
+Welder 2
+
+Skilled workers 4
+
+Construction Methods / Construction Sequence Drawings:
+
+General Information of the Existing Facilities near TUFWL ELS Figure 7.0.1: Plan View of ELS at Temporary Underfloor Wheel Lathe and the Existing facilities
+
+7.1 Fencing and site clearance
+
+7.1.1 Before carrying out construction works, the area will be fenced off as per the approved method statement, Installation of Water Filled Barrier at W3 and W7 Erection of Container and Site Office at W7 Site Clearance at W3 (ACC Reference Number: 1701/W/000/CSC/000053. The details can be found below. The access point is also shown in the below figure. Figure 7.1.1: It shows the arrangement of the water–filled barrier at W3A and W3C (extracted from Method Statement –

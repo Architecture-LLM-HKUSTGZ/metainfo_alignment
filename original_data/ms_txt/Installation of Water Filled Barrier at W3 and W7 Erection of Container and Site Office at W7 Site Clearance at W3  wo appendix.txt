@@ -1,0 +1,202 @@
+Method Statement Change and Review Template
+
+Date: 20/03/2024
+Work activity: Installation of Water Filled Barrier at W3 and W7 Erection of Container and Site Office at WN7 Site Clearance at W3
+Approved MS (ACC): 1701-W-000-CSC-760-000053
+Initiated by: Andy Lo
+Evaluate change: ☐ The MS is followed on site. ☑ Minor change, any change which would not render the safe system of work nor the original safe guard / control ineffective ☐ Major change, any change other than minor change
+Review and approve change: ☑ Minor change ☑ (1) without railway implication ☐ (2) with railway implication (accepted by HKTS) Description: 1. Add the sequence of concrete breaking in the area of W3A TUFWL position 2. Add the sequence of concrete placing at car park position in W3A. 3. Update Appendix A- Risk Assessment. 4. Update Appendix C-Layout Plan. ☐ (3) Major change > follow the normal method statement approval process Description: Agreed by Senior engineer: Senior inspector: Safety team: HKTS team:
+Communication (internal): Approved minor change and briefing to operatives is carried out on ☐ Major change > follow the normal method statement approval process
+Communication (external): Summarized and discussed in weekly RP/HKTS meeting. ☐ RP ☐ RSMD ☐ PP&DO ☐ IMD
+
+MS Reference Number: CSHK CET MS C 2024 000054
+ACC Reference Number: 1701 W 000 CSC 760 000053
+
+METHOD STATEMENT TITLE Rev.C
+Installation of Water Filled Barrier at W3 and W7 Erection of Container and Site Office at W7 Site Clearance at W3
+
+Prepared by: Checked by: Reviewed by: Reviewed by:
+Signature:
+Name: Nana Chung Vincent Li Leung Kwok Fung/Hui Wai Kwan MH Isa / WH Lam
+Position: Assistant Construction Manager Construction Manager SM/SO QM/QE
+Date: 20-Mar-2024 20-Mar-2024 20-Mar-2024 20-Mar-2024
+Reviewed by: Reviewed by: Reviewed by: Approved by:
+Signature:
+Name: MH Isa / Iris Ho Yeung Wai Lun Paul Freeman/ Mark McGleenon Eric Fong
+Position: EM/EO A.Project Director Sr. Project Director / A. Project Director Project Director
+Date: 20-Mar-2024 20-Mar-2024 20-Mar-2024 20-Mar-2024
+
+CONTENT
+
+1. Introduction
+
+2. Details of Sub-Contractor/Specialist Sub-Contractor
+
+3. Responsibilities for Activities described within Method Statement
+
+4. Programme and Working Hours
+
+5. Resource, Plant, Equipment & Material
+
+6. Traffic and Security Management
+
+7. Construction Methods/Construction Sequence
+
+8. Safety
+
+9. Environmental
+
+10. Quality Control
+
+11. Appendices
+
+This document is controlled in soft copy.
+
+Any hard copies seen are uncontrolled unless
+
+Page 2 of 21
+
+chopped with a red control stamp
+
+Traffic and Security Management
+
+Contractor Vehicle Arrangement
+Pre-registration of the car plate and driver information will be provided to the Security Operation Centre (SOC) to obtain the entry permit through the west gate.
+Contractor Vehicle should display the entry permit, a label with the wordings '1701 contractor vehicle' and location plan, and the destination on the windscreen.
+CSHK will report the total number of workers In/Out Records to SOC Daily.
+Re-registered vehicles shall not carry unauthorized/unregistered passengers.
+
+Before entering the west gate, CSHK, CP(T) will measure the height of the vehicle, ensure the height is within 4m.
+After entering the west gate, the Contractor Vehicle will be accompanied by the escort vehicle with CP(T).
+No vehicle over 4m high and below 4.5m high is allowed unless a Permit-to-Move is issued by CWBU to DCC for approval. Vehicle height measurements/checks shall be conducted by CP(T)s before entering depot areas and passing through the west level crossing.
+When accessing west level crossing, the escort car of CP T shall communicate with DCC in order to get permission to drive across the level crossing. CPT shall inform DYM when vehicles passing through the yellow line underneath the height restriction gauge, and within the double white zone No vehicle Reversing is allowed.
+Permitted vehicles must be driven through level crossing at a speed of not over 10 km/h.
+All vehicles, except shuttle bus for staff and workers, shall not be entered from West gate from 7:30 am to 8:30 am in order to minimize the track jam.
+For details of traffic and security management plan shall refer to separate submission.
+All security guards shall have RSI training.
+
+Worker Verification
+All workers will be picked up at designated areas such as Tung Chung Station.
+During boarding the shuttle bus, hand-held facial recognition will be performed to verify the worker's qualification.
+The facial recognition system will check if the person has passed the RSI and possesses a green card.
+List of workers shall be submitted for MTR for registration before starting of works, the list shall be updated weekly and available for MTR as requested.
+
+Uniform and Safety Equipment: All workers shall wear PPE and the standard uniform and safety helmet for easy recognition by security guards and YM.
+
+7. Construction Methods/Construction Sequence Drawings
+
+Preparation-Prior to the commencement of the container office or village setup, water-filled barrier for W7 to enclose the site shall be completed.
+- All works before commencement must contact depot YM to get approval first.
+- Identify the existing MTR facilities at or within the construction site, such as a manhole cover, OHL portal. Carry out the condition survey and photographic record to locate the UU before any excavation works. Permit to dig system will be implemented to ensure protection system to the existing UU before commencement of works. The method statement will be submitted separately.
+- If condition survey found MTR existing equipment/material, we will fence off the existing MTR stuff first and have protection. After condition survey, we will give the results to depot and liaise about the existing MTR stuff.
+- All workers should possess the qualification Railway Safety training (RSI), and can only smoke at the smoking area that demarcated by CSHK.
+- Prior to commence the works, CSHK will provide the information to MTR CWBU Inspector, in order to submit the work notice to SOC/DCC every Friday.
+For Crane Lorry and Lifting Gear
+- All plants and equipment will be inspected prior to the mobilization on site to ensure that they are in good working condition and comply with the current regulations, all statutory forms/certificates of Lifting Appliances (LA) and Lifting Gear (LG) must be valid
+- If they are in good working condition, CSHK will arrange the plants mobilization to site
+- Before operation of the plant, CSHK will arrange a plant inspection with MTR CWBU inspector.
+- If they are in good working condition, CSHK will submit the permit to lift (for crane lorry, grab lorry lifting gear) and plant permit (for backhoe).
+Lunch Arrangement for CSHK workers
+If the number of workers less than 10 people, the worker can have their lunch at depot canteen after 12:30 pm, if the number of workers more than 10 people, worker will go out the site for lunch.
+
+This document is controlled in soft copy.
+
+Any hard copies seen are uncontrolled unless
+
+Page 9 of 21
+
+chopped with a red control stamp
+
+Thesequence for install water filled barrier at W3A, W3B, W3C, and W7 is shown in the following table.
+Step Activity Picture
+1 Put the labeled cone on manhole cover on site in order to avoid the water-filled barrier covered the manhole cover.
+2 We will provide the working schedule for depot yard master to coordinate for our loading and unloading works. We will use the traffic cone for temporary lane enclosure for loading and unloading. Deliver the water-filled barrier by manual handling of workers. If it is delivery by lorry, at least two workers will move one barrier by manual handling.
+- Water-filled barrier delivers by lorry at W7 and W3A, move the barrier from lorry to ground by manual handling.
+- Manual handling the water-filled barrier to W3B and W3C.
+- For W3B, it will across the existing road, the CP(T) will supervise the works.
+3 Check the quality of water-filled barrier, screw up the cover to prevent the water leakage.
+MAX MN Screw up the cover
+4 The barrier shall be placed in alternate red and white colors and connect together such that they stand out the construction site behind them and are visible by day and night.
+5 Fill in the water to the maximum water level of every water-filled barrier according to the operating instructions of the manufacturer.
+- Due to the application for water supply needs to go through some process and take time, in order not to affect the proposed commencement date on 25 Jan 2024, we expected to use water tank to fill in the water into the wfb temporarily, and not use depot water, not borrow water from depot. Temporary water connection from existing water main at South Road will be discussed with depot separately, and it will cover by separate method statement.
+- The water tank would be filled outside the depot and use for filing the barrier.
+6 Check whether the water level is between the lowest water level and the highest water level daily. If there is no water after a day, it means that the cover is loose or the barrier is broken, so we should tighten the cover or replace it with a new water-filled barrier.
+7 Install the top plastic panel on the water-filled barrier.
+- The plastic panels should have 1-2 transparent, and we will install the panels 1 in 5 to be transparent. Also, plastic panel will be removed when in typhoon signal no. 3 or above.
+8 Carry out the supplement erection of water-filled barrier of pedestrian access to and around AB11, and placement of guardhouse, portable toilet, and generator, as this is done before CA declaration.
+
+Erection of water-filled barrier around AB11
+
+Condition of water-filled barriers shall be checked weekly, any damage shall be replaced if necessary and records shall be submitted to MTR.
+
+This document is controlled in soft copy. Any hard copies seen are uncontrolled unless Page 11 of 21
+
+Approved method statement (E DOC if require) with Chinese version shall be displayed on site for workers.
+
+Moreover, there will be a container toilet and a generator located at W3C.
+
+Location of the container toilet at W3
+
+Method
+
+The electricity-generated materials (oil fuel) would not store at the depot area for safety reasons, and it will be switched off after working hours. When constructing the site container village, we will stabilize the facilities for workers to rest/shade. Adequate Container toilets will be used for workers and staffs, and the toilet disposal will be disposed of with a septic tanker truck.
+
+Thesequence for erection of container site office at W7 is shown in the following table.
+Step Activity
+1 Setting out the location of container site office at W7
+2 Lift the 20’ container to the defined location.
+- The weight of 20’ container is 2.2 ton.
+- The lifting capacity of crane lorry should calculate the 80% safety factor.
+3 Install earthing system to the container and power supply.
+4 Connect the power supply to all container site offices.
+5 Connect the water supply (water tank) to the toilet.
+
+Thesequence for site clearance at W3A, W3B, W3C, and W7 is shown in the following table.
+Step Activity Picture
+1 Transport 2 nos. of 3T-20T backhoe at W3A to carry out the site clearance works for W3A, W3C, and W7, and transport a 3T-20T backhoe with breaker to W3B by trailer to carry out the site clearance works for W3B, includes removing the weeds, garbage, breaking up a group of boulders and disposal of boulders. Weeds shall be removed away from Depot as a pass it will catch fire easily. Firefighting equipment must be provided.
+
+Thesequence for concrete placing at car park position in W3A is shown in the following table.
+Step Activity Picture
+1 Carry out minor site formation works by backhoe and vibration plate. No excavation exceeds 300mm thick will be allowed.
+2 Box out the existing drainage and draw pit cover
+3 Concrete the 80mm thick concrete blinding by backhoe
+4 Apply Car park marking
+
+8. Safety (Risk Assessments)
+
+Risk Assessment attached in Appendix A has been prepared for all general activities. Specific safety procedures and precautions have been developed for all site operatives to follow. The Construction Manager together with the RSO will supervise the implementation and make adjustments according to the actual site operations, in order to maintain a safe and amicable working environment.
+
+Environmental (Environmental aspect & impact identification as well as mitigation measures)
+
+General works shall be carried out during normal hours form 08:00 am to 07:00 pm. No works will be carried out after 07:00 pm on Sunday or public holiday without approval construction noise permit.
+- ULSD diesel will be used in all PME.
+- Plant with QPME label will be employed, if available.
+- All chemicals will be placed on drip tray.
+- For site clearance, water spray will be carried out during the work to prevent dust generation.
+- Wastewater treatment and discharge will be installed on site. The details shall refer to the separate Method statement which will be submitted separately.
+Smoke Arrangement
+- All workers should possess the qualification Railway Safety training (RSI), and can only smoke at the smoking area that demarcated by CSHK.
+Layout Plan for Container Site Office at W7
+
+Quality Control (Inspection and Test Plan including hold points)
+
+For Installation of Water Filled Barrier at W3 and W7
+- Quality check for the water-filled barrier once it delivered to site
+- Checking the water-level of water-filled barrier every day
+
+This document is controlled in soft copy. Any hard copies seen are uncontrolled unless Page 14 of 22
+
+11. Appendices (Identify and include additional information in the submission package)
+
+Appendix A - Risk Assessment
+Appendix B- Catalogue for Equipment
+Appendix C- Layout Plan
+Appendix D - Lifting Plan
+Appendix E - Emergency Contact List
+Appendix F - Inspection and Test Plan (N/A)
+
+中國建築工程（香港）有限公司 This document is controlled in soft copy.
+
+CHINA STATE CONSTRUCTION ENGINEERING (HONG KONG) LIMITED Any hard copies seen are uncontrolled unless Page 15 of 22
+
+chopped with a red control stamp

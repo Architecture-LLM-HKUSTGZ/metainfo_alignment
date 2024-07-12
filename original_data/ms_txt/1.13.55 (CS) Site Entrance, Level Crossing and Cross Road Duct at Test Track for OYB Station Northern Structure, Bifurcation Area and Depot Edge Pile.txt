@@ -1,0 +1,281 @@
+MS Reference Number: CSHK CET MS C 2024 000
+
+ACC Reference Number: 1701 W 000 CSC 760 000473
+
+
+METHOD STATEMENT TITLE: Rev.0
+
+Site Entrance, Level Crossing and Cross Road Duct at Test Track for OYBStation Northern Structure, Bifurcation Area and Depot Edge Pile
+
+
+Prepared by: Checked by: Reviewed by: Reviewed by:
+
+Signature: 8 司
+
+Name: Nana Chung Vincent Li Leung Kwok Fung/HuiWai Kwan MH Isa /WH Lam
+
+Position: AssistantConstructionManager ConstructionManager SM/SO QM/QE
+
+Date: 2315124 2315124 2315124 2315124
+
+Reviewed by: Reviewed by: Reviewed by: Approved by:
+
+Signature: q a beung u. eee 3~teng
+
+Name: James Ma/IrisHo Yeung Wai Lun Paul Freeman/MarkMcGleenon Eric Fong
+
+Position: EM/EO A.Project Director Sr.Project Director/A. Project Director Project Director
+
+Date: 23/5/24 2315124 24 15/24 24/5/24
+
+
+中國建築工程（香港）有限公司CHINA STATE CONSTRUCTION ENGINEERING (HONG KONG LIMITED This document is controlled in soft copy.Any hard copies seen are uncontrolled unless Page 1 of 34chopped with a red control stamp
+
+Document Title: 1701 - MS of Site Entrance and Level Crossing
+
+Document Revision:
+
+Deadline:
+
+
+Item Section Reference Comment Contractor's Response
+
+1 SHD Dev. 1. IntroductionFigure 1.3 The height of access gate should align with the test track fencing for depot security propose and test track safety. Barbed wire should be installed at the top of access gate. Noted. The height of access gate is align with the test track fencing.
+
+2 SHD Dev. 1. IntroductionFigure 1.4 – Layout Plan for Gate 6, 7 and A According to BUGN2023/21, "the access gates are located 200m East of Signal SHD57 and 200m West of signal SHD009 unless agreed otherwise."From the layout plan of MS, Gate A is within West of signal SHD009. Please relocate this gate. Noted. The updated gate A location are located 200m west of signal SH009.
+
+3 SHD Dev. 7.2.1 Erect the water filled barrier with top panel at proposed Gate 6, Gate 7 and Gate AFigure 7.2.1 While the work involves removal of existing test track fencing, water filled barrier cannot serve as a proper measures to prevent unauthorized track access . Please propose another method to demarcate worksite. For reference, 1732 installed temporary test track gate when removal of test track fencing is required. Noted. We will erect the temporary chain link fence instead of water filled barrier when removal of test trackfencing.
+
+45 SHD Dev.SHD Dev. 7.2.2 Remove the existing facilities at test track for install level crossingGeneral Existing trackside equipment should NOT be removed or relocated. Please provide the details of test track access gate locking mechanism. Noted. The level crossing will not affect the existing trackside equipment, Noted. Please refer to the update MS.
+
+6 7 SHD Dev. SHD-Dev. General 2.Details of Sub-Contractor/Specialist Sub-Contractor Since vehicles may cross test track during night time, please ensure that sufficient lighting and road marking is provided to ensure road safety CP(T)/ CCTVs/ Smart Initiatives/ Lookoutman/ Height Gauges are required for managing the Test Track Access Gates. BUGN Requirements"CP(T) will be positioned at each access gate to manage the access control and operate the gate manually along with possession of the gate key. Permissions need to be granted via phone calls from YMs before the opening of the access gates. In addition to the CP(T), CCTV systems should be deployed at all gates, to provide real time monitoring of traffic conditions by YMs. Vehicles and workers crossing the test track will be led by CP(T) and lookoutman. Further, height gauge will be installed at each access gate, and the height of vehicles using the access gates is to be checked by the CP(T). Permitted vehicles must be driven through the track crossings at a speed of not over 10kph.Additional provisions of CCTVs at level crossings will be available in the Depot DCC to ensure the continuous monitoring of traffic conditions in real time. Further, some smart (I&T) initiatives will be explored for the prevention of CP(T) human errors intraffic management at all crossings." Noted. The lighting, road marking and traffic controller will be provided.Noted. CCTV will be installed at each access gate and level crossing for real time monitoring.
+
+8 SHD-Dev. 7.1 Prior to commence theworks A site survey should also be conducted to ensure the planned locations for newly added strail level crossings would have cause any impacts on existing test track equipment, especially signalling equipment. Proper protections to the identified test track equipment near the crossing shall be protected (with MTR agreed protections). Noted. The initial survey record will be submitted separately.
+
+9 SHD-Dev. 7.2.2 Remove the existing facilities at test track for install level crossing As discussed in the RP meeting on 1 Mar 2024, kindly list out all the affected MTR facilities at test track and conduct a separately meeting with all Stakeholders for discussing the way for dealing with the equipment.Pls don’t remove any MTR equipment without any agreements with MTR. Noted. The location of access gate and level crossing is revised. The access gate and level crossing will not affect the existing trackside equipment.
+
+10 SHD-Dev. 7.2.5 Construct the level crossing on test track Unlike mainline tracks, traffics at test track are even more heavier at NTH than NPH.Further, the tracks are often booked by other MTR Stakeholders for train testing at NPH. The best time slot for having construction works at test track is: Sat 10:00 to 16:00 or Weekdays 17:00 to 20:00.Kindly discuss with SHD Depot and agree the work schedule prior to work commencement. Noted. We will discuss with SHD Depot and agree the work schedule prior to work commencement.
+
+11 SHD-Dev. General The newly installed strail level crossing systems at test track shall not have any impacts on regular MTR rail temping works.1701 shall be fully responsible for the regular maintenance of all the newly installed equipment, especially height gauges and strail level crossing systems. Kindly amend the document to include the propose maintenance regime for theequipment into document for comments. Noted. The level crossing system at test track shall not have any impacts on regular MTR rail temping works. We will carry out regular monitoring and maintenance of all the newly installed  equipment.
+
+1213 IMD P-Way SHD GeneralGeneral Please clarify whether there are 3 new level crossings for Gate 6, Gate 7 and Gate A respectively and their length.Furthermore, as these level crossings are for construction vehicle use, 1701 should be responsible for their inspection and maintenance, and finally dismantling.The design, while checking by CWBU project team, should also be vetted by T&ES-PWE team in an EDOC, in addition to structural gauge checking. To protect the OHL equipment, a height gauge of the OYB worksite is recommended. Noted. The legnth of each level crossing please refer to the updated MS.Three level crossings are for construction vehicle use, we will carry out regular inspection and maintenance.Noted. The 3.8m height gauge will be installed at each access gate to protect the OHL equipment.
+
+14 15 SHD SHD General General Please advise any partition or barrier between each workfronts. If no solid partition, it is suggested reducing the number of level crossing across the depot test track. Please share the protection between OYB worksite and the mainlines. This method station couldn't show the prevention of intrusion, unauthorised track access. It could lead to fatal consequence. The works area is about 1.2km, the number of level crossing can not reduce.We will provide CP(T) on site, and WPIC will be assigned to supervise the construction works at each work site / each work front. WPIC will provide pre work briefing to the worker, that the work area for Level crossing and access gate is within Test Track area.
+
+
+CONTENT
+
+1. Introduction
+
+2. Reference Documents
+
+3. Details of Sub-Contractor/Specialist Sub-Contractor
+
+4. Responsibilities for Activities described within Method Statement
+
+5. Programme and Working Hours
+
+6. Resource, Plant, Equipment & Material
+
+7. Traffic and Security Management
+
+8. Construction Methods / Construction Sequence
+
+9. Safety
+
+10. Environmental
+
+11. Quality Control
+
+12. Appendices
+
+This document is controlled in soft copy.
+
+Any hard copies seen are uncontrolled unless Page 2 of 34
+
+chopped with a red control stamp 
+
+1. Introduction (Overview of the operation/works)
+
+The work area for OYB Station Northern Structure, the 2 to 4 bifurcation for TCL Down Track and the depot edge piles along grid line ‘R’ are inside the depot area, located between the Mainline and the Test Track. New access gates will be provided to access the works area (Gate TT06, Gate TT07 and Gate TT0A) from the existing depot south road. At each access gate, a temporary diversion of the existing watermain and installation of the level crossings across the Test Track are required to access the construction area. Figures 1.1 and 1.2 show the existing condition of the work areas. In order to supply water, power and concrete to discharge waste water back to the south road, temporary cross road ducts will be installed within the top ballast of the test track at each access gate.
+
+The construction area between the Test Track and the Mainline is very narrow (8.5m to 12m wide), therefore once piling work commences, internal access through the works area will be constrained requiring the use of the level crossings together with a well-planned sequence of piling works to be adopted.
+
+The works area will initially be fenced off with water filled barriers followed by a temporary railway protection fence. Controlled ingress & egress at each access gate is required to prevent unauthorized entrance onto the Test Track and Main Line area. The method statement for the installation of the water filled barrier / railway protection fence will be submitted separately.
+
+This document is controlled in soft copy.
+
+Any hard copies seen are uncontrolled unless Page 3 of 34
+
+chopped with a red control stamp 
+
+Figure 1.2 – Existing Condition of South Road
+
+In order to protect the existing railway infrastructure of the Test Tack, such as the track and OHL mast/wire, a temporary 3.8m height gauge will be installed at each site entrance together with the level crossings.
+
+Figure 1.3 shows the arrangement for the temporary height gauge, access gate and level crossing at each site entrance. Figure 1.4 shows the location of Gates TT06, TT07 and TT0A; the access gates are located at least 200m East of Signal SHD57 and at least 200m West of signal SHD009, the level crossings will not affect the existing trackside equipment.
+
+
+This document is controlled in soft copy.
+
+Any hard copies seen are uncontrolled unless Page 4 of 34
+
+chopped with a red control stamp 
+
+South RoadFigure 1.4 – Layout Plan for Gate TT06, TT07 and TT0AThe “innoSTRAIL” Level crossing is designed to a max. train speed of 160 Km/h and allows for 55 tons wheel load which is suitable for all the plant to be used accessing the work area. Once installed, the level crossings will be inspected and maintained weekly. 
+
+Reference Documents (Identify relevant documents by name and reference number)
+
+(Library) Working Paper No.6 – Railway ProtectionApproved EDOC (pending) for level crossing, height gauge installation Approved BUGN (pending) for height gauge installation, if requiredThe supplier for level crossing is innoSTRAIL, please refer to ACC no. 1701-W-000-CSC-770-000079for the material submission for the level crossing.
+
+Details of Sub-Contractor/Specialist Sub-Contractor
+
+The works will be carried out by our subcontractor (pending award) and supervised by our front-line staff such as foreman and engineer. A full time CP(T) (Railway Safety Rules and Requirements) will be provided on site with 1 CP(T) appointed for every 20 workers at the same work area and at each work front. All workers shall possess the Railway Safety Training (RSI) qualification. In addition, a WPIC will be assigned to supervise the construction works at each work site / each work front.
+
+Responsibilities for Activities described within Method Statement
+
+CSHK is responsible to supervise, inspect and carry out the construction works. The following persons, as liste in the table below, will attend the specific tool-box talk and be responsible for the activities:
+
+Company Name Position
+
+CSHK Vincent Li Construction Manager
+
+Nana Chung Assistant Construction Manager
+
+Lewis Ng Assistant Section Agent
+
+David Lam Senior Engineer
+
+Johnson Chung Senior Engineer
+
+Sam Tsang Engineer
+
+Edmond Man Engineer
+
+Li Wenguang Engineer
+
+Kinsley Zhao Assistant Engineer
+
+Li Man Hin Graduate Engineer
+
+Cheung Siu Kei Superintendent (WPIC)
+
+Benny Yeung General Foreman
+
+Ng Tsz Chung Senior Foreman
+
+Jacky To Foreman
+
+TBC CP(T)
+
+Plant / Equipment Quantity
+
+Crane Lorry 1
+
+Backhoe with Breaker (~3 ton) 1
+
+Manpower Quantity
+
+General Labour 6
+
+Driver 1
+
+Rigger 2
+
+This document is controlled in soft copy.
+
+Any hard copies seen are uncontrolled unless Page 6 of 34
+
+chopped with a red control stamp 
+
+Operator 1
+
+Plumber 2
+
+For Installation of Height Gauge, Access Gate
+
+Plant / Equipment Quantity
+
+Crane Lorry 1
+
+Manpower Quantity
+
+General Labour 6
+
+Driver 1
+
+Rigger 2
+
+For Level Crossing
+
+Plant / Equipment / Workfront Quantity
+
+Crane Lorry 1
+
+Forklift 1
+
+Manpower Quantity
+
+Skilled Labour 6
+
+Driver 1
+
+Rigger 2
+
+Operator 1
+
+For Crane Lorry and Lifting Gear
+
+- Maximum lifting load shall be <80% of SWL of the crane lorry
+
+- The weight of the lifting gear must be counted as part of the lifting load
+
+- For any lifting operation by crane lorry, the crane lorry outriggers must be fully extended/ in accordance with working catalogue of the crane lorry, and the unsafe zone fenced off
+
+- All plant and equipment will be inspected prior to mobilization on site to ensure they are in good working condition and comply with all current regulations. All statutory forms/certificates for Lifting Appliances (LA) and Lifting Gear (LG) must be valid 
+
+- Subject to good working condition, CSHK will arrange mobilization to site
+
+- Subject to good working condition, CSHK will submit the permit to lift (for crane lorry, grab lorry lifting gear) and plant permit (for backhoe/forklift).
+
+This document is controlled in soft copy.
+
+Any hard copies seen are uncontrolled unless Page 7 of 34
+
+chopped with a red control stamp 
+
+Traffic and Security Management
+
+Contractor Vehicle ArrangementAccess to the site shall be as follows:• Access to W2: From July 2024, access to W2 will be from the east gate and the steel vehicle bridge as shown in Figure 7.1.Figure 7.1 Access to W2 After May 2024CCTVs will be installed at each entrance gates to monitor workers/construction vehicles in and out.CPT will be deployed to control in and out during the construction of entrance gates and the level crossings. C-smart locks will be installed for the entrance gates.Worker Verification− All workers will be picked up at a designated collection point such as Tung Chung Station.− During boarding of the shuttle bus, hand-held facial recognition will be performed to verify the worker's qualification. − The facial recognition system will check if the person has passed the RSI and possesses a green card. − A list of workers shall be submitted to MTR for registration before starting of works. The list shall be updated weekly and available for MTR as requested.Uniform and Safety Equipment: All workers shall wear PPE and the standard uniform and safety helmet for easy recognition by the security guards and YM.Gate ArrangementDuring site clearance and construction of the RP Fence, access to the work area will be via the existing gates EAG4, EAG5 and proposed gates TT06, TT07 and TT0A. All the gates will be closed and locked when not in use. The key will be provided to the Depot DCC/IMD for proposed gates TT06, TT07 and TT0A.
+
+This document is controlled in soft copy.
+
+Any hard copies seen are uncontrolled unless Page 8 of 34
+
+chopped with a red control stamp 
+
+Construction Methods / Construction Sequence Drawings
+
+8.0 Location, Usage Time of Access Gate and Level Crossing at TT06, TT07 and TT0A
+
+The location and usage time for the proposed access gates and level crossings is shown in the table below. CSHK plan to use these access gates and level crossings from June 2024 to July 2025. Gate TT06 will be maintained for use by IMD to carry out their railway infrastructure work until Dec 2029.Detail condition survey has been conducted to ensure there is no trackside equipment/facilities around the proposed entrance gates and level crossing need to relocation. There are only two signalling sensors near proposed level crossing near entrance gate TT06 were found close to the proposed level crossing. They are about 250mm from the level proposed level crossing and it has been discussed and the distance are confirmed acceptable to the signalling team.
+
+During the west test track closure period, 1701 will reduce the usage of level crossing at TT06 by using access from west test track side.
+
+The location and 12m swept path for the gate and level crossing at TT06 is shown in Figures 8-1 to 8-2.
+
+Figure 8-2 12m swept path for Gate TT06
+
+The location for the gate and level crossing at TT07 is shown in Figure 8-3.
+
+This document is controlled in soft copy.
+
+Any hard copies seen are uncontrolled unless Page 10 of 34
+
+chopped with a red control stamp 
+
+The location for the gate and level crossing at TT0A is shown in Figure 8-4.
+
+Figure 8-4 Location of Gate TT0A
+
+8.1 Prior to commencing the works- CSHK will provide information of works planned to MTR CWBU Inspector, in order to submit work notice to SOC/DCC every Friday.- ETMS track access shall be booked & approved with approved by the depot YM prior to commencement.- A topographic survey will be completed in advance to identify the location of all existing structures, fixtures,equipment, manholesetc. Suitable protection measures will be agreed with MTR and provided- All workers/CSHK staff shall possess the qualification Railway Safety Induction (RSI).- All workers/CSHK staff can only smoke at the designated smoking area.- The approved method statement and

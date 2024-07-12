@@ -1,0 +1,207 @@
+CSF Reference Number:
+- CSHK
+- CET
+- CSF
+- C
+- 2024
+- 000172
+
+ACC Reference Number:
+- 1701
+- W
+- 000
+- CSC
+- 143
+- 000610
+
+EDOC for Site Entrance and Level Crossing at Test Track for OYB Station Northern Structure, Bifurcation Area and Depot Edge Pile
+
+Description:
+
+Refer to HAZOP Meeting, dated on 29 May 2024, enclosed herewith the EDOC Application for Site Entrance and Level Crossing at Test Track for OYB Station Northern Structure,Bifurcation Area and Depot Edge Pile, and relative Hazard Log and presentation materials for your review.
+
+Revision Table:
+
+- Revision: A1
+  - Date: 31/05/2024
+  - Prepared by: 3
+  - Checked by: 
+  - Reviewed by: LL Teuny, 4
+  - Approved by: FE~fong
+  - Name: Nana Chung, Vincent Li, Yeung Wai Lun, Paul Freeman, Eric Fong
+  - Position: A.ConstructionManager, ConstructionManager, A. Project Director, Sr. Project Director, Project Director
+
+Engineering Document for Works
+
+Part A
+
+Engineering Works No: ZCV20380
+
+Change History:
+
+- Issue/Rev.: 1/0
+  - Reason for Change: First Formal Issue
+  - Date: 03/06/2024
+
+Part B
+
+1. F1 No. N/A
+2. C&R Works No. N/A
+3. Baseline Programme: Please refer to attached Appendix A
+
+Design, Installation, Testing & Commissioning, Completion, Associated Actions
+
+- SHD PropertyDevelopment Contract 1701 –Oyster Bay Station and Associated Works
+  - Design: July 2024
+  - Installation: N/A
+  - Testing & Commissioning: September 2024(tentatively)
+  - Completion: N/A
+
+Description of Works:
+
+4.1 Title: Contract 1701 – Site Entrance and Level Crossing at Test Track for OYB Station Northern Structure, Bifurcation Area and Depot Edge Pile
+
+4.2 Reason: The structure and foundation works for the bifurcation and OYB Northern Station Structure are located in between the existing test track and mainline. In order to provide the man and vehicle access to the island site in Area W2, entrance gates shall be formed at existing railway protection fence of test track, and temporary level crossing will be proposed to install at the existing Test Track.
+
+4.3 Description: A. General - 1701 Contractor will carry out the works for the temporary entrance and level crossing installation as per correlated latest version of the approved Method Statement for Site Entrance, Level Crossing and Cross Road Duct at Test Track for OYB Station Northern Structure, Bifurcation Area and Depot Edge Pile under ACC Ref No. 1701-W-000-CSC-760-000473.Precaution measures for various potential risks/ situation have been reviewed and summarized in the hazard log referring to Appendix B.
+
+B. Working Time - Test Track: 3 night time (Friday^Saturday, Saturday^Sunday and one on weekday) per week or NPH ( 11:00 to 15 :00 ) subject to Depot Schedule;
+
+C. Preparation Work - Setting Out, Existing water supply and utility diversion, Cable Detection, Trial Pit, Utility Diversion/ Abandoned Works, Pre-construction survey, Instrumentation and Monitoring
+
+D. Installation Procedure - Describes steps including utility diversion, installation of gates, and concrete ramps.
+
+E. Maintenance Regime - Lists guidelines for construction material storage, daily removal of unnecessary construction materials, coordination for structure gauge check, and regular maintenance checks.
+
+4.4 Application: Entrance gate and level crossing installation at the test track shall be carried during NTH or NPH agreed with DYM
+
+4.5 Category: N/A
+
+4.6 In-house/Contract: CONTRACT 1701
+
+4.7 Estimated Cost: Under SHD Property Development Contract 1701 – Oyster Bay Station and Associated Works
+
+4.8 Nature: Trial project carried out by HKTS Business Unit and costing $4.5M or above
+
+Name and Title of Responsible Parties:
+
+- Design Manager / Chief Construction Manager: CHONG Daniel Hing PongChief Design Manager –OYB
+- Project Controller / Project Manager: KOO Raymond Kai OnChief Construction Manager – OYB Civil
+- Implementer / Senior Construction Manager: KOO Raymond Kai OnChief Construction Manager – OYB Civil
+- Maintainer / Asset Owner: KOO Raymond Kai OnChief Construction Manager – OYB Civil
+
+Implication on Safety:
+
+- Affecting / modifying on Safety Critical System(s)ii: No
+- Confirming ISA Requirement for SCS Related Change Assessment Formiii: No
+- Modifying on PSD/APG/MGF/Floodgate: No
+- Confirming ISR Requirement for Safety Related System Related Change Assessment Formvis: No
+- Mitigation of R1 / R2 Hazards: Yes
+- Affecting Signal Sighting: No
+- Affecting maintenance or operational requirements: No
+- Submission of a paper to SAFTECvi: No
+
+Implication on Fire Safety:
+
+- Storage of flammable and dangerous materials are prohibited.
+- Fire extinguisher shall be provided at site container offices.
+- Risk assessment for safety and fire hazard.
+
+Deployment of Licensed Staff on Safety Critical / Safety Related Work:
+
+- Compliance with the Corporation’s railway safety rules and procedures.
+- CP(T) or CP(NT) deployed on site for protection and supervision.
+
+Implication on Operating Procedures:
+
+- No implication on operating procedures.
+
+Statutory Submissions:
+
+- Are there any statutory submissions: No
+
+Design Capacity / Design Limitviii:
+
+- All permanent design works are designed to MTR NWDSM, M&W specification and GS, the related code of practice and HK regulations.
+
+Electromagnetic Compatibility:
+
+- No impact on the electromagnetic compatibility.
+
+Implementation, Inspection, Testing or Commissioning Instruction:
+
+- Documentation approval before Commencement of Works
+- After Documentation approval for construction
+
+Design Standards / Manuals / Procedures / References:
+
+- Works to be designed and constructed to comply with the latest requirement of Contract 1701 Scope of Work, MTR New Work Design Standard Manual (NWDSM), MTR Operation Division Safety Requirement and Information for Contractors, Operation Division Railway Safety Rule, Approved method statement.
+
+Environmental Management:
+
+- The Contract shall follow all requirements and conditions set on Environmental Permit issued by EPD.
+
+Configuration Management:
+
+- N/A
+
+Application to New Extension Projects:
+
+- N/A
+
+Other Concerns / Instructions:
+
+- Prior to site construction, the Contractor shall conduct site survey, route verification and measurement.
+
+Impact of the works:
+
+- Operations Manuals / Procedures: N/A
+- Maintenance Manuals / Procedures / Work Instructions/ Schedules: N/A
+- Spare parts catalogues and stock levels: N/A
+- Interfaced Systems: N/A
+- Drawings, and schematic and wiring diagram: N/A
+- Training for staff: N/A
+- Registration of new assetsix: N/A
+- Any other related matters: N/A
+
+Incoming Goods Inspection (IGI) Requirements:
+
+- The contractor will be responsible for the inspection of all material prior to the installation on site.
+
+FMECA:
+
+- The engineering works do not involve the mentioned items.
+
+Concept of Design (ConDes):
+
+- No, justification provided.
+
+Safety Impact of Trackside Equipment Installation – SG Infringement:
+
+- Gauging and clearance assessment: No
+- Clearance requirement compiled: No
+- Trackside installation of fixed equipment with potential hazardxii of Structure Gauge (SG) infringement: No
+
+New / Modified Trackside Installation in EAL:
+
+- Is earth/equipotential bond required: No
+
+Approval List for Works Requiring EDOC Approval:
+
+- Responsibilities, Name & Title, Signature, Date
+
+Engineering Drawings affected by this Engineering Work:
+
+- Drawing Title, Drawing No.
+
+Summary of Comment Sheet(Engineering Works No. : ZCV20xxx ):
+
+- EDOC Clause No., Commented by (and Date), Comments, Action
+
+Appendices:
+
+- Appendix A-Programme
+- Appendix B-Hazard Log
+- Appendix C-Drawing
+- Appendix D-Method Statement (extract section 8)
+- Appendix E-Presentation Materials

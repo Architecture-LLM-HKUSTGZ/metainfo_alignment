@@ -1,0 +1,60 @@
+MS Reference Number: CSHK CET MS C 2024 000088
+
+ACC Reference Number: 1701 W 000 CSC 760 000431
+
+METHOD STATEMENT TITLE: Site Clearance and RP Fencing Installation at W2 including OYB NorthernStation Structure, Bifurcation Area and Depot Edge Pile
+
+Prepared by: Nana Chung
+Checked by: Vincent Li
+Reviewed by: Leung Kwok Fung /HuiWai Kwan
+Reviewed by: MH Isa/WH Lam
+Date: 3-May-2024
+
+Reviewed by: James Ma/IrisHo
+Reviewed by: Yeung Wai Lun
+Reviewed by: Paul Freeman/MarkMcGleenon
+Approved by: Eric Fong
+Date: 06 05/2024
+
+Document Title: 1701 - MS of Site Clearance and RP Fencing Installation for OYB Station, Bifurcation Area and Depot Edge Pile
+
+General items still to be addressed and acceptance is subject to these:
+1) Detail alignment design against constraints (existing troughs, brackets, OHL, ground conditions, drains)
+2) Survey and protection/diversion of existing equipment
+3) Design&installation of crossing platform
+4) Agreement on the level crossings and gates
+5) Temp platform design
+6) Lifting plans, controls and any required BUGN
+7) Management of surface water after u-channel removal and the extent of removal.
+8) Please agree and clearly list out which works are subject to EDOC (or BUGN), such that certain works can commence prior.
+9) RP attached comment on the MS, items:
+10) Earthing system details
+11) Lifting Arrangement
+12) Insulation mat shall be provided and installed at RP Fence at OHL Level
+
+1. Introduction
+2. Reference Documents
+3. Details of Sub-Contractor/Specialist Sub-Contractor
+4. Responsibilities for Activities described within Method Statement
+5. Programme and Working Hours
+6. Plant, Equipment & Material
+7. Traffic and Security Management
+8. Construction Methods / Construction Sequence
+9. Safety
+10. Environmental
+11. Quality Control
+12. Appendices
+
+This document is controlled in soft copy. Any hard copies seen are uncontrolled unless chopped with a red control stamp
+
+Prior to the commencement of piling works, station/depot structures and the new track bifurcation Works, a 4.5m or 7m high Railway Protection (RP) fence shall be installed to protect the existing railway infrastructure from the adjacent construction Works.
+
+This method statement describes the general method and sequence of site clearance and RP fence installation at Works Area W2 within the depot area, located between the mainline and test track,from GLA1 to GL120 as shown in Figure 1.1. The method statement for the site clearance and RP fence installation at OYB south shall be submitted separately.
+
+Supplementary method statements shall be submitted separately to tackle any condition encountered on site that requires a specific RP fence detail to be developed. The detailed protection fence setting out plan or installation details will be provided under separate submission. As the works will be carried in the Operation Areas, EDOCs will be required to be submitted. The lifting plan and protection measures to the existing OA equipment/utilities shall be submitted separately after detailed site inspections and surveys have been completed.
+
+All UU diversions along the mainline and test track as shown in Figure 1.2 below (such as signalling equipment, cable trough, cable draw pit, etc..) shall be completed by the designated contractors before commencement of the site clearance and RP fence installation. UU detection will be conducted after site clearance to verify if any uncharted UU is found. The method statement for UU detection is under separate submission.
+
+Traffic and Security Management: Contractor Vehicle Arrangement Access to the site shall be as follows: Access to W2: Up to May 2024, access to the site will be via the west gate and west level crossing as shown in Figure 7.1. Before May 2024 South Road West Level Crossing West Gate Figure 7.1 Access to W2 before May 2024 From June 2024, access to W2 will be from the east gate and the steel vehicle bridge as shown in Figure 7.2. South Road After May 2024 Temp Steel Bridge East Gate Figure 7.2 Access to W2 After May 2024 The procedure to access the site from West gate and West level crossing is as follows: - Pre-registration of the vehicle number plate and driver information will be provided to the Security Operation Centre (SOC) to obtain the entry permit through the west gate. - Contractor Vehicle shall display the entry permit, a label with the wordings '1701 contractor vehicle' and location plan, and the destination on the windscreen. - CSHK will report the total number of workers 'In/Out' Records to SOC Daily. - Pre-registered vehicles shall not carry unauthorized/unregistered passengers. 
+
+Before entering the west gate, the CSHK CP(T) will measure the height of vehicle to ensure the height is within 4m. After entering the west gate, the Contractor Vehicle will be accompanied by the escort vehicle with CP(T). No vehicle over 4m high and below 4.5m high is allowed unless a Permit-to-Move is issued by CWBU to DCC for approval. Vehicle height measurements/ checks shall be conducted by CP(T)s before entering depot areas and passing through the west level crossing. When accessing the west level crossing, the escort car of the CP(T) shall communicate with DCC in order to get permission to drive across the level crossing. The CP(T) shall inform DYM when vehicles are passing through the yellow line underneath the height restriction gauge, and within the double white zone. No vehicle Reversing is allowed. Permitted vehicles must be driven through level crossings at a speed of not more than 10kph. All vehicles, except shuttle buses for staff and workers, shall not enter from the West gate between 7:30am to 8:30am in order to minimize traffic congestion. Details of the traffic and security management plan are provided under separate submission. All security guards shall have RSI training. Worker Verification All workers will be picked up at designated collection points such as Tung Chung Station. During boarding of the shuttle bus, hand-held facial recognition will be performed to verify the worker's qualification. The facial recognition system will check if the person has passed the RSI and possesses a green card. A list of workers shall be submitted to MTR for registration before the starting of works. The list shall be updated weekly and available for MTR as requested. Uniform and Safety Equipment: All workers shall wear PPE and the standard uniform and safety helmet for easy recognition by the security guards and YM. Gate Arrangement During site clearance and construction of the RP Fence, access to the work area will be via the existing gates EAG4, EAG5, and proposed gate TT06, TT07, and TT0A. All the gates will be closed and locked when not in use. The key will be provided to the Depot DCC/IMD for proposed gates TT06, TT07, and TT0A.

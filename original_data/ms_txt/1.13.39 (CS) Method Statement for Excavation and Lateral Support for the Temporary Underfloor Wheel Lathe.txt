@@ -1,0 +1,220 @@
+MS Reference Number: CSHK CET MS C 2024 000128
+
+ACC Reference Number: 1701 W 000 CSC 760 000292
+
+METHOD STATEMENT TITLE: Rev.B
+
+Method Statement for Excavation and Lateral Support for the Temporary Underfloor Wheel Lathe
+
+Prepared by: Andy Lo (Engineer)  
+Checked by: Ted Leung (Construction Manager)  
+Reviewed by: Leung Kwok FungNong Ho Lun. (SM/SO) and MH Isa/SHSH Cheung (QM/AQM)  
+Reviewed by: Ma Kit CheongJames/ris-Ho (EM/EO), Yeung Wai Lun (A. Project Director), Paul Freeman/MarkMcGleenon (Sr.Project Director/A. Project Director), Approved by: Eric Fong (Project Director)  
+Date: 26.6.24
+
+CONTENT
+
+1. Introduction
+
+2. Reference Documents
+
+3. Details of Sub-Contractor/Specialist Sub-Contractor
+
+4. Responsibilities for Activities described within Method Statement
+
+5. Programme and Working Hours
+
+6. Plant, Equipment & Material
+
+7. Construction Methods / Construction Sequence
+
+8. Safety
+
+9. Environmental
+
+10. Quality Control
+
+11. Appendices
+
+This document is controlled in soft copy. Any hard copies seen are uncontrolled unless Page 2 of 36chopped with a red control stamp
+
+1. Introduction (Overview of the operation/works)
+
+This method statement describes the proposed construction method and sequence of the construction method for excavation and lateral support for the Temporary Underfloor Wheel Lathe. The workmanship shall comply with the working drawing and general and particular specifications in Section 2.0.+6.000TYPE TYPE 2 WALL5.50 3000 2875 3000 3000 2875 3000SOP0188882MP0OEC05/402 2+1,645M一Aa151LD BuT03/502 03/502C+6,000O0Mr20P1E-가SOP05 2500 1.30001,2875 3000 3000 2875TYPE 1 WALLΦ+6,000(05/40) EXISTING -LINE TRACKSEXISTING OVERHEAD LINE 5MAST (FOUNDING-LEVELAPPROX +4.375mPD) (FORFigure 1.1: Location of ELS at Temporary Underfloor Wheel Lathe and Existingfacilities in BIM Model
+
+CHINA STATE CONSTRUCTION ENGINEERING (HONG KONG) LIMITED Any hard copies seen are uncontrolled unless Page 3 of 36
+chopped with a red control stamp
+
+Reference Documents (Identify relevant documents by name and reference number)
+
+⚫ General Specification for Civil Engineering Works (NEC4) (MTR Corporation Limited -2022)  
+⚫ Contract 1701 working drawings  
+⚫ Approved drawings of Excavation and Lateral Support for the Temporary Underfloor
+
+Details of Sub-Contractor/Specialist Sub-Contractor
+
+Ming Suen Construction Company Limited is the sub-contractor for this construction work. This contractor is responsible for excavation and lateral support (stage 2) for the Temporary Underfloor Wheel Lathe.
+
+Responsibilities for Activities described within Method Statement
+
+CSHK is responsible to inspect and carry out the construction works. The following persons, as listed in the table below, will attend the specific tool-box talk and be responsible for the activities:
+
+Company: China State Construction Engineering (Hong Kong) Limited  
+Names and Positions: Ted Leung (Construction Manager), Johnson Fung (Deputy Construction Manager), Li Yuk Wa (Assistant Construction Manager), Jack Wong (Engineer), Andy Lo (Engineer), Kyle Lai (Graduate Engineer), Cheung Siu Kei (Superintendent), Kong Tze Ho (General Foreman), Wong Yu Fung (Senior Foreman), Ming Suen Construction Company Limited: Chengeng (Construction Manager), Szekwokying (Superintendent), Zhanxiaobin (Foreman), Wanhowkai (Foreman)
+
+Programme and Working Hours
+
+The works are scheduled to commence in late May 2024. The general working hours will be from 08:00 – 19:00 daily, from Monday to Saturday. However, it may be required to carry out works from 19:00 to 23:00 and Sunday and Public Holidays if Noise Permit is obtained.
+
+This document is controlled in soft copy. Any hard copies seen are uncontrolled unless Page 5 of 36
+
+Plant, Equipment & Material
+
+All plants and equipment will be inspected prior to the mobilization on site to ensure that they are in good working condition and comply with the current regulations. The major plants and equipment that will be deployed to carry out the works are approximately as follows, which is subject to site condition:
+
+- Crawler crane, 55 tonnage, or equivalent: 1
+- 45 – 55 ton crane lorry (with EN12999 qualification), or equivalent: 1
+- Excavator, 3 to 30 tonnage or equivalent: 2
+- Generator: 2
+- Welding Machine: 2
+- Concrete Pump Truck: 1
+- Dump Truck: 4
+- Concrete Truck: 4
+- Sump Pump: 2
+- Concrete Handled Poker: 1
+
+Manpower:
+
+- CP(T) or CP(NT): 2
+- Rigger: 4
+- Banksman: 1
+- Plant Operator: 2
+- Concretor: 4
+- Welder: 4
+- Skilled workers: 4
+- Dump truck driver: 4
+- Concrete truck driver: 4
+
+This document is controlled in soft copy. Any hard copies seen are uncontrolled unless Page 6 of 36
+
+Construction Methods/Construction Sequence Drawings
+
+General Information of the Existing Facilities near TUFWL ELS② 5.29 5.32 5.33 521User 5.21 5.275.433 5.695.1952 AS3 50 SASSHD2.99 5.64 5.715.896.26 5.90 5.60 5.805.99 5.511.54 5.795.633739 5.57 6.02TRNC1.013.97 인E3.97 ⑱%164.98 5.54 3.97 3.164.99 $5 . 6 9$1.08E -TS 5.70 EXIS JING-FENCING1.70 SS田 5.70 ONT WACHNE5.70 3625.98 1.023.53 토기 CINT BOX XISTING TUFWUFWL TRACK5.70 5.56 수回5.70 2.9657 5.953.70 5.90 6.093.57 5.95 6.05 3.21 TRAOK日 1.215.98 6.203.97 58L CONAHNE5.96 PONTE0.00 5.83 EXISTINGWESTDEPCA6.010R 1023 -383 ENTRY TRACK 6.226.02
+
+Figure 7.0.1: Plan of ELS at Temporary Underfloor Wheel Lathe and the existing facilities nearby
+
+7.1 Fencing and site clearance (Referring to the approved method statement, Installation of Water Filled Barrier at W3 and W7 Erection of Container and Site Office at W7 Site Clearance at W3 (ACC Reference Number:1701/W/000/CSC/000053)).
+
+7.2 Utilities detection and Ground Penetrating Radar (GPR) survey (Referring to the approved Method Statement for General Underground Utility Survey for Construction Area (ACC Reference Number: 1701/W/000/CSC/760/000095)).
+
+No trial pit or trial trench is required for this method statement as there are no any underground utilities based on Utilities detection and Ground Penetrating Radar (GPR) survey report.
+
+Underground Utilities Diversion is not required as there are no any underground utilities based on Utilities detection and Ground Penetrating Radar (GPR) survey report.
+
+Figure 7.4.1: Underground Utilities around Temporary Underfloor Wheel Lathe
+
+Setting up instrumentation monitoring plan and taking initial readings as per the working drawings 1701–W–SHD–OAP–C06–051 and 1701–W–SHD–OAP–C06–052 attached in Appendix I. (Referring to the method statement for setting up instrumentation monitoring will be under a separate submission, which is Method Statement for Instrumentation and Monitoring Works at Operations Area (OA) (ACC Reference Number 1701/W/000/CSC/760/000122) and Method Statement for Instrumentation and Monitoring Works at Construction Area (CA) (ACC Reference Number 1701/W/000/CSC/760/000138))
+
+AAA Levels will be used for the monitoring works in drawings no. C1701/B/SHD/OAPMC06/011, Geotechnical Instrumentation and Monitoring General Notes (AB22T) (For non–railway structures), and C1701/B/SHD/OAPMC06/012, Geotechnical Instrumentation and Monitoring General Notes (AB22T) (For railway structures). Monitoring
+
+Pre-work Protection
+
+This document is controlled in soft copy. Any hard copies seen are uncontrolled unless Page 8 of 36
+
+The lifting procedure will be suspended when there is a train passing through the existing TUFWL trackwork. Our WPIC will inform the plant operator once MTR informs our site supervision staff or WPIC.
+
+All lifting works with crawler crane will be placed on the location which is at least around 25 meters away from the OHL post under the supervision of CP(T) or WPIC on site, so as to minimise the effect on OHL Post or consequence of any accident of lifting works. The detailed lifting plan is attached in Appendix D.
+
+Installation of Sheet Piles (Referring to Method Statement for Installation of Sheet Piles for the Temporary Underfloor Wheel Lathe (ACC Reference No.1701/W/000/CSC/760/000155).
+
+Construction Works of Excavation and Lateral Support (ELS) for Temporary Underfloor Wheel Lathe
+
+Step 1. After completion of the sheet pile, installation of the first layer of the wailing bracket by welding method at +6.850mPD.
+
+Figure 7.9.1: Typical waling and bracket details
+
+The weight of the brackets is approximately 11kg each, which requires a crawler crane to lift and hold the walings in the position for welding.
+
+The weight of the walings is approximately 0.9 tonnage each, which requires a crawler crane to lift and hold the walings in the position for welding. There will be a splice joint for the connection of steel members if the length of the waling is longer than 12 meters. If any waling cannot be installed properly, additional concrete will be poured to fill the gap between the sheet pile and the railing.
+
+The weight of the struts is approximately 0.9 tonnage each, which requires a crawler crane to lift and hold the walings in the position for welding. There will have splice joint for the connection of steel members if the length of the waling is longer than 12 meters.
+
+All the lifting works will be supervised under lifting supervisors, and the materials shall be placed in a safe condition before the commencement of welding works.
+
+Figure 7.9.2: Installation of first layer waling and struts
+
+Step 2. Once the Temporary Works Coordinator has issued the Permit to Load, further excavation works can be carried out. A 3-tonnage excavator will be lifted by a crawler crane to the Excavation and Lateral Support area. Another excavator will be used to remove the soil from the Excavation and Lateral Support area to the dump trucks in ground level. For the soil from excavation works, it will be removed to disposal works out of the site immediately without any stockpiling works. If we need any temporary stockpile, a temporary stockpile location within the Construction Area is provided.
+
+Excavate to 500mm below for the second shoring layer, which is around +2.700mPD. If required, excavation works shall be inspected by a CP once a week and the CP shall complete the statutory form (Form 4).
+
+A 3” submersible pump will be provided for the dewatering purpose. If the dewatering process is slow, an additional submersible pump or larger submersible pumps will be provided.
+
+A temporary access staircase or temporary access tower will be provided and the exact location shall be determined on site. The access will be relocated from time to time subject to the site works.
+
+Step 3. Install the second shoring layer at +3.200mPD
+
+Figure 7.9.4: Typical waling and bracket details
+
+The weight of the brackets is approximately 11kg, and the workers will hold the brackets in the position for welding.
+
+The weight of the walings are approximately 1.6 tonnage each, which requires crawler crane to lift and hold the walings in the position for welding. There will be splice joint for the connection of steel members if the length of the waling is longer than 12 meters. If any waling cannot be installed properly, additional concrete will be poured to fill the gap between the sheet pile and the railing.
+
+The weight of the struts are approximately 1.9 tonnage each, which requires crawler crane to lift and hold the walings in the position for welding. There will have splice joint for the connection of steel members if the length of the waling is longer than 12 meters.
+
+All the lifting works will be supervised under lifting supervisors, and the materials shall be placed in a safe condition before the commencement of welding works.
+
+Figure 7.9.5: Installation of second layer waling and shoring
+
+Step 4. Once the Temporary Works Coordinator has issued the Permit to Load, further excavation works can be carried out.
+
+Excavate to the final excavation level to +1.645mPD and -0.32mPD carefully as per the latest ELS drawing. If required, excavation works shall be inspected by a CP once a week and the CP shall complete the statutory form (Form 4). The excavation works shall take only to its required level and do not have extra excavation to affect the existing ground condition.
+
+A 3” submersible pump will be provided for the dewatering purpose. If the dewatering process is slow, an additional submersible pump or larger submersible pumps will be provided.
+
+Figure 7.9.6: Excavation to the F.E.L. of TUFWL
+
+Step 5. Construct a 75mm thick blinding layer. with the use of a crane lorry, to deliver the concrete from ground level to the blinding layer.
+
+Figure 7.9.7: Section view of blinding layer (red colour)
+
+7.10 Access during excavation: access staircase,
+
+This document is controlled in soft copy. Any hard copies seen are uncontrolled unless Page 14 of 36
+
+Access after excavation: access tower
+
+The access will be relocated from time to time, subject to the site condition.+6.000Location of AccessTYPE 1 WALL TYPE12 WALL3000 2875483000 3000 2875 3000 2500 SOP02SOP01 25000W18000$3 0 m$0m$0 . 3 2$0TP000E-0TS2H39./M$+ 1 . 6 4 5$wA00LBA0rS5530L+15.99000000ISSPE5.51W6.34AW1LLSOP03SOP05 SOP04$2 5 0 0 1 3 0 0 0$ 2875 $3 0 0 0$$- 1$ 3000 $2 8 7 5$ 3000 935TYPE 1 WALL
+
+Figure 7.10.1: Location Plan showing the Temporary Access from the ground level to the base slab
+
+Figure 7.10.2: Sample of access staircases
+
+Safety (Risk Assessments)
+
+1 For workers on site within 10m zone adjacent to the OHL post or trackwork, those workers shall obtain RSI before works, and supervised by CP(T).
+2 All workers shall attend a site-specific induction course conducted by the Safety Department. The Safety Officer shall explain the necessary safety requirements and the Site Agent/Foreman/ Engineer in charge of the work shall explain the system of work to his supervisors and workers.
+3 All workers shall be equipped with reflective vests and safety helmets during operation. All workers must go through a briefing by the Site Agent/ Safety Officer/ Safety Supervisor before commencement of any works. All workers on site shall obtain an approved "Mandatory Basic Safety Training Certificate".
+4 A pre-meeting will be arranged before commencement of the work among Foreman/Site Agent, MTR’s representatives and Safety Department to brief the nature of works, the safety aspects and the requirements laid down in the Safety Plan. Besides, Temporary Works Management Plan, Hot Work Permit and Permit to Load will be introduced and implemented in this construction works.
+5 Safety helmets fitted with chin straps must be worn within the site, safety boots, hearing protectors (if needed), high visibility jackets/ sashes, reflective vests, goggles, gloves and full body harnesses for work at height will be provided to all staff working on site. Warning signs and barriers will be erected where necessary.
+6 Any emergency situation shall be reported to CSHK’s site supervisors (i.e. Site Agent/ Foreman/ Engineer, etc.) and Safety Department for prompt response. The emergency contact list is shown in Appendix C.
+The risk for the works shall be assessed and the Risk Assessment Analysis is shown in Appendix A.
+
+This document is controlled in soft copy.
+
+Any hard copies seen are uncontrolled unless Page 16 of 36
+chopped with a red control stamp
+
+Environmental (Environmental aspect & impact identification as well as mitigation measures)
+
+⚫ General work should be carried out during normal working hours (07:00 am to 07:00 pm). No works using PME will be carried out after 07:00 pm on Sunday and public holiday without valid construction noise permit.
+⚫ ULSD diesel will be used in all PME.
+⚫ Plant with QPME label will be employ, if available.
+⚫ All chemicals will be placed on drip try.
+⚫ For excavated materials, water spray will be carried out during the work to prevent dust generation.
+⚫ All regulated NRMM should display a NRMM label.
+⚫ Wastewater will discharge to designed discharge point via the wetsep.
+⚫ The works shall follow relevant mitigation measures as required under the Environmental Permit (EP) / EP submissions and Contractor's Environmental Management Plan (EMP)
+
+Quality Control (Inspection and Test Plan including hold points)
+
+Refer to Appendix B for Inspection and Test Plan.To ensure the attainment of the required standard of works, the methods of working and the required works standards / acceptance criteria are defined in the method statement, inspection & test plans, and are communicated to relevant staff and workers carrying out the works. Day to day routine inspections of the works will be carried out by the

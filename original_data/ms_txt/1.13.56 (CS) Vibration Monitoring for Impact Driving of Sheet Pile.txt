@@ -1,0 +1,131 @@
+MS Reference Number: CSHK CET MS C 2024 000102
+
+ACC Reference Number: 1701 W 000 CSC 760 000486
+
+
+METHOD STATEMENT TITLE: Vibration Monitoring for Impact Driving of Sheet Pile
+
+Prepared by: Lau Ming Jun, Engineer, 20/05/2024
+
+Checked by: 
+
+Reviewed by: -Leung Kwok-Fung/Hui Wai Kwan, SM/SO, 22/05/2024
+
+Reviewed by: MH IsaAWH Lam, QM/QE, 22105/2024
+
+Reviewed by: James Ma/lris Ho, EM/EO, 22/05/24
+
+Reviewed by: Yeung Wai Lun, A. Project Director, 22105/2024
+
+Reviewed by: Paul Freeman/Mark McGleenon, -Sr.Project Director/A. Project Director, 2410512024
+
+Approved by: Eric Fong, Project Director, 24/5/24
+
+
+CONTENT
+
+1. Introduction
+
+2. Reference Documents
+
+3. Details of Sub-Contractor/Specialist Sub-Contractor
+
+4. Responsibilities for Activities described within Method Statement
+
+5. Programme and Working Hours
+
+6. Plant, Equipment & Material
+
+7. Construction Methods/Construction Sequence
+
+8. Safety
+
+9. Environmental
+
+10. Quality Control
+
+11. Appendices
+
+This document is controlled in soft copy. Any hard copies seen are uncontrolled unless chopped with a red control stamp Page 2of 12
+
+
+1. Introduction and Objective: The objective of this method statement is to study the ground vibrations induced by vibration sheet pile driving due to wave propagation in soil, and the minimum distance required to achieve the acceptable vibration peak particle velocity value for nearby railway structure, track, overhead powerline mast, and telecommunication furniture. The work shall be carried out within the declared Construction Area (CA), therefore no EDOCs will be required. This document shall be distributed to relevant parties to introduce the work scopes, to present the sequence of works and to define the associated responsibilities to ensure the health, safety, environment and quality issues addressed. The details of the procedures contained herewith shall be reviewed periodically and updated based on the actual site conditions. The principle methods as described in the following sections are subject to review during construction and may be amended if required. Layout Plan of W3A
+
+2. Reference Documents: - General Specification for Civil Engineering Works - Materials and Workmanship Specification for Civil Engineering Works
+
+3. Details of Sub-Contractor/Specialist Sub-Contractor: The works shall be carried out by a specialist contractor and supervised by CSHK’s foreman and engineer.
+
+
+Preparation
+
+1. Prior to work commencement, CSHK shall provide information to MTR Inspector in order to submit work notice to SOC/DCC every Friday.
+
+2. If existing MTR equipment/material are found nearby during condition survey, they shall be fenced off and protected. This action shall be recorded and liaised with MTR. Site formation and site clearance shall be carried out as per separate method statement submitted.
+
+3. Underground utilities detection shall be conducted by a competent person (CP) to ensure driving position is clear of underground utilities as per separate method statement submitted.
+
+
+General Access
+
+We shall utilize West Gate to deliver equipment and material to W3A. During mobilization from West Gate, an escort vehicle with CP(T) would be deployed to escort the construction vehicles. A CP(T) would be stationed at the West Gate to check the vehicular height and direct the traffic and communicate with the yard master continuously as per traffic management plan submitted. With reference to plant/equipment catalogues included in Appendix C, the maximum height of excavator on a low bed trailer is exactly 4 meters, therefore no Permit-to-Move is required. The power pack/generator for the hydraulic vibratory hammer shall be mobilized using a crane flatbed lorry.
+
+
+West Side of Depot
+
+Work Sequence
+
+1. Work area within CA shall be fenced off by plastic barrier and firefighting equipment shall be provided.
+
+2. Sheet pile driving position shall be marked as origin and markers laid on ground in both X and Y directions for 10 metres in 1 metre intervals from marked origin (refer to Diagram A). These markers shall serve as the test points for vibration monitoring. Each direction shall have a total of 10 test points.
+
+3. The triaxial geophones shall be placed on a temporary concrete base for all test points along X and Y direction. The triaxial geophones shall then be connected to a vibration monitor unit.
+
+4. Once setup of vibration monitoring equipment for all 20 test points are completed, sheet pile driving work shall commence. Piling work shall be conducted using excavator mounted hydraulic vibratory hammer. All site personnel shall maintain a safe distance from pile driving work. The data collected shall be recorded and interpreted into vibration peak particle velocity value.
+
+5. After the sheet pile is fully driven into the ground, it shall be withdrawn completely. This reverse action shall also be recorded and interpreted to obtain its vibration effects.
+
+6. The recorded data shall be produced and presented in a report and submitted to MTR for review.
+
+
+Safety
+
+Risk Assessment attached in Appendix A has been prepared for all general activities. Specific safety procedures and precautions have been developed for all site operatives to follow. The Construction Team Leader together with the RSO, will supervise the implementation and make adjustments according to the actual site operations, in order to maintain a safe and amicable working environment.
+
+
+Environmental
+
+1. General works shall be carried out during normal working hours from 08:00 to 19:00. No works shall be carried out after 19:00 on normal working days, Sunday, and/or Public Holidays without a valid construction noise permit (CNP).
+
+2. ULSD diesel shall be used in all PMEs.
+
+3. Plants with QPME label shall be employed, if available.
+
+4. Only regulated NRMM with approved NRMM label shall be used.
+
+5. All chemicals will be placed on drip trays.
+
+6. For site clearance, water spray will be carried out during the work to prevent dust generation.
+
+7. Wastewater will be treated prior to discharge.
+
+8. The works shall follow relevant mitigation measures as required under the Environmental Permit (EP)/EP submission and Contractor's Environmental Management Plan (EMP).
+
+
+Quality Control
+
+Refer to Appendix B for Inspection and Test Plan.
+
+
+Appendices
+
+Appendix A - Risk Assessment
+
+Appendix B -Inspection and Test Plan (ITP)
+
+Appendix C- Catalogue for Plant/Equipment
+
+Appendix D- Layout Plan
+
+Appendix E - Emergency Contact List
+
+CHINA STATE CONSTRUCTION ENGINEERING (HONG KONG) LIMITED This document is controlled in soft copy. Any hard copies seen are uncontrolled unless chopped with a red control stamp Page 7 of 12

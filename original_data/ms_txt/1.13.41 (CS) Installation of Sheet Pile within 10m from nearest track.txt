@@ -1,0 +1,255 @@
+MS Reference Number: CSHK CET MS C 2024 000086
+
+ACC Reference Number: 1701 W 000 CSC 760 000411
+
+METHOD STATEMENT TITLE: Installation of Sheet Pile within 10m from nearest track
+Rev.-
+
+Prepared by: Sam Tsang
+Checked by: Vincent Li
+Reviewed by: Leung Kwok Fung/Hui Wai Kwan
+Reviewed by: MH Isa/WHLam
+Reviewed by: James Ma/Iris Ho
+Reviewed by: Yeung Wai Lun
+Reviewed by: Paul Freeman/Mark McGleenon
+Approved by: Eric Fong
+Position: Engineer, Construction Manager, SM/SO, QM/QE, EM/EO, A.Project Director, Sr.Project Director/A.Project Director, Project Director
+Date: 26 APR 2024, 261APR/2024, 26.APR.2024, 26/04/24, 27 Apr 2024, 03 MAT 2024, 03 Mar 2124
+
+CONTENT
+
+1. Introduction
+2. Reference Documents
+3. Details of Sub-Contractor/Specialist Sub-Contractor
+4. Responsibilities for Activities described within Method Statement
+5. Programme and Working Hours
+6. Plant, Equipment & Material
+7. Traffic and Security Management
+8. Construction Methods / Construction Sequence
+9. Safety
+10. Environmental
+11. Quality Control
+12. Appendices
+
+This document is controlled in soft copy.
+
+Any hard copies seen are uncontrolled unless Page 2 of 33
+
+chopped with a red control stamp
+
+Introduction (Overview of the operation/works)
+Following the mobilisation of predrilling works at the Bifurcation and Oyster Bay (OYB) Station (Southern platform), sheet pile installation for ELS Packages 1A to 1C and Oyster Bay Station (Southern platform) will commence. This method statement describes the method, sequence and logistic arrangement required for sheet pile construction and any precautionary measures necessary when working within 10m from the nearest rail of the Mainline, test track and depot track. Sheet pile installation may only commence after the completion of RP fencing, I&M installation (with initial readings taken and agreed), predrilling and UU diversion. These activities are subject to separate method statements which have been submitted separately. Any lifting work necessary shall be included in a detailed Lifting Plan which shall be submitted separately prior to starting the works. The detail of the procedures and methods contained herewith shall be reviewed periodically and updated where necessary based on the actual site condition. The principle methods as described in the following sections are subject to review during construction and may be amended if required.
+
+Reference Documents (Identify relevant documents by name and reference number)
+- (Library) Working Paper No.6 – Railway Protection
+- General Specification for Civil Engineering Works (NEC4) (MTR Corporation Limited - 2022)
+- Scope for Contract 1701
+- Approved BUGN and pending BUGN for General Lifting Works.
+
+Details of Sub-Contractor/Specialist Sub-Contractor
+The works will be carried out by our subcontractor and supervised by our front-line staff such as foreman and engineer. We will also provide full time CP(T) (Railway Safety Rules and Requirements) on site with 1 CP(T) appointed for 20 workers at the same work area. All persons shall be RSI trained as the works area is within 10m from the existing rail. Access to the work site will be via the site entrance from the depot slip similar to that used by Advanced Works Contract 1731. A CP(T) shall be provided for supervision of all works less than 10m from the existing rail. In addition, a WPIC will be assigned to supervise the construction works at each work site.
+
+Responsibilities for Activities described within Method Statement
+CSHK is responsible to inspect, supervise and carry out the construction works as listed in the table below, will attend the specific tool-box talk and be responsible for the activities:
+Company: CSHK
+Names: Vincent Li, Nana Chung, Lewis Ng, David Lam, Johnson Chung, Sam Tsang, Edmond Man, Li Weng Guang, Kingsley Zhao, Li Man Hin, Leung Kwok Fung, Hui Wai Kwan, Cheung Siu Kei, Benny Yeung, Jacky To, TBC
+Positions: Construction Manager, Assistant Construction Manager, Assistant Section Agent, Senior Engineer, Engineer, Safety Manager, Assistant Safety Officer, Superintendent (WPIC), General Foreman, Foreman, CP(T)
+
+This document is controlled in soft copy.
+
+Any hard copies seen are uncontrolled unless Page 3 of 33
+
+chopped with a red control stamp
+
+Programme and Working Hours (Start & finish date of operation/works)
+The works are planned to commence from late June 2024 and be completed by June 2025 in accordance with schedule of declared Construction Areas (CA). For sheet pile installation from Gridline (G.L.) A1 to 40 within Area W2, this may only commence after the removal of the existing test track and OHL equipment including wire and masts. The location of the sheet piles is shown in Figures 5.1 to 5.5. the height of all construction vehicles shall be restricted to no higher than 4m by the temporary height gauge constructed under a separate method statement submission. Northern work area at SHD Depot (Area W2, W3, W11 & W12) Access will be via the existing emergency gate 4 (EAG 4) and 5 (EAG 5) or the temporary level crossing to be installed on the test track (at proposed Gate TT06, Gate TT07 and Gate TT0A, the method statement for the level crossing installation will be submitted separately). As the RP fencing will have been completed, all work areas will have been declared as CA and the working hours shall be 08:00 to 19:00 from Monday to Saturday. It may be necessary to carry out works from 19:00 to 23:00 on Sunday and Public Holidays if essential speeding up of the working progress is required. CSHK will check internally to fulfill the Construction Noise Permit Requirement. To access work area W2 it will be necessary for the backhoe / piling rig to pass across the test track and lift materials over the test track from South Road. CSHK will carry out these activities during NPH, tentatively 11:00 am to 3:00 pm, subject to the PA works approval. For any lifting over the OHL, an approved BUGN for General Lifting works shall be issued by MTR in advance. Southern work area near Depot Access Road and Shun Long Road (Area W1) Access to the work area will be via the existing Depot Access Road. The works will be carried out from 08:00 – 19:00 on Monday to Saturday after completion of the RP fencing installation. It may be necessary to carry out works from 19:00 to 23:00 on Sunday and Public Holidays in case of essential speeding up of the working progress. CSHK will check internally to fulfill the Construction Noise Permit Requirement. Figure 5.1 Sheet Pile Layout Plan – G.L. A1-6/P-Q (Top) and G.L. 6-19/P-Q (Bottom)
+
+This document is controlled in soft copy.
+
+Any hard copies seen are uncontrolled unless Page 5 of 33
+
+chopped with a red control stamp
+
+Figure 5.4 Sheet Pile Layout Plan – G.L. 85-97/P-Q (Top) and G.L. 95-109/P-Q (Bottom)
+
+This document is controlled in soft copy.
+
+Any hard copies seen are uncontrolled unless Page 6 of 33
+
+chopped with a red control stamp
+
+Figure 5.6 ELS – OYB Southern Structure Layout Plan G.L. S4-S15/SE-SF (Top) and G.L. S15-S26/SE-SF (Bottom)
+
+Plant, Equipment & Material (Identify type, model and specification of MAJOR plant & equipment)
+All plant and equipment will be inspected by a Registered Professional Engineer prior to mobilization on site to ensure they are in good working condition and comply with all current regulations. A plant permit system will be adopted to ensure the condition of the lifting crane and appliances are checked before use. To meet the programme requirement, 3 workfronts will be arranged at OYB South and 6 workfronts for the North of the bifurcation. The major plant and equipment deployed to carry out the works are as follows :
+- Southern work area near Depot Access Road and Shun Long Road (Area W1, W1A and W1B) - 3 nos. Workfront
+Plant / Equipment: Backhoe, Mobile Crane/Crane Lorry, Silent piler
+Quantity: 3
+
+Manpower: General Labour, Driver, Rigger, Operator, Banksman, Fire Marshall / WPIC
+Quantity: 15, 3, 6, 3, 3, 3
+
+This document is controlled in soft copy.
+
+Any hard copies seen are uncontrolled unless Page 7 of 33
+
+chopped with a red control stamp
+
+Northern work area at SHD Depot (Area W2A1, W2B, W2A2, W2A3) - 6 nos. Workfront
+Plant / Equipment: Backhoe (Northern work area at SHD Depot), Mobile Crane (Northern work area at SHD Depot), Silent piler
+Quantity: 6
+
+Manpower: General Labour, Driver, Rigger, Operator, Banksman, Fire Marshall / WPIC
+Quantity: 40, 6, 12, 6, 3, 3
+
+Lifting Arrangement
+No part of the mobile crane/crane lorry will work beyond the water filled barrier or RP fence and the maximum lifting load shall be <80% of the SWL.
+
+The ground condition shall be checked to ensure firm and level ground in advance of the arrival of the lifting equipment to site by the WPIC / banksman. The outrigger positions will be marked and the ground shall be thoroughly checked to ensure sufficient load bearing capacity at the working location to support the crane. A visual inspection and utility detection will be carried out to ensure that the mobile crane/crane lorry is not bearing onto any underground services. If this cannot be avoided, the utility will be protected by means of steel plates or spreader mats designed to safeguard against any damage. The weight of the lifting gear must be counted as part of the lifting load.
+
+For all lifting operations, the mobile crane / crane lorry outriggers must be fully extended and the unsafe zone fenced off.
+
+This document is controlled in soft copy.
+
+Any hard copies seen are uncontrolled unless Page 8 of 33
+
+chopped with a red control stamp
+
+Access to the site shall be as follows: Contractor Vehicle Arrangement
+- Access to the OYB southern station structure and associated bifurcation works will be via the site entrance at the Depot Access Road and Shun Long Road as shown in Figure 7.1.
+- Access to the Northern Work site in the existing depot area will be from the East gate and the temporary steel vehicle bridge as shown in Figure 7.2.
+
+Figure 7.2 Access to Northern work area via East Gate after August 2024
+
+Worker Verification
+- All workers will be bored shuttle buses from a designated area such as Tung Chung Station.
+- During boarding of the shuttle bus, hand-held facial recognition will be performed to verify the worker's qualification.
+- The facial recognition system will check if the person has passed the RSI and possesses a green card.
+- A list of workers shall be submitted to MTR for registration before starting of works. The list shall be updated weekly and available for MTR as requested.
+
+Uniform and Safety Equipment: All workers shall wear PPE with standard uniform and safety helmet for easy recognition by the security guards and YM.
+
+Figure 7.3 Worker Verification information
+
+Gate Arrangement
+During construction, access to the work areas will be via the existing Gate EAG4, EAG5 and Proposed Gate TT06, TT07 and TT0A. All the gates will be closed and locked by our C-SMART security system outside of NPH and we will provide the key to the Depot DCC/IMD for the proposed gates TT06, TT07 and TT0A.
+
+This document is controlled in soft copy.
+
+Any hard copies seen are uncontrolled unless Page 10 of 33
+
+chopped with a red control stamp
+
+This document is controlled in soft copy.
+
+Any hard copies seen are uncontrolled unless Page 11 of 33
+
+chopped with a red control stamp
+
+This document is controlled in soft copy.
+
+Any hard copies seen are uncontrolled unless Page 12 of 33
+
+chopped with a red control stamp
+
+Figure 7.5 Travelling across level crossing Gate TT06 & TT07
+
+Figure 7.6 Dimension of Silent Piler (SA75, SA100, SW100 and SW150)
+
+Construction Methods / Construction Sequence Drawings
+All required I&M shall be installed, initial readings taken and agreed and submitted to the Building Authority. After the completion of the RP fencing, the works areas shall be declared as a Construction Area before installation of Sheet Piles commences. 8.1.1 Location of OYB Station Southern Structure The sheet pile work at the South Area includes OYB Station Southern Structure (GL’s S4 to S26 with mini-pile works and TCL Down track 2 to 4 bifurcation OHL portals (GL’s A1 to S2 and S31 to S61) with pre-bored socketed-H piles and the related pile cap construction works. The location of the works is at W1, W1A and W1B near Depot Access Road and Shun Long Road as shown in Figure 8.1.1-1 and Appendix D.
+
+This document is controlled in soft copy.
+
+Any hard copies seen are uncontrolled unless Page 13 of 33
+
+chopped with a red control stamp
+
+Figure 8.1.1-1 Location of the Proposed OYB Station Southern Structure
+
+Workfront and Construction Sequence
+All sheet pile installation works will be carried out from 08:00-19:00 on Monday to Saturday after the Construction Area has been declared after completion of the RP fencing.
+
+4 workfronts starting from GLS14 and GLS15 and working east and west respectively towards the site entrances will be arranged for the site clearance works at the South Area as shown in Figure 8.1.1-2.
+
+Figure 8.1.1-2- 4 Workfront arrangement for South Area
+
+This document is controlled in soft copy.
+
+Any hard copies seen are uncontrolled unless Page 14 of 33
+
+chopped with a red control stamp
+
+8.1.2 Location of Northern Area for Sheet Pile Works
+The North Area includes OYB Station Northern Structure and the 2 to 4 bifurcation for the TCL down track. It is located within the depot area at work area W2 which is sandwiched between the mainline and the test track from GLA1 to GL120 as shown in Figure 8.1.2-1.
+
+Figure 8.1.2-1 Location Plan for North Area include OYB Station Northern Structure, 2 to 4 Bifurcation for TCL Down Track and Depot Edge Pile at Gridline A1 to 100
+
+This document is controlled in soft copy.
+
+Any hard copies seen are uncontrolled unless Page 15 of 33
+
+chopped with a red control stamp
+
+Figure 8.1.2-1A Location Plan for North Area include OYB Station Northern Structure, 2 to 4
+
+Bifurcation for TCL Down Track and Depot Edge Pile at Gridline 60 to 120
+
+Workfront and Construction Sequence
+
+Working Time for North Area
+
+Item: Works
+1: Installation of Sheet Pile
+*: Backhoe/piling rig pass across the test track
+*: Material lifting over the test track (GL45 to GL120)
+
+The sheet pile work shall commence within TH (08:00 - 19:00) and be extended with an approved CNP if required as described in Section 5.
+
+For the movement of the Backhoe or piling rig across the test track during NPH (11:00-15:00) approved PA works shall be obtained from the Depot in advance. For material lifting over the Test Track, the work may only be carried out during the Mainline NTH (02:00-04:00) with an approved EDOC under separate submission.
+
+The sheet pile works will be divided into 6 work fronts in peak time as shown in the Figure 8.1.2-2 below.
+
+Workfront 1 Workfront 2 Workfront 3 Workfront 4 Workfront 5 Workfront 6
+
+Figure 8.1.2-2-6 Workfront will be arranged for North Area
+
+During the initial stage, workers and material access/delivery to the works areas will be via existing
+
+gates no 4 or 5 across the test track. Material delivery will be primarily by manual handling under
+
+CHINA STATE CONSTRUCTION ENGINEERING (HONG KONG) LIMITED This document is controlled in soft copy.
+
+Any hard copies seen are uncontrolled unless Page 16 of 33
+
+chopped with a red control stamp
+
+The method statement, design and details of the temporary working platform at W2 for sitting of the silent piler shall be submitted for comment and approval under a separate submission. The sheet piles at GL45 – GL100 shall be installed after completion of the working platform to create a level and stable surface. The current site condition is shown in Figure 8.1.2.4
+
+Figure 8.1.2-4 Existing Ground Condition of Northern Area
+
+Figure 8.1.2.6- Sections at G.L. 40 with Silent piler
+
+Figure 8.1.2.7- Sections at G.L. 60 with Silent piler
+
+This document is controlled in soft copy.
+
+Any hard copies seen are uncontrolled unless Page 19 of 33
+
+chopped with a red control stamp
+
+Figure 8.1.2.8- Sections at G.L. 80 with Silent piler
+
+8.2 Construction Sequence
+
+8.2.1 Setting Out
+
+8.2.1.1 The location for sheet pile installation shall be set out in advance for UU detection and checked to ensure no underground live services and utilities are present. UU detection and inspection is described under a separate method statement submission.
+
+8.2.1.2 Inspection pits shall be excavated by hand to identify any existing underground utility services where required.
+
+8.2.1.3 The piling area shall be prepared as reasonably level and firm for the safe manoeuvring of the sheet piles and heavy plant by on site inspection conducted by the WPIC / Foreman. The adequacy of the ground bearing capacity for the loads imposed by the mobile crane/ crane lorry shall be checked and wooden spreader pads shall be provided as required at each outrigger position before the plant / crane enters the work area. The briefing record given before commencement of lifting work shall considered as the endorsed confirmation record.
+
+8.2.1.4 The setting out points shall be confirmed by the architectural and structural drawings.
+
+8.2.1.5 A pre-work condition record and non-destructive utilities’ service detection by UU competent person of the Cable bridge shall be taken and submitted for future reference prior to comm

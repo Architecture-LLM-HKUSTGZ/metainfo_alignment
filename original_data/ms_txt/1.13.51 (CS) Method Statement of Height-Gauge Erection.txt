@@ -1,0 +1,236 @@
+MS Reference Number: CSHK CET MS C 2024 000108
+
+ACC Reference Number: 1701 W 000 CSC 760 000505
+
+
+METHOD STATEMENT TITLE: Method Statement of Height-Gauge Erection Rev.
+
+
+Preparation and Approval:
+- Prepared by: Edmond MAN
+- Checked by: Vincent Li
+- Reviewed by: Leung-Kwok Fung /HuiWai Kwan, MH Isa /WH Lam-
+- Position: Engineer, Construction Manager, SM/SO, QM/QE
+- Date: 211512024
+- Additional Reviews by: James Ma /Iris Ho, Yeung Wai Lun, Paul Freeman/MarkMcGleenon, Eric Fong
+- Positions: EM/EO, A. Project Director, Sr.Project Director/A. Project Director, Project Director
+- Date: 211512024, 22/5/24
+
+
+CONTENT
+
+1. Objective
+
+2. Reference Documents
+
+3. Details of Sub-Contractor/Specialist Sub-Contractor
+
+4. Responsibilities for Activities described within Method Statement
+
+5. Programme and Working Hours
+
+6. Plant, Equipment & Material
+
+7. Traffic and Security Management
+
+8. Introduction of Height-Gauge (4.5m Height Clearance)
+
+9. Construction Methods / Construction Sequence
+
+10. Safety
+
+11. Environmental
+
+12. Quality Control
+
+13. Appendices
+
+This document is controlled in soft copy. Any hard copies seen are uncontrolled unless chopped with a red control stamp Page 2 of 23
+
+1. There are two existing cable bridges across southern road at upper ground level position. With the development of site works, the capacity of southern road will tend to achieve its maximum value. It is necessary to set up height limitation and draw attention to every south road user no tolerance is allowed. Therefore, we propose a 4.5m clearance height gauge for cable bridge protection. Proposed Height Gauge location Cable Bridge 1Cable Bridge 2 Proposed location: x-axis GL4~5 y-axis SB~SC Reference Documents (Identify relevant documents by name and reference number)
+
+2. Please refer to Appendix C regarding drawing of height gauge typical design
+
+3. Details of Sub-Contractor/Specialist Sub-Contractor
+
+4. Responsibilities for Activities described within Method Statement
+
+CSHK is responsible to inspect and carry out the construction works. The following persons, as listed in the table below, will attend the specific tool-box talk and be responsible for the activities:
+
+Company: CSHK
+- Vincent Li, Construction Manager
+- Nana Chung, Assistant Construction Manager
+- Lewis Ng, Assistant Section Agent
+- David Lam, Senior Engineer
+- Johnson Chung, Senior Engineer
+- Sam Tsang, Engineer
+- Jacky Luo, Engineer
+- Li Wenguang, Engineer
+- Edmond Man, Engineer
+- Kinsley Zhao, Assistant Engineer
+- Li Man Hin, Graduate Engineer
+- Cheung Siu Kei, Superintendent (WPIC)
+- Benny Yeung, General Foreman
+- Jacky To, Foreman
+- Chan Man Hin, Foreman
+- TBC, CP(T)
+
+5. Programme and Working Hours (Start & finish date of operation/works)
+
+The works target is planned to be commenced on June 2024 and spent 1 work day to complete the task. Programme & Working Hour • Daywork; • Working hour: 08:00 ~ 19:00 (Nominal Time) + 19:00~23:00 (Optional) with valid CNP • Target Completion Day: Begin at early June until the end of July 2024 For Site Survey and Site clearance
+
+6. Plant, Equipment & Material (Identify type, model and specification of MAJOR plant & equipment)
+
+All plants and equipment will be inspected prior to the mobilization on site to ensure that they are in good working condition and comply with the current regulations. Plant permit system will be adopted ensure the condition of lifting crane and appliance are checked before use. The major plants and equipment will be deployed to carry out the works are as follow: - Southern road 1 no. Workfront
+
+7. Traffic and Security Management
+
+Logistic Plan A shown above directs a proposed traffic route regarding the transportation of height gauge components from outside to a designated temporary storage area for unloading work.
+
+Crane lorry is guided by a traffic controller to park at a designated location near a temporary storage area. Workers then help set up the crane lorry and fence off the works area for unloading work on the bed. It should be aware that stacks of height gauge components should not exceed 1m high level measured from ground level.
+
+CP(T) is assigned to carry out registration at the main gate of SHW depot and take the crane lorry to a designated location for unloading and set up a fatal zone. Meanwhile, It is forbidden to pass through west leveling crossing without leading by CP(T). A CP(T) is enforced and required to lead and ahead of the vehicle with goods on the bed when going to southern road by west leveling crossing during unloading goods and departure of SHW depot
+
+Main Gate of SHW Depot Route of internal transportation Westin Level Crossing route to Height-Gauge set-up area Works area Temp. storage area Cable bridge 1 Cable bridge 2 Logistic Plan B shown above directs a proposed traffic route regarding internal transportation of height gauge components from the temporary storage area at W11D to the works area as marked up on the location plan Worker Verification All workers will be picked up at designated areas such as Tung Chung Station. During boarding the shuttle bus, hand-held facial recognition will be performed to verify the worker's qualification. The facial recognition system will check if the person has passed the RSI and possesses a green card. The list of workers shall be submitted for MTR for registration before starting work, the list shall be updated weekly and available for MTR as requested. Uniform and Safety Equipment: All workers shall wear PPE and the standard uniform and safety helmet for easy recognition by security guards and YM. The works area is declared as OA area (public road). A person without RSI qualification is not allowed to take part in Height-gauge construction.
+
+This document is controlled in soft copy. Any hard copies seen are uncontrolled unless chopped with a red control stamp Page 7 of 23
+
+Introduction of Height Gauge (4.5m Height Clearance) Isometric View of Height-gauge for typical design
+
+Item No. Size of Height-gauge Type No. Location to use Qty (nos.) Clear Height HC (m) Clear Width WC (m) 1 4.5 8 T1 TT06 1
+
+Table of Height-gauge Steel Member Schedule
+
+Steel member Schedule Legend Type of Steel member Section Property/ Member size Grade Qty (pcs) Weight (T) C1 Column 203x203x60kg/m U.C. (4m Long) S355J0 1 0.24 C2 Column 203x203x60kg/m U.C. (4m Long) S355J0 1 0.24 B1 Main Beam 203x203x60kg/m U.C. (9.2m Long) S355J0 1 0.552 BP1 Base plate 550mm(L)x550mm(W)x20mm(T) S275J0 1 0.04
+
+This document is controlled in soft copy. Any hard copies seen are uncontrolled unless Page 8 of 23
+
+Concrete Block Schedule Legend Material Description Dimension H(m)*W(m)*L(m) Grade Qty (nos.) Weight (T) CB1 Concrete block 1*1*2.4 C30D/20 1 5.76 CB2 Concrete block 1*1*2.4 C30D/20 1 5.76 T12-150 Reinforcement Refer to detailed design drawing 250 N/A N.I.L. T1 Reinforcement Refer to detailed design drawing 250 N/A N.I.L. T2 Reinforcement Refer to detailed design drawing 250 N/A N.I.L. B1 Reinforcement Refer to detailed design drawing 250 N/A N.I.L. B2 Reinforcement Refer to detailed design drawing 250 N/A N.I.L.
+
+9. Construction Methods / Construction Sequence Drawings
+
+Site Survey work Site survey team shall provide setting out information in an expression of paint mark on the ground. There are different kinds of information site construction team should be acknowledged before proceeding with work. 1. Designated location (coordinate information) of concrete block set-up; 2. The distance of relationship between nearby equipment or facility; 3. Orientation of concrete block; 4. Level difference of uneven ground; Material Transportation 5. The materials will be delivered to the site according to the logistic plan; Delivery Sequence in ascending order Concrete block > Steel components > Signboard 6. For any uncharted vehicle or person without RSI certification, registration at the main gate is required and responsible by CP(T); 7. After registration, CP(T) will lead the vehicle to the designated location for material unloading; 8. Unloading area is fenced off by a red barrier as a fatal zone. 9. Set up the crane lorry and make sure the outrigger is fully extended as well as the bearing plate is used; 10. Riggers shall use safe access provided to reach the flatbed for rigging of material; 11. The riggers shall attach tag line (7m~10m long) before getting down on ground level; 12. The crane will lift/unload the materials to the designated location as provided by the survey team before. The crane setup shall be strictly followed the lifting plan to prevent exceed the crane capacity. 13. A designated signalman is required to keep good communication with riggers and operators and monitor the lifting process. Everything should be under control during the lifting process; 14. Repeat the above step until a full set of height-gauge assembly parts are being unloaded on the ground;
+
+Detail view of leading the crane lorry to the designated
+
+Detail view of fence off the Detail view of set up the steel
+
+fatal zone by red barrier pad for crane lorry
+
+Works Arrangement
+
+Stage 1
+
+1. Crane lorry is parked to the designated lifting zone (temp. storage area at W11D) as specific in the lifting plan;
+
+2. Fence off the fatal zone with red barriers and set up crane lorry properly (outriggers shall be under full extension)
+
+3. Rigger attach LALG to the rigging point of the concrete block with a 6m-long tagline;
+
+4. Lift up the concrete block to the flatbed and transport it to the designated location at south road;
+
+5. Crane lorry is parked to the designated lifting zone (south road) as specific in the lifting plan;
+
+6. Fence off the fatal zone with red barriers and set up crane lorry properly (outriggers shall be under full extension) in the second time;
+
+7. Rigger get on lorry crane by a suitable access ladder;
+
+8. Rigger attach LALG to the rigging point of the concrete block with a 6m-long tagline;
+
+9. Rigger get away from the flatbed when it is coming to lift up;
+
+10. After the concrete block turned to the upright position, it will be lifted to the permanent installation position.
+
+11. Lower down the concrete block until it is about 1.5m above the installation position and steady, rigger
+
+This document is controlled in soft copy.
+
+Any hard copies seen are uncontrolled unless chopped with a red control stamp Page 10 of 23
+
+shall then go inside the fatal zone to assist the coming laying process.12.Keep lower down the concrete block steadily upon pre-set position provided by the survey team.13. After the lifting operation is finished and in the stable stage, the worker will check whether the object stays in the right position under tolerance before riggers detach LALG;14. Repeat step 6 to step 12 for another concrete block;Stage 21. Crane lorry is parked to the designated lifting zone (temp. storage area at W11D) as specific in the lifting plan;2. Fence off the fatal zone with red barriers and set up crane lorry properly (outriggers shall be under full extension)3. Rigger attach LALG to the body of the steel post (choker hitch) with a 6m-long tagline;4. Lift up the steel post to the flatbed and transport it to the designated location at south road;5. Crane lorry is parked to the designated lifting zone (south road) as specific in the lifting plan;6. Fence off the fatal zone with red barriers and set up crane lorry properly (outriggers shall be under full extension) in the second time;7. Traffic controller is assigned to direct workers with a full-body safety harness on the aerial working platform inside the fatal zone to assist the coming installation process;8. Rigger get on lorry crane by suitable access ladder;9. Rigger attach LALG to the rigging point of steel post;10.Rigger get away from the flatbed when it is coming to lift up;11. Lift up the steel post directly on the flatbed;12. Tagline shall be used to control the movement of the lifting object;13.Lower down the steel post until it is about 1.5m above the installation position and steady, rigger shall then go inside the fatal zone to assist the coming installation process;14. Keep lower down the steel post until the base plate pass through the bolt and sit on the preset units;15. After the lifting operation is finished and in the stable stage, the worker will check the verticality and alignment of the steel post, and adjust the level of nut and preset units for fine turning if necessary;16. Fix the steel post in position by following the bolt sequence, and tighten all the nuts to designated torque value (M20=165Nm);17. Lifting sling will then be detached by workers on the aerial working platform;18. Repeat step 8 to step 16 until all the height gauge steel posts are installed;Stage 31. Crane lorry is parked to the designated lifting zone (temp. storage area at W11D) as specific in the lifting plan;2. Fence off the fatal zone with red barriers and set up crane lorry properly (outriggers shall be under full extension);3. Rigger attach LALG to the body of the steel beam and signboard (choker hitch) with a 6m-long tagline;4. Lift up steel beam and signboard to the flatbed and transport it to the designated location at south road;5. Crane lorry is parked to the designated lifting zone (south road) as specific in the lifting plan;6.Fence off the fatal zone with red barriers and set up crane lorry properly (outriggers shall be under full extension) in the second time;7. Traffic controller is assigned to direct workers with a full-body safety harness on the aerial working platform inside the fatal zone to assist the coming installation process;
+
+8. Rigger get on lorry crane by suitable access ladder;
+
+9. Rigger attach LALG to the rigging point of the steel beam;
+
+10. Rigger get away from the flatbed when it is coming to lift up;
+
+11. Lift up the steel beam directly on the flatbed;
+
+12. Tagline shall be used to control the movement of the lifting object;
+
+13. Lower down the steel beam slowly, the connection plate of the main beam will then be sat on the connection plate of steel post;
+
+14. Insert and tighten the bolts and nuts to secure the steel beam in position;
+
+15. Fix the steel beam by following the bolt sequence, and tighten all the nuts to designated torque value (M20=100Nm).
+
+16. Lifting sling will then be detached by workers on the aerial working platform.
+
+17. Repeat step 8 to step 16 until all the height gauge steel beam and signboard are installed;
+
+Stage 4
+
+1.Fence off the work area in order to carry out bolt tightening work at height or at ground;
+
+2. Traffic controller is assigned to direct workers with a full-body safety harness on the aerial working platform inside the work area to assist the coming bolt tightening work;
+
+3. Workers use hand tools or cordless power tools (Impact wrench) to securely fasten nuts on the base plate and upper connection plate;
+
+4. Carry out torque test in compliance with COP for The Structural Use of Steel clause 14.4.2.8
+
+Table 14.5 - Recommended tightening torques and approximate bolt tensions for ISO grade 8.8 bolts (Assumes bolts oiled)
+
+Nominal bolt diameter Tightening torque (Nm) Approximate bolt load (KN) M16 55 17 M20 100 25 M22 110 25 M24 120 25 M27 135 25 M30 150 25 M33 165 25 M36 180 25
+
+Entire of south road is inclusive in construction area W11G and W11D where cover both works area for height gauge components loading and unloading work as well as assembly work. We would like to assign a pair of traffic controllers in both ends as traffic supervision during height gauge erection on south road. At least one lane is allowable to open for vehicle access under safety conditions. (e.g. The moment when lifting work is stopped). There is not required to submit TTA scheme under this situation.
+
+Lifting Plan for Installing Height-Gauge components
+
+MODEL: 955/9S (EFFER, ITALY)
+
+BOOM LENGTH: 10m
+
+WORKING RADIUS: 5m @ S.W.L.=19.10T
+
+WEIGHT OF LIFTING OBJECT: 5.76T (Concrete block. Value of weight can refer to slide 7)
+
+WEIGHT OF LA/LG: 0.3T
+
+TOTAL WEIGHT: 5.76+0.3=6.06T
+
+LIFTING CAPACITY: 6.06T/19.10T=31.72% (<80%, LIFTING APPROVAL)
+
+Lifting Plan for Loading Height-Gauge components
+
+MODEL: 955/9S (EFFER, ITALY)
+
+BOOM LENGTH: 10m
+
+WORKING RADIUS: 7m @ S.W.L.=13T
+
+WEIGHT OF LIFTING OBJECT: 5.76T (Concrete block. Value of weight can refer to slide 7)
+
+WEIGHT OF LA/LG: 0.3T
+
+TOTAL WEIGHT: 5.76+0.3=6.06T
+
+LIFTING CAPACITY: 6.06T/13T=46.61% (<80%, LIFTING APPROVAL)
+
+This document is controlled in soft copy.
+
+Any hard copies seen are uncontrolled unless Page 14 of 23
+
+chopped with a red control stamp
+
+Pre-work Notification
+
+Prior to the height-gauge set-up (material transportation and on-site assembly work), site pictures taking is necessary to be carried out for several reasons.
+
+1. Environment investigation can identify potential dangers of the work area in which risk assessment will be more accurate;
+
+2. Protection of existing equipment and facility to avoid any damage during assembly work and component unloading;
+
+3. Ground condition is able to reflect by pictures and decide whether surface treatment is required or not before work.
+
+The definition of overall clearance (4.5m maximum) is a linear measurement from the top of the road level to underneath of Height-gauge. Since the road level is not uniform, our site survey team will counter-check random points we pick on road level and give out raw value of headroom level which does not allow to exceed

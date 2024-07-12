@@ -1,0 +1,299 @@
+MS Reference Number: CSHK CET MS C 2024 000090
+
+ACC Reference Number: 1701 W 000 CSC 760 000439
+
+
+METHOD STATEMENT TITLE: Installation of socket H pile at bifurcation & OHL mast Rev.
+
+
+Prepared by: 3
+Checked by: ←
+Reviewed by: ③
+
+Name: Johnson Chung Vincent Li Leung Kwok Fung/Hui Wai Kwan MH Isa/WH Lam
+
+Position: Sr.Engineer ConstructionManager SM/SO QM/QE
+
+Date: 315/24 315124 315124 315124
+
+Reviewed by: P ue Eeuy u.yeewa f
+
+Name: JaMIris Ho Yeung Wai Lun Paul Freeman/ MarkMcGleenon Eric Fong
+
+Position: EM/EO A.Project Director Sr. Project Director /A. Project Director Project Director
+
+Date: 315 124 315124 24/05/2024 6/5/24
+
+
+CONTENT
+
+1 .Introduction
+
+2 .Reference Documents
+
+3.Details of Sub-Contractor/Specialist Sub-Contractor
+
+4.Responsibilities for Activities described within Method Statement
+
+5 .Programme and Working Hours
+
+6 .Plant, Equipment & Material
+
+7 .Traffic and Security Management
+
+8 .Construction Methods / Construction Sequence
+
+9 .Safety
+
+10 .Environmental
+
+11 .Quality Control
+
+12 .Appendices
+
+This document is controlled in soft copy.
+
+Any hard copies seen are uncontrolled unless Page 2of 27
+
+chopped with a red control stamp
+
+
+1 .Introduction (Overview of the operation/works)
+
+This method statement focuses on the Socket-H piling work at W2 which lies between the test track and TCL/AEL and a tW1 for those socket H pile for OHL mast. EDOC is required and will be submitted on approval of this method Statement. The H pile construction at W12 for Tai Ho Interchange, W6 for SPS construction and H pile near sewage deck will be submitted separately.Prior to the commencement of the piling, method statements associated with the utilities detection, installation of I&M, railway protection fencing installation, level crossing construction, sheet pile installation along bifurcation area and temp platform shall be submitted and approved.This method statement covers the access of labour, plant and material to the works area and the general procedure for socket H pile installation. Furthermore, it includes the specific drilling rig and mobile crane to be adopted and detailed set up on site. It provides the responsible personnel including managers, engineers and workers for executing the construction activities. Lastly, it includes the safety and environment and quality control requirements to ensure the construction is safe and robust. Relevant risk assessments and drawings can be found in the appendix.
+
+2 .Reference Documents (Identify relevant documents by name and reference number)
+
+•Practice Note PNAP -24 •Practice Note RC No.14 •MTRCL-New Works Design Standards Manual -Section 3-Railway Engineering •Hong Kong Transport Services Business Unit Requirements and information for contractor •Hong Kong Transport Services Unit Railway Safety Rules •MTRCL Working Paper No.6-Railway Protection -Revision B-December 2022 •MTRCL Contract 1701 Oyster Bay Station and Associated Works-(S2) Scope-Vol 4 (Book 4 of 9) Appendix AM-Clients Rules and Procedures for Working Within or Adjacent to the Railway •MTRCL Contract 17-1 Oyster Bay Station and Associated Works –Instructions TO Tenders, and •MTRCL Contract 1701 Oyster Bay Station and Associated Works –Contract Data •BUGN2023/21 (Issue/Rev:1.0)
+
+3 .Details of Sub-Contractor/Specialist Sub-Contractor
+
+The works will be carried out by our subcontractor and supervised by our front-line staff such as foreman and engineer. We will also provide the full time CP(T) (Railway Safety Rules and Requirements) on site, 1 CP(T) will be appointed for 20 workers at the same work area. All workers should possess the qualification Railway Safety Training (RSI). Besides, WPIC will be assigned to supervise the construction works at each work site.
+
+
+4 .Responsibilities for Activities described within Method Statement
+
+CSHK is responsible to inspect, supervise and carry out the construction works. The following persons, as listed in the table below, will attend the specific tool-box talk and be responsible for the activities:
+
+Company Name Position
+
+CSHK Vincent Li Construction Manager
+
+Nana Chung Assistant Construction Manager
+
+Lewis Ng Assistant Section Agent
+
+Johnson Chung Senior Engineer
+
+David Lam Senior Engineer
+
+Sam Tsang Engineer
+
+Jacky Luo Engineer
+
+Li Wenguang Engineer
+
+Kinsley Zhao Assistant Engineer
+
+Li Man Hin Graduate Engineer
+
+Benny Yeung General Foreman (WPIC)
+
+Jacky To Foreman
+
+TBC CP(T)
+
+
+5 .Programme and Working Hours (Start & finish date of operation/works)
+
+The works are planned to commence in Aug 2024. The general working hours will be from 08:00 –19:00 daily, from Monday to Saturday. However, as lifting over test track is required it is necessary to carry out works during Non-Traffic Hours which are from 0200 to 0400 subject to the PA works approval. We may also require to work from 19:00 to 23:00 and Sunday and Public Holidays in case of essential speeding up of the working process which will subject to CNP application and approval. Socket H pile for OH Lmast at W1. We plan to access the work area via the existing access through Tai Ho Interchange slip road during 0800-1800.Socket H pile bifurcation at W2 (GL A1 –40). After removal of the test track and RP fencing erection, we plan to access/egress the work area near the emergency gate 4 (EAG 4) and 5 (EAG 5) or the level crossing installed on the test track at proposed Gate TT06. The general working hours would be 0800-1900. Socket H pile bifurcation at W2 (GL 40 –100). We plan to use Gate TT06, Gate TT07 and Gate TT0A or the level crossing on the test track for access to this area. The working hours are subject to further depot coordination.
+
+
+General Working hour Table for W2 (OYB-N & Depot superstructure)
+
+Item Works Activity
+
+1 Labour in-out of works area
+
+2 Plant in-out of works area through level crossing
+
+3 Piling works (Casing drilling, H-beam installation )
+
+4 Grouting
+
+5 Construction materials lifting over the test track (if required )
+
+General Working hour Table for W1 (OHL Mast)
+
+Item Works Activity
+
+1 Labour in-out of works area W 1
+
+2 Plant in-out of works area W 1
+
+3 Piling works (Casing drilling, H-beam installation )
+
+4 Grouting
+
+5 Construction materials delivery through TTA Gate 3
+
+
+6 .Plant, Equipment & Material (Identify type, model and specification of MAJOR plant & equipment)
+
+All plant and equipment will be inspected prior to mobilization on site to ensure they are in good working condition and comply with all current regulations. A plant permit system will be adopted to ensure the condition of the lifting crane and appliance are checked before use.To meet the programme requirement, 3 work fronts will be arranged at OYB South and 6 work fronts will be arranged for OYB North. The major plant and equipment will be deployed to carry out the works are as follow: Southern work area near Depot Access Road and Shun Long Road (3 no. Workfront)
+
+Plant / Equipment Quantity
+
+Drilling Rigs 3
+
+Mobile Crane 3
+
+Crane Lorry 2
+
+Manpower Quantity
+
+General Labour 6
+
+Rigger 10
+
+Rig Operator 3
+
+Crane Operator 5
+
+Northern work area at SHD Depot at W2 (6 no. Workfronts)
+
+Plant / Equipment Quantity
+
+Drilling Rigs 6
+
+Mobile Crane inside W 2 6
+
+Crane Lorry 3
+
+90T Mobile Crane at South Road 2
+
+Manpower Quantity
+
+General Labour 12
+
+Rigger 20
+
+Rig Operator 6
+
+Crane Operator 11
+
+
+7 .Construction Methods / Construction Sequence Drawings
+
+7.1 Prerequisite prior to pre-bored socket H pile installationFlow of works activity 1Installation of I&M (Baseline reading obtained & agreed) 2RP Fencing erection 3Predrilling 4Construction of level crossing/backfilling 5Precautionary sheet pile installation at W1 & W2 The above works activity shall refer to separate Method Statement.7.2 Logistics Arrangement for W27.2.1 Logistics Arrangement: Labour AccessRSI training is required for workers working in W2 area which lies in close proximity to the test trackand Mainline. During boarding of the shuttle bus, hand-held facial recognition will be performed toverify the worker's qualification. The facial recognition system will check if the person has passed theRSI and possesses a green card. A list of workers will be submitted to MTR for registration beforestarting of the works, the list shall be updated weekly and available for MTR as requested. Workers will be picked up at a designated area such as Tung Chung/Mei Foo Station. They will betransferred through the West Gate or East Gate and taken to the Welfare facility at WX or W1 wherethey can change into working uniform. From here, the workers will be transported by another shuttlebus (escorted by CP on the shuttle bus) to the designated gate area. A label on the helmet will alsohelp distinguish which workers have attended the RSI training.
+
+Height checking vehicle before entering East/West gate
+
+
+7.2.2 General logistics arrangement: Material and Plant delivery
+
+Height checking vehicle before entering East/West gate
+
+Before entering the west gate/east gate, CP(T) will measure the height of vehicle to ensure the height is within 4m. After entering the east/west gate, the Contractor Vehicle will be accompanied by the escort vehicle with CP(T). 
+
+A Permit-to-Move is required for vehicles over 4m high and below 4.5m high. Vehicle height measurements/ checks for approval by CWBU to DCC shall be conducted by CP(T)s before entering the depot areas and passing through the west level crossing. When accessing the west level crossing, an escort car with a CP(T) shall communicate with DCC in order to get permission to drive across the level crossing. CP(T) shall inform DYM when the vehicles are passing through the yellow line underneath the height restriction gauge and within the double white zone. No vehicle Reversing is allowed. 
+
+7.2.2.1 Logistics Arrangement from GL A1 –GL 40
+
+We will primarily use the East Gate for the Works at GL A1-40. At this area the test track is to be removed from GL A1 -GL40. The ground level is relatively flat and does not require backfilling. After removal of the test track and OHL mast, construction vehicles with height limited to 4m will be able to access in and out of this area without a level crossing and lifting over the test track is not required for delivering plant and materials.
+
+General logistics route to GL A1 -GL 40 (after test track removal)
+
+The relocation of EAG4 & 5 shall be approved in advance and these 2 gates will not be used for any logistics and access to W2. Those accesses are for MTR use only.
+
+GL 20 Section of RP fencing with drilling rig
+
+After installation of the RP fencing near the text track is complete, the existing railway fencing near the South Road will be removed and replaced with water filled barriers
+
+GL 40 Section of RP fencing with drilling rig
+
+7.2.2.2 Logistics Arrangement from GL 40 –GL 100
+
+We will primarily use the East Gate and level crossing at Gate 06 and Gate A for the Works at GL 40-100. At this area the test track is to be maintained. Backfill along the existing slope is required for the erection of RP fencing. Details of the backfilling and erection of the RP fencing shall refer to the separate method statement of RP fencing. After backfilling, the rigs would be able to access from the lower side of Gate 06 and Gate A as shown below. 
+
+General logistics route to GL 40 –GL100 (through GL 60 Section of RP fencing with drilling rig
+
+GL 80 Section of RP fencing with drilling rig
+
+GL 100 Section of RP fencing with drilling rig
+
+The piling rigs need to cross the level crossing to access the working location. The travelling height of a rig is around 3.80m, which is lower than the max height allowed at the level crossing, and its width is 2.26m. During working condition, the rig will be positioned parallel with the test track, reducing the risk and hazard of damaging the cables. The working height of the rigs will be 9m in total reduced from 13.61m to suit the overall height of the Railway Protection fencing. 
+
+Typical level crossing clearances
+
+The detailed catalogue of the drilling rig is shown in Appendix E.
+
+Due to the restricted work area, lifting over the test track is required for delivery of construction equipment and materials. This will be subject to a separate approved EDOC and BUGN being issued by MTR prior to commencing any lifting works. 
+
+Lifting Plan layout at W2
+
+A temporary steel cover will be installed between GL 40 and GL100, (Detail refer to separate MS and EDOC) details of which will be provided under a separate Method Statement and detailed design submission. After installation of the steel cover, construction material can be lifted across the text track during day time and not limited to NTH only. This would greatly facilitate material delivery and the frequency of using NTH can be greatly reduced. 
+
+The casings will be properly stored on site at W2 and secured by using a U-shaped steel clamp fixed to each end of the casings on the bottom row as shown below. Steel wedges would be placed under the bottom of the outer bottom row casings to prevent movement or toppling. The H beams will be stacked in a horizontal position to prevent toppling as shown below (max. height 1.7m/ 9 number that can be stacked). No more than 2 batches of casing/H-pile shall be stored in the bifurcation per work front. The casing length will be limited to 6m in order not to exceed the overall height of the fencing during lifting. A lifting Clamp will be used for rigging the H beam/casing during unloading and loading. 
+
+Stacking of H-beam and Casing
+
+7.2.3 Logistics Arrangement: Grouting
+
+We propose to use on site mixing for the pile grouting due to the restricted space available at W2, the grouting station will be located at W11. There will be several grouting stations located at W11 with multiple storing tanks. Cement at the storing tanks/silo will be replenished by using a cement tanker truck through the hose from the refill truck. The grout station will be properly covered. There will be a separate grout pump connected to the grouting station to deliver the mixed grout. The grout pipe will be connected from the grout pump through the buried pipe under the test track and to the designated pile at W2 (Detail refer to separate MS and EDOC). The station will be delivered by flat lorry via the vehicular steel bridge and unloaded at W11. The detail of the pumping station shall refer to Appendix E.
+
+Typical Grouting Station located at W11
+
+7.3 Construction Method/Sequence for W1
+
+7.3.1 Logistics Arrangement: Labour & Plant Access through TTA Gate 3
+
+On the South Side, there is an existing access gate (TTA Gate 3) from the slip road from the Tai Ho Interchange. An additional access gate (TTA Gate 3A) is proposed to be installed at the eastern end of Shun Long Slip Road for access and egress to the OHL portal and OYB -South construction areas.
+
+General access at TTA Gate 3 
+
+A grouting station will be set up under Shun Long Road near the existing abutment. Cement deliveries will be via TTA Gate 3. 
+
+7.4 Method & Sequence of Drilling
+
+7.4. 1Setting Out
+
+Surveyors will set out the levels, position and alignment of all piles. Permits-to -Excavate will be issued and briefed to the associated site personnel by the CP and WPIC prior to any drilling works. The setting out will be checked by joint survey with MTR’s survey team.
+
+7.4.2 Drilling with Casing (Permanent)
+
+For each pile, position the drill rig at the setting out location. Lift the 6 m steel casing by mobile crane to the drill rig and fix the steel casing with the drill rig's hydraulic retaining clamp. Once secured, lift the drill bit and insert it into the steel casing. Fix the drill bit with the drill rig's rotator and fix the ring
+
+This document is controlled in soft copy.
+
+Any hard copies seen are uncontrolled unless Page 15 of 27
+
+chopped with a red control stamp
+
+bit to the drill bit and release the hydraulic retaining clamp. Check the verticality with the use of a spirit level in two perpendicular directions and adjust until vertical. Once complete and checked drilling may commence.
+
+Each pile is drilled concurrently with the casing installation by using the ring bit method until the blockhead is reached. The verticality of the pile will be checked again once the first section of steel casing has been installed. Refer to Table 19.1 of the M&W Specification for the verticality tolerance. In accordance with the Project Specification, piles within 10m cannot be installed concurrently. 
+
+The RP fence structure is required to have sufficient clearance to the structural gauge which is a minimum of 2615 mm measured, from rail centreline, for the depot track and it is 2995 mm for the mainline. Refer to the RP fence method statement, submitted separately, for details.
+
+Minimum Working Space for Socket H Pile along Track:
+
+=1.35m (width of RP fence footing) + 0.5m (clearance) +1.7m (half width of piling rig) 
+
+Typical Work Front layout at W2
+
+This document is controlled in soft copy.
+
+Any hard copies seen are uncontrolled unless Page 16 of 27
+
+chopped with a red control stamp
+
+Longitudinal Section View of 6m Casing Installation
+
+If a pile is found to be out of tolerance, the casing will be extracted and re-drilled to the required position. If a pile is found within tolerance, the drilling will continue until reaching the required level. After reaching the required level, retract the drill rods and cover the top of the casing to prevent any object / body falling into the hole.
+
+The drill bit shall not advance independently of the casing. During installation of the permanent casing, the drilling bit must be interlocked with the casing by the pilot bit and casing shoe as shown in the attached catalogue in Appendix D. Each segment of the steel casing are joined by butt-welding to form a continuous casing. During welding, a spirit level will be used to ensure the straightness of the joint between the 2 steel sections.
+
+Upon the completion of permanent the casing installation, the volume of excavated material will be compared to the theoretical quantity to determine the extent of over break (if any). a procedure shall
+
+be carried out to

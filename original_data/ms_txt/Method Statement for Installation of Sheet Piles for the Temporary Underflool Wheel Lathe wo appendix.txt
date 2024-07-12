@@ -1,0 +1,229 @@
+MS Reference Number: CSHK CET MS C 2024 000092
+
+ACC Reference Number: 1701 W 000 CSC 760 000155
+
+METHOD STATEMENT TITLE: Rev.B
+
+Method Statement for Installation of Sheet Piles for the Temporary Underfloor Wheel Lathe
+
+Prepared by: Andy Lo
+Checked by: Ted Leung
+Reviewed by: Leung Kwok Fung / Hui Wai-Kwan
+Reviewed by: MH-Isa- / WH Lam
+Position: Engineer, Construction Manager, SM/SO, QM/QE
+
+Reviewed by: James Ma/IrisHo
+Reviewed by: Yeung Wai Lun
+Reviewed by: Paul Freeman/ MarkMcGleenon
+Approved by: Eric Fong
+Position: EM/EO, A. Project Director, Sr. Project Director / A. Project Director, Project Director
+
+Document Title: Method Statement for Excavation and Lateral Support for the Temporary Underfloor Wheel Lathe
+Document Revision: 22-Feb-24
+Deadline: 09-Apr-24
+
+Item 1: Section SHD-Dev, Reference 7.2 Utilities detectionPage 15
+Comment: Survey shall be conducted on railway equipment / facilities for protection measures. Survey and detection by Contractor for underground utility prior to work commencement.
+Contractor's Response: Underground Utilities Detection was carried out and report issued to MTR. Only one utility found within area and will be abandoned by another contract 1732.
+
+Item 2: SHD-Dev., Appendix KPermit-to-dig
+Comment: After a FS pipe was damaged, changes suggested to Permit-to-Dig system.
+Contractor's Response: Permit-to-Dig system was updated and attached in Appendix K.
+
+Item 3: RP
+Comment: Comments marked in Red in the attached returned file.
+Contractor's Response: Comments are addressed and attached in the email for reference.
+
+Item 4: RP
+Comment: Provide a layout plan showing clearance between sheet pile and railway facilities for 5m height sheet pile.
+Contractor's Response: Figure updated to show extend of 5m height sheet pile.
+
+Item 5: RP
+Comment: Consider setup location of silent piling machine and relationship with railway facilities.
+Contractor's Response: Setup location is around 29m, shown in Navisworks model in Figure 7.7.3.
+
+Item 6: RP
+Comment: PA works required when sheet pile location is 10m from railway facilities.
+Contractor's Response: PA works will be input in ETMS system and added to section 7.7 Step 3 for clarification.
+
+Item 7: RP
+Comment: Operation zone for 32T crane lorry intrudes into existing railway facilities, specify jib length and lifting capacity.
+Contractor's Response: 60 ton mobile crane with 75 feet used, lifting plan attached in Appendix D and calculation provided.
+
+Item 8: RP
+Comment: Setting out survey to be conducted with RISC prior to installation commencement.
+Contractor's Response: Inspection and Testing Plan updated accordingly.
+
+Item 9: RP
+Comment: As-built survey of installed sheet piles after piling works.
+Contractor's Response: Inspection and Testing Plan updated for as-built record with RISC form.
+
+Item 10: RP
+Comment: Provide calculation of edge distance for holes of sheet pile (12m).
+Contractor's Response: Calculation for one lifting hole in Appendix N, two used for safety.
+
+Item 11: RP
+Comment: What will be used for counter weight? Lifting arrangement needed.
+Contractor's Response: Sheet piles used for counterweight, details in Appendix F.
+
+Item 12: RP
+Comment: Ground condition should be checked by ICE.
+Contractor's Response: Outrigger Pad used with 3 times square surface area of shoe for lifting works.
+
+Item 13: RP
+Comment: Provide lifting radius, LA & LG information, weight of materials, rigging method.
+Contractor's Response: 60 tonne mobile crane, 22.3m lifting radius, rigging method with shackles provided.
+
+Item 14: RP
+Comment: Method Statement does not include installation of ELS, why RA have lifting works for ELS?
+Contractor's Response: Method Statement only includes sheet pile installation, RA updated accordingly.
+
+Item 15: RP
+Comment: Permit to operate should be included.
+Contractor's Response: Permit to Operate attached in Appendix O.
+
+Item 16: RP
+Comment: Hot work permit should be included.
+Contractor's Response: Hot Work Permit attached in Appendix M.
+
+Item 17: RP
+Comment: Section 9 Environmental - add compliance with EP/EMP requirements.
+Contractor's Response: Wording added in Section 9.
+
+Item 18: RP
+Comment: Trial pit after commencement of piling has wrong sequence.
+Contractor's Response: Inspection and Testing Plan updated, construction sequence also updated.
+
+Item 19: RP
+Comment: No welding mentioned in work method and procedure.
+Contractor's Response: Welding works included in construction sequence and risk assessment, separate submission for welding procedure and materials.
+
+Item 20: RP
+Comment: What's the inspection required?
+Contractor's Response: Inspection referred to Inspection and Testing Plan in Appendix B.
+
+Item 21: Yu Sir
+Comment: Existing fence, OHL Masts, OHL not indicated on the Plan.
+Contractor's Response: Plan view in Section 7, Figure: Section and Plan of ELS at Temporary Underfloor Wheel Lathe and Existing facilities in BIM Model and Point Cloud.
+
+Item 22: Yu Sir
+Comment: Distance of sheet pile wall to existing fence, OHL Mast, OHL, track should be dimensioned on the Plan.
+Contractor's Response: Plan view in Section 7, Figure: Section and Plan of ELS at Temporary Underfloor Wheel Lathe and Existing facilities in BIM Model and Point Cloud.
+
+Item 23: Yu Sir
+Comment: Purpose of Vibrator if using silent piler.
+Contractor's Response: Vibrator removed from plant list.
+
+Item 24: Yu Sir
+Comment: Fire Marshall should be provided since Welder is on Manpower list.
+Contractor's Response: Fire warden can be provided and nominated if construction works are within Construction Area.
+
+Item 25: Yu Sir
+Comment: Measures to prevent concrete fragments flying into OA area during concrete breaking.
+Contractor's Response: Water splashed during breaking works and green net provided for prevention.
+
+Item 26: Yu Sir
+Comment: Confirm if Trial Pit required, indicate location, size, and safety measures.
+Contractor's Response: Trial trench not carried out if no underground utilities. If present, trench of 500mm width x 2.5m depth will be carried out.
+
+Item 27: Yu Sir
+Comment: Why excavation work inspected by a CP once a week? What does CP stand for?
+Contractor's Response: UU CP will inspect excavation works weekly and WPIC will inspect daily.
+
+Item 28: Yu Sir
+Comment: Confirm if cable and draw pits abandoned before sheet piling work.
+Contractor's Response: Cable and draw pit within sheet pile area but no utilities diversion required.
+
+Item 29: Yu Sir
+Comment: Monitoring instrumentation to be installed and initial readings taken before sheet piling work.
+Contractor's Response: Noted.
+
+Item 30: Yu Sir
+Comment: How to control during sheet pilling work?
+Contractor's Response: Briefing works by China State Engineer and Safety Department with MTR SIOW, IOW, and Safety Department.
+
+Item 31: Yu Sir
+Comment: How to overcome hard material if encountered during sheet pilling work?
+Contractor's Response: High pressure water jet along sheet pile.
+
+Item 32: Yu Sir
+Comment: How to ensure verticality of sheet piling work?
+Contractor's Response: Spirit level used to check at 0m, 4m, and 8m.
+
+Item 33: Yu Sir
+Comment: Risk Assessment in Appendix A includes items not relevant to submitted Method Statement.
+Contractor's Response: Risk assessment updated accordingly.
+
+Item 34: Yu Sir
+Comment: Appendix C titled Temporary Works Design but contains Emergency Contact List?
+Contractor's Response: Topic updated to "Emergency Contact List".
+
+Item 35: Yu Sir
+Comment: Appendix D titled Catalogue for Equipment but contains lifting plan?
+Contractor's Response: Topic updated to "Lifting Plan of Silent Piling Machine and Steel Material".
+
+Item 36: Yu Sir
+Comment: Appendix E titled Shop Drawing but only catalogue of silent piler?
+Contractor's Response: Topic updated to "Catalogue of Silent Piling Machine".
+
+Item 37: Yu Sir
+Comment: Figure 7.1.1 shows mobile crane radius encroaching into OA & track area.
+Contractor's Response: Lifting radius minimized, safety measures in place including water barrier along 10m area.
+
+Item 38: Yu Sir
+Comment: Figure 7.6.2 should mark 10m line from adjacent OHL/live track on plan.
+Contractor's Response: 10m line marked in Figure 7.6.2.
+
+Item 39: Yu Sir
+Comment: Figure 7.7.3 & 7.7.4 misleading 29m distance, should measure from SOP03.
+Contractor's Response: Silent piling machine handles corner works without lifting, SOP01 designated setup location.
+
+Content Overview:
+
+1. Introduction
+2. Reference Documents
+3. Details of Sub–Contractor/Specialist Sub–Contractor
+4. Responsibilities for Activities described within Method Statement
+5. Programme and Working Hours
+6. Plant, Equipment & Material
+7. Construction Methods / Construction Sequence
+8. Safety
+9. Environmental
+10. Quality Control
+11. Appendices
+
+The document is controlled in soft copy. Any hard copies are uncontrolled unless stamped with a red control stamp.
+
+Figure 1.2: Section of ELS at Temporary Underfloor Wheel Lathe and Existing facilities in BIM Model and Point Cloud
+
+Figure 1.3: Plan View of ELS at Temporary Underfloor Wheel Lathe and Existing facilities in BIM Model
+
+Reference Documents:
+- General Specification for Civil Engineering Works (NEC4) (MTR Corporation Limited – 2022)
+- Contract 1701 working drawings
+- Buildings Department Approved drawings of Excavation and Lateral Support for the Temporary Underfloor Wheel Lathe (refer to Appendix J)
+
+Details of Sub–Contractor/Specialist Sub–Contractor: To be confirmed
+
+Responsibilities for Activities described within Method Statement:
+CSHK is responsible for inspecting and carrying out construction works. Specific personnel listed in a table will attend tool–box talks and be responsible for activities.
+
+Programme and Working Hours:
+Works are scheduled to commence in mid–April 2024. General working hours will be from 08:00 – 19:00 daily, Monday to Saturday, with potential extension to 19:00 to 23:00 and Sunday and Public Holidays if Noise Permit is obtained.
+
+Plant, Equipment & Material:
+Inspected prior to mobilization on site, must be in good working condition and comply with regulations. Major plants and equipment are listed with quantity.
+
+Construction Methods / Construction Sequence:
+- Fencing off area as per approved method statement
+- Site clearance for above ground using grab lorry
+- Utilities detection and GPR survey after fencing off and clearing obstacles
+- Breaking existing concrete with excavator and hydraulic breaker
+- Trial trench if underground utilities are found
+- Instrumentation and monitoring plan setup and initial readings
+- Abandoned existing utility by other contract
+- Lifting procedure suspended when train passes through track
+- Lifting works with Crane placed at least 28 meters from OHL post
+- Welding works carried out with equipment placed in designated location
+
+Safety and Environmental considerations are addressed along with Quality Control measures. Appendices contain relevant documentation and plans.

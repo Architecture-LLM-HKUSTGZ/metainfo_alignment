@@ -1,0 +1,229 @@
+MS Reference Number: CSHK CET MS C 2024 000095
+
+ACC Reference Number: 1701 W 000 CSC 760 000201
+
+METHOD STATEMENT TITLE: Rev. B
+
+Method Statement of Disposal of C&D Materials
+
+Prepared by: Checked by: Reviewed by: Reviewed by:
+
+Signature: 3h
+
+Name: Andrew Lo C F Chan Leung Kwok Fung/HuiWai Kwan MH-Isa/WH Lam
+
+Position: GraduateEngineer ConstructionManager SM/SO QM/QE
+
+Date: 9/5/2024 9 Hay 2024 9 May 2024
+
+Reviewed by: Reviewed by: Reviewed by: Approved by:
+
+Signature: AF L Yeus PP-H.eeua ofong
+
+Name: James Ma/IrisHo Yeung Wai Lun Paul Freeman/ MarkMcGleenon Eric Fong
+
+Position: EM/EO A.Project Director Sr. Project Director/A. Project Director Project Director
+
+Date: 14/5/24
+
+CONTENT
+
+1. Introduction
+
+2. Reference Documents
+
+3.Responsibilities for Activities described within Method Statement
+
+4.Programme and Working Hours
+
+5. Plant, Equipment & Material
+
+6. Precaution and Preparation Before Commencement of Works
+
+7. Construction Methods
+
+8. Safety
+
+9. Environmental
+
+10. Quality Control
+
+11. Appendices
+
+This document is controlled in soft copy.
+
+Any hard copies seen are uncontrolled unless Page 2 of 29
+
+chopped with a red control stamp
+
+Introduction (Overview of the operation/works)
+
+This Method Statement gives a guideline for the execution of the Disposal of C&D Materialsprocedure at Siu Ho Wan Depot under Contract 1701. This document shall be distributed to relevant parties to introduce the work scopes, to present the sequence of works and to define the associated responsibilities to ensure the health, safety, environment and quality issues addressed. The details of the procedures contained herewith shall be reviewed periodically and updated based on the actual site conditions. The principle methods as described in the following sections are subject to review during construction and may be amended if required.The general topics outlined in this method statement are the following:⚫ Type of C&D Materials⚫ Management of C&D Materials⚫ Management of Disposal of Marine Sediment⚫ Disposal Plan
+
+Reference Documents (Identify relevant documents by name and reference number)
+
+⚫ General Specification for Civil Engineering Works (NEC4) (MTR Corporation Limited - 2022)⚫ Scope for Contract 1701.⚫ Materials and Workmanship Specification for Civil Engineering Works.
+
+Responsibilities for Activities described within Method Statement
+
+CSHK is responsible to inspect and carry out the construction works. The following persons, as listed in the table below, will attend the specific tool-box talk and be responsible for the activities:Name PositionCF Chan Construction ManagerAnthony He Assistant Construction ManagerNick Wang Site AgentTim Cai EngineerAndrew Mak EngineerCharles Xu Graduate EngineerAndrew Lo Graduate EngineerLeung Kwok Fung Safety ManagerErnest Young Assistant Safety OfficerJames Ma Environmental ManagerIris Ho Environmental OfficerPriscilla Yick Assistant Environmental OfficerCheung Siu Kei Superintendent / WPICNg Ho Lun Senior Foreman / WPIC(a) Construction Manager / Assistant Construction ManagerResponsible for overall administration, monitoring, controlling progress and quality of works in a safe manner.
+
+This document is controlled in soft copy.cAhnoy phpaerdd wciothpi ea sr esde ecno natrreo l usntcaomnpt rolled unless Page 3 of 29
+
+中國建築工程（香港）有限公司 This document is controlled in soft copy.
+
+CHINA STTE CONSTRUCTION ENGINEERING (HONG KONG) LIMITED Any hard copies seen are uncontrolled unless Page 4 of 29
+
+chopped with a red control stamp
+
+Barge Frequency:• Maximum 6 trips per day, 7 days per week, Maximum 42 trips per week.Estimation:- 3 barges for pre-cast units - 2 barges for steel and rebar - 1 barge for excavation material 
+
+Plant, Equipment & Material (Identify type, model and specification of MAJOR plant & equipment)
+
+The major equipment will be deployed to carry out the works are as follow: -For Disposal of C&D Materials⚫ Dump truck⚫ Hopper barge⚫ Ro-Ro Barge with Tipping Hall⚫ Derrick Lighter⚫ Tug boats⚫ Grab lorry⚫ Backhoe
+
+Precaution and Preparation Before Commencements of Works
+
+⚫ Fully Supervision at all times shall be provided at work fronts, especially for the location with significant interfaces with SHD daily operation or other construction works within depot.⚫ Advanced coordination and communication shall be made with interfacing contractors to facilitate works nearby.⚫ For lifting works by grab lorry or crane, the operator shall ensure a clear and unrestricted view of the load carried in prior to lifting works.⚫ CP shall report to depot before works could commence and brief safety rules to workers before commencement of work.⚫ CP escort is required for all dump trucks travelling in OA areas, especially travelling to barging point via OA areas.⚫ Environmental mitigation measures shall be checked and ensure to be in place prior to commencement of the barging operation.
+
+Construction Methods
+
+7.1 Type of C&D MaterialsFor the type and volume of C&D Materials, please refer to separate submission 1701/W/000/CSC/790/000029 Spoil Disposal Plan.7.2 Management of C&D Materials7.2.1 Seawall and Barging Point ArrangementUsing the seawall and the barging point, we will arrange for the disposal of the C&D materials. For the arrangement of seawall and the barging point in Siu Ho Wan Depot, pleaserefer to separate submission 1701/W/000/CSC/760/000204 Method Statement for Seawall Arrangement.
+
+This document is controlled in soft copy.cAhnoy phpaerdd wciothpi ea sr esde ecno natrreo l usntcaomnpt rolled unless Page 7 of 29
+
+7.2.2 Classification
+
+For the classification of C&D Materials, please refer to separate submission 1701/W/000/CSC/790/000029 Spoil Disposal Plan.
+
+7.2.3 Sorting of C&D Materials
+
+For sorting of C&D Materials, please refer to separate submission 1701/W/000/CSC/790/000029 Spoil Disposal Plan.
+
+7.2.4 Forecast of C&D Materials
+
+For forecast of C&D Materials, please refer to separate submission 1701/W/000/CSC/790/000029 Spoil Disposal Plan.
+
+7.2.5 Construction Waste Disposal Charging Scheme
+
+CSHK have applied to EPD for a billing account and obtain chits for the disposal of C&D non-inert waste to landfill sites in WENT and inert materials at the TM 38 Public Fill Reception Facility. The CHIT example is shown in Figure 1.
+
+A trip-ticket system (TTS) will be implemented to manage and record the removal of C&D material generated from the construction work on Contract 1701.
+
+A Disposal Delivery Form and related Daily Record Summary for Disposal of C&D materials from site will be used to manage our C&D material disposal process. The trip tickets will record specific designated disposal grounds. 
+
+This document is controlled in soft copy.
+
+Any hard copies seen are uncontrolled unless Page 6 of 29
+
+chopped with a red control stamp 
+
+CSHK will inform the Project Manager's Representative in advance for removal of C&D materials. 
+
+The Project Manager's Representative will check each truckload of C&D materials/waste leaving the site and the representative will complete and stamp the Disposal Delivery Form (DDF) (as attached in Appendix). 
+
+The dump truck will proceed to the disposal ground as stipulated in the DDF. In the event that the disposal ground is the Barging Facility or other approved designated disposal ground, the truck driver will present the DDF to the facility operator. If the spoil disposal material complies with the acceptance criteria, disposal of the materials will be permitted and the facility operator will return the truck driver a transaction receipt and stamp the DDF. 
+
+CSHK will maintain a daily record of the disposal of C&D material from the site which will include details of the materials, the truck number, departure time, etc, using the summary record of trip ticket system. The copy of the daily record will be forwarded to depot for reference and retention.
+
+CSHK will update the summary record of trip ticket system on a daily basis or whenever there is a return of transaction records from the truck drivers. The record will be readily available for checking by the Project Director's Representative and will be submitted formally to the Project Manager's Representative on a monthly basis as part of the monthly update of the Environmental Management Plan. 
+
+For disposal at PFRF or Landfill, CSHK will check on a regular and routine basis the information in the summary record of trip ticket system against the disposal records of C&D materials from EPD's website. The quality and environmental manager will arrange internal audits to track internal movements of materials and ensure no irregular disposal occurs. 
+
+In the event a trip ticket process irregularity is detected CSHK will submit to MTRCL, within five working days, the supporting stamped DDF and the transaction receipts to confirm proper completion of the delivery trips.
+
+7.2.7 Dump Truck Tracking System
+
+Every dump truck, delivery barge or hopper barge used for disposal of C&D materials must equip with a Global Positioning System. For Dump Truck Tracking System or Global Positioning System (GPS), please refer to the separate submission 1701/W/000/CSC/510/000013 Real Time Tracking and Monitoring System for Dump Trucks and 1701/W/000/CSC/790/000029 Spoil Disposal Plan.
+
+7.2.8 Dumping License
+
+All dump truck drivers should apply for a valid dumping license from the Fill Management Division, CEDD, to dump public fill within the CEDD public fill reception facilities if required.
+
+7.2.9 Mechanical Covers
+
+All vehicles transporting spoil from the site for disposal have their loads fully covered with a mechanical cover to prevent spillage of spoil on the roads. For mechanical cover requirements, please refer to separate submission 1701/W/000/CSC/790/000029 Spoil Disposal Plan.
+
+This document is controlled in soft copy.cAhnoy phpaerdd wciothpi ea sr esde ecno natrreo l usntcaomnpt rolled unless Page 7 of 29
+
+7.2.10 Temporary Storage Area for C&D Materials
+
+There will be two 20m x 20m temporary storage areas in W11. One will be storing C&D materials, the other one will be storing marine sediments. In the C&D material temporary storage area, there will be a portion of the space used to store non-inert C&D materials. Each storage area can store at least 1000 tons of materials. The layout plan will be shown in the following figure. WPIC from CSHK will check the temporary storage areas regularly to ensure that no flammable materials would be stored in the area.
+
+Figure.2 – Temporary storage area layout plan
+
+7.3 Management of Disposal of Marine Sediment
+
+The Type 1 (Open Sea Disposal) sediment generated would be reused on site (e.g. as backfilling materials) as far as possible after on-site treatment. The remaining Type 1 (Open Sea Disposal) sediment after onsite reuse as well as other types of sediment would be disposed to marine disposal sites according to Marine Fill Committee (MFC). Marine sediment will be disposed of to open sea disposal for Type1 Sediment, as directed by MFC.
+
+7.3.1 Marine Dumping permit Application
+
+To avoid and minimize the impacts arising from the marine sediments, CSHK will apply for the marine dumping permit under Dumping at Sea Ordinance (DASO) from EPD for the sediment disposal. The updated permits will be placed on board for readily inspection.
+
+All Marine Sediment will be transported and dumped at the designed dumping grounds as specified in the dumping permit. The uncontaminated marine sediments containing Category L will be deposited of at Type 1 — Open Sea disposal area allocated by the Marine Fill Committee. The removed contaminated marine sediments containing Category M sediments both passing and failing biological tests and Category H sediment passing biological tests as designed in ETWBTC(W) 34.2002 will be disposed of at Type 2- Confined Marine Disposal Area allocated by the Marine Fill Committee.
+
+The hopper barge for transporting the excavated sediment to the specified marine dumping site will be fitted with tight fitting seal to their bottom openings to prevent leakage of sediment and equipped with a front-end module unit for Real time Tracking & Monitoring of Vessel (RTTMV) to prevent any illegal dumping. No double handling of the excavated sediment would be performed after the hopper barge leaving the barging point and therefore the excavated sediment shall not be loaded into other vessels for whatever purpose.
+
+The hopper barge collected the excavated sediment from the barging point, with a copy of the valid dumping permit on board, will be towed by tug boats to the specified marine dumping site. Before the loaded hopper barge leaves the barging point to the specified marine dumping site, a notification of dumping will be provided to the Management Team of specified marine dumping site, as required by the CEDD.
+
+On arrival of the specified marine dumping site, the hopper barge operator will report to the control office of the Management Team of the specified marine dumping site. The hopper barge operator will then follow the instruction given by the Management Team staff and manoeuvre the hopper barge into the specified marine dumping site. Dumping will be commenced by an area as directed by the Management Team and proceeded slowly and steadily.
+
+The bottom opening of hopper barge will be closed immediately after dumping, and will be kept closed during its return journey. After the completion of the sediment discharging, the hopper barge operator will inform the control office of Management Team before leaving the specified marine dumping site.
+
+Table 4 – Disposal Spaces for Types of Sediments
+
+Disposal Type Category of Sediments In-situ Volume of Sediment Sediment Disposal Spaces
+
+Type 1-Open Sea Disposal Category L Sediments 10,741 m3 The subarea “SHW Depot Phase 1 & Adv” within the South Cheung Chau Open Sea Sediment Disposal Area as shown on Drawing No. MFC/002-SHW Depot Phase 1 & Adv.
+
+Type 1-Open Sea Disposal (Dedicated Site) Category Mp Sediments (i.e. Category M Sediments passing biological test) 1,132 m3 Subareas to be directed on site within the Mud Pit of the Confined Marine Sediment Disposal Facility to the East of Sha Chau.
+
+Type 2 –Confined Marine Disposal Category H Sediments (i.e. Category H Sediments not requiring test) 230 m3 Subareas to be directed on site within the Mud Pit of the Confined Marine Sediment Disposal Facility at the East of Sha Chau.
+
+7.3.3 Supervision and Record Keeping
+
+A full-time site supervisor will be assigned at the barging point to supervise the loading operation. All dumping operations will be supervised and recorded, at the loading points during the loading and at the specified dumping site during the discharging of sediment, so as to ensure the consistency and accuracy of the sediment dumping operation,
+
+A monthly return of sediment dumping records will be submitted, within the first week of each month, to the Engineer and the MFC, showing the number of the barge loads and estimated
+
+This document is controlled in soft copy.
+
+Any hard copies seen are uncontrolled unless Page 9 of 29
+
+chopped with a red control stamp
+
+quantity of dumped material at the dumping site. A "Nil" return shall be provided even if no sediment dumping operation will carry out within any particular month.
+
+7.4 Disposal Plan for C&D Materials
+
+The C&D materials will mainly be delivered from the Works Area W11 to the seawall through the Vehicular Access Bridge (VAB). For traffic routing from depot works area W11 to seawall, please refer to separate submission 1701/W/000/CSC/760/000204 Method Statement for Seawall Arrangement.
+
+Then, the materials will be transferred from the seawall to the barge. The barge leaves the Siu Ho Wan depot seawall and travels to the designated disposal area seawall. Lastly, the materials will be transferred from the designated disposal area seawall to the land access.
+
+7.4.1 From Depot to Seawall
+
+The C&D materials will mainly be produced in W11. For traffic arrangements and traffic routing from depot works area W11 to seawall, please refer to separate submission 1701/W/000/CSC/760/000204 Method Statement for Seawall Arrangement.
+
+All dump trucks or any construction vehicles will be clean and free from mud before accessing the Vehicular Access Bridge (VAB) in depot. A wheel washing facility near VAB will be provided by CSHK. All dump trucks will go through the wheel washing facility before entering the VAB. WPIC will check to ensure that the vehicle wheels are clean and free of mud and muddy water.
+
+CP escort will be required for all dump trucks travelling in OA areas, especially travelling to barging point via OA areas.
+
+CSHK will liaise with MTR depot about the procedures of opening the access gate at Seawall barging area before using the seawall.
+
+Automatic Wheel Washing Facility
+
+The details of the Automatic Wheel Washing Facility are in Appendix. The location of the facility is shown in the below Figure. The exact location of the wheel washing facility will be subjected to the site condition.
+
+Figure.7.1 – Wheel washing facility layout plan
+
+7.4.2 From Seawall to Barge
+
+The barging facility would be used for the disposal of C&D materials. A roro barge would work as the floating device such that the disposal trucks could drive on them to reach the hopper barge or delivery barge. The arrangement for loading the excavated materials is illustrated in Figure 7.1.
+
+CSHK will further liaise with depot and CEDD about the actual date of the C&D disposal and using the seawall. CSHK will treat the delivery of MTR trains and materials as first priority, to ensure that the delivery of MTR trains and materials using seawall will not be affected.
+
+All barging operations will be curtailed if the visibility falls below 1.0 nautical mile, or Typhoon Signal No.3 or above or Black Rainstorm Warning is hoisted. All barges will go to the nearest typhoon shelter when typhoon signal No.3 or above is hoisted.
+
+There will be a net provided at the sides of the tipping haul during the disposal process of C&D materials from the dump truck to the barges for dust mitigation purpose.
+
+C&D materials will be unloaded into an area of the hopper barge directly below the tipping hall. If there is a need to spread out the materials in the barge, CSHK will move the barge,such that any further C&D materials can be loaded into an empty area of the barge, or if there is plant or equipment on the barge, we will utilize it to spread

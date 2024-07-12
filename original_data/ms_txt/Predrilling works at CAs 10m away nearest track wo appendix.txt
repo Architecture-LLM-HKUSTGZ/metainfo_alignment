@@ -1,0 +1,137 @@
+Method Statement Change and Review Template
+
+Date: 24/04/2024
+
+Work activity: Predrilling Works at CAs 10m away nearest track
+
+Approved MS(ACC): 1701-W-000-CSC-760-000072
+
+Initiated by: Ted Leung, YW Li, Kyle Lai
+
+Evaluate change: ☐ The MS is followed on site. ☑ Minor change, any change which would not render the safe system of work nor the original safe guard /control ineffective ☐ Major change, any change other than minor change
+
+Review and approve change: ☑ Minor change ☑ (1) without railway implication ☐ (2) with railway implication (accepted by HKTS) Description: Address to TCP comments. ☐(3) Major change >follow the normal method statement approval process Description: Agreed by Michael Wang SConE-C Senior engineer: Jeff Chan SConM-C Senior inspector: KK Yung CIOW-C Safety team: Poon Pong SCSA HKTS team: Peter Chong SM-Depot
+
+Communication: (internal) ☐ Approved minor change and briefing to operatives is carried out on ☐ Major change > follow the normal method statement approval process
+
+Communication: (external) ☐ Summarized and discussed in weekly RP/HKTS meeting. ☐ RP ☐ RSMD ☐ PP&DO ☐ IMD
+
+CSF Reference Number: CSHK CET MS C 2024 000083
+
+ACC Reference Number: 1701 W 000 CSC 760 000072
+
+METHOD STATEMENT TITLE Rev.D
+
+Predrilling works at CAs 10m away nearest tack
+
+Prepared by: Checked by: Reviewed by: Reviewed by:
+
+Signature:
+
+Name: Johnson Chung Vincent Li Leung Kwok Fung/Hui Wai Kwan MH Isa/WH Lam
+
+Position: Senior Engineer Construction Manager SM/SO QM/QE
+
+Date: 24-Apr-2024 24-Apr-2024 24-Apr-2024 24-Apr-2024
+
+Reviewed by: Reviewed by: Reviewed by: Approved by:
+
+Signature:
+
+Name: James Ma/Iris Ho Yeung Wai Lun Paul Freeman/ Mark McGleenon Eric Fong
+
+Position: EM/EO A. Project Director Sr.Project Director/A. Project Director Project Director
+
+Date: 24-Apr-2024 24-Apr-2024 24-Apr-2024 24-Apr-2024
+
+Email Correspondence
+
+From: Alex Lam CH <alex-ch.lam@arup.com>
+
+Date: Friday, 26 April 2024 19:14
+
+To: Li, Yuk Wa (CN - Hong Kong); Kelvin Tsang; WANG Michael Miao (王淼); Wilson Chan TH; Fung, King Chung
+
+Cc: CHENG William Ho Yin (鄭浩賢); 梁順昌; 馮健強; 羅亦烽; 楊云策; 黃禮賢; 黎聰; CHEUNG TK Tze Kin (張子建; KOO Raymond Kai On (顧啟安); WONG CW Chun (黃俊); Jerry Luk; TAN Adrian Choong Meng; WCHY@mtr.com.hk; CHAN Jeff Chi Chun (陳子晉); YAM Jackie Ming Lung (任明龍); Matthew Wong (A); Danny Lui; Jason Wong CC; YUNG KK Kei Kit (翁奇傑); Carol Lau; Kenneth Yu; Alex Tse (KC); Jerry Luk; Wilson Chan TH; Nicholas Li; 陳國強
+
+Subject: RE: Minor change of Method statement for pre-drill works at CAs 10m away nearest track Attachment: Predrilling Schedule - 54L, 54M, 51L_comment.pdf
+
+Dear Wa (CSHK teammate),
+
+Please note site TCP has no adverse comment to the predrill method statement.
+
+For the provided predrilling summary table, please find the attached comments for your follow-up.
+
+Please also supplement the remaining P1B pre-drilling holes information by early next week.
+
+Regards,
+
+Alex LAM
+
+Rail & SIT | SHD Site Supervision Team
+
+Arup
+
+Level 5, Festival Walk, 80 Tat Chee Avenue
+
+Kowloon Tong, Kowloon, Hong Kong
+
+d +852 2268 3518
+
+www.arup.com
+
+(Email correspondence continues with exchanges between the involved parties regarding the minor change of the method statement and the addressing of comments on the proposed predrill layout, the updated method statement, and the predrill schedule. The discussions include clarifications on various technical aspects, such as pre-drill hole relocation, core run lengths, grout strength for backfilling, and the inclusion of criteria for standard penetration tests. The emails also contain reminders for method statement submissions and requests for supplementary information.)
+
+Major comments:
+
+1. For Seciton 3, the proposed “Drilltech Geotechncial Engineering Ltd” is not in RSC(GIFW) Register of Specialist Contractors (Sub-register of Ground Investigaiton Field Works Category). Please clarify if the company is referring to “DRILTECH GEOTECHNICAL ENGINEERING LIMITED” in the above register. Noted. “FUGRO GEOTECHNICAL SERVICES LIMITED” is selected as the sub-contractor of pre-drill works.
+
+2. For Section 4, it seems none of the deployed staff in the section 4 table are the TCPs covered in the site supervision plan (SSP) submitted to BD in effect. Please be reminded to follow the required inspection frequency for proposed TCP-T4/T2/T1 as per the SSP & BD approval letter conditions, and the required inspection frequency for critical stage of works as per the CoP for site supervision (e.g. twice a week inspection frequency for RC T4 for pre-drilling works of large diameter bored piles and socketed H-piles). Noted, the table is updated.
+
+3. Please be reminded that the sampling and testing requirements shall follow the latest BD approved drawings, including but not limited to standard penetration test. Noted.
+
+4. Please provide the details of the followings in Section 7 – construction methods / construction sequence: (Details of pre-drilling work sequence and requirements are listed.)
+
+5. Please find the following comments to ITP: (Comments on Inspection and Test Plan (ITP) are provided.)
+
+Other Comments:
+
+6. Predrilling works shall be performed in accordance with Geoguide 2&3. Noted 2.0 updated
+
+7. Please clarify what “Supervisors” are referring to in Section 7.3.2. Text amended. The location of drill hole should be checked by MTR.
+
+8. Please clarify the abbreviation of “TY” in section 7.6. Noted and updated.
+
+9. For Appendix D, the pre-drilling locations are missing in the drawings. Also, the gridlines in the drawing are missing. Please supplement.
+
+10. Please be reminded to submit the qualification of geotechnical field technician, competent person (logging) and competent person (supervision) for review prior to the pre-drilling works. Noted
+
+11. Please attach the relevant BD approved drawings for predrilling works for reference. Noted and attached.
+
+CONTENT
+
+1. Introduction
+
+2. Reference Documents
+
+3. Details of Sub-Contractor/Specialist Sub-Contractor
+
+4. Responsibilities for Activities described within Method Statement
+
+5. Programme and Working Hours
+
+6. Plant, Equipment & Material
+
+7. Construction Methods / Construction Sequence
+
+8. Safety
+
+9. Environmental
+
+10. Quality Control
+
+11. Appendices
+
+This document is controlled in soft copy. Any hard copies seen are uncontrolled unless Page 2 of 26 chopped with a red control stamp
+
+(Tables and text continue with detailed information regarding the introduction, reference documents, sub-contractors, responsibilities, program and working hours, plant and equipment, construction methods, safety, environmental considerations, quality control, and appendices. The document also includes layouts, logistics arrangements, and detailed procedures for pre-drilling works at various work areas within the depot.)

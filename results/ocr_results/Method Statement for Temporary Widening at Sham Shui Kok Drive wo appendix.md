@@ -1,0 +1,375 @@
+
+<table border="1" ><tr>
+<td colspan="1" rowspan="1">CSF Reference Number:</td>
+<td colspan="1" rowspan="1">CSHK</td>
+<td colspan="1" rowspan="1">CET</td>
+<td colspan="1" rowspan="1">CSF</td>
+<td colspan="1" rowspan="1">MS</td>
+<td colspan="1" rowspan="1">2024</td>
+<td colspan="1" rowspan="1">000032</td>
+</tr><tr>
+<td colspan="1" rowspan="1">ACC Reference Number:</td>
+<td colspan="1" rowspan="1">1701</td>
+<td colspan="1" rowspan="1">W</td>
+<td colspan="1" rowspan="1">000</td>
+<td colspan="1" rowspan="1">CSC</td>
+<td colspan="1" rowspan="1">760</td>
+<td colspan="1" rowspan="1">000171</td>
+</tr></table>
+
+
+<table border="1" ><tr>
+<td colspan="1" rowspan="1">METHOD STATEMENT TITLE</td>
+<td colspan="1" rowspan="1">Rev.</td>
+</tr><tr>
+<td colspan="2" rowspan="1">Method Statement for Temporary Widening at Sham Shui Kok Drive</td>
+</tr></table>
+
+
+<table border="1" ><tr>
+<td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1">Prepared by:</td>
+<td colspan="1" rowspan="1">Checked by:</td>
+<td colspan="1" rowspan="1">Reviewed by:</td>
+<td colspan="1" rowspan="1">Reviewed by:</td>
+</tr><tr>
+<td colspan="1" rowspan="1">Signature:</td>
+<td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr>
+<td colspan="1" rowspan="1">Name:</td>
+<td colspan="1" rowspan="1">Charles Xu</td>
+<td colspan="1" rowspan="1">Anthony He</td>
+<td colspan="1" rowspan="1">Leung-Kwok Fung /HuiWai Kwan</td>
+<td colspan="1" rowspan="1">MH Isa /WH Lam</td>
+</tr><tr>
+<td colspan="1" rowspan="1">Position:</td>
+<td colspan="1" rowspan="1">GraduateEngineer</td>
+<td colspan="1" rowspan="1">Assist.ConstructionManager</td>
+<td colspan="1" rowspan="1">SM/SO</td>
+<td colspan="1" rowspan="1">QM/QE</td>
+</tr><tr>
+<td colspan="1" rowspan="1">Date:</td>
+<td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr>
+<td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1">Reviewed by:</td>
+<td colspan="1" rowspan="1">Reviewed by:</td>
+<td colspan="1" rowspan="1">Reviewed by:</td>
+<td colspan="1" rowspan="1">Approved by:</td>
+</tr><tr>
+<td colspan="1" rowspan="1">Signature:</td>
+<td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr>
+<td colspan="1" rowspan="1">Name:</td>
+<td colspan="1" rowspan="1">/ Iris Ho</td>
+<td colspan="1" rowspan="1">Yeung Wai Lun</td>
+<td colspan="1" rowspan="1">Paul Freeman/ MarkMcGleenon</td>
+<td colspan="1" rowspan="1">Eric Fong</td>
+</tr><tr>
+<td colspan="1" rowspan="1">Position:</td>
+<td colspan="1" rowspan="1">EM/EO</td>
+<td colspan="1" rowspan="1">A.Project Director</td>
+<td colspan="1" rowspan="1">Sr. Project Director /A. Project Director</td>
+<td colspan="1" rowspan="1">Project Director</td>
+</tr><tr>
+<td colspan="1" rowspan="1">Date:</td>
+<td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1"> ↓</td>
+</tr></table>
+
+CONTENT
+
+1. Introduction
+
+2. Reference Documents
+
+3. Responsibilities for Activities described within Method Statement
+
+4. Programme and Working Hours
+
+5. Plant, Equipment & Material
+
+6. Works Methodology
+
+7. Safety
+
+8. Environmental
+
+9. Quality Control
+
+10. Appendices
+
+This document is controlled in soft copy.
+
+Any hard copies seen are uncontrolled unless Page 2 of 22
+
+chopped with a red control stamp 
+
+
+<table border="1" ><tr>
+<td colspan="1" rowspan="1">1. </td>
+<td colspan="1" rowspan="1">Introduction</td>
+</tr><tr>
+<td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1">This Method Statement is a safety working method & procedures documents to describing the health, safety, environment & quality requirements for the temporary widening of existing SSK Drive to facilitate 2-lanes traffic. The proposed extension of widening covers 180m from the SHD East Gate towards the East. The methodologies of elimination, mitigation and control of risks shall be addressed.Based on the current latest survey result, the proposed extent of temporary widening will be up to approx. 180m, which can provide sufficient lane width for 2-lanes traffic. For the remaining portions in SSK Drive, further coordination is needed with Contract C7, e.g. relocation of materials, to facilitate the temporary widening.Proposed extent of temporary widening at SSK Drive</td>
+</tr><tr>
+<td colspan="1" rowspan="1">2. </td>
+<td colspan="1" rowspan="1">Reference Documents</td>
+</tr><tr>
+<td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1">⚫ General Specification for Civil Engineering Works (NEC4) (MTR Corporation Limited - 2022)⚫ Scope for Contract 1701.⚫ Materials and Workmanship Specification for Civil Engineering Works.</td>
+</tr><tr>
+<td colspan="1" rowspan="1">3. </td>
+<td colspan="1" rowspan="1">Responsibilities for Activities described within Method Statement</td>
+</tr><tr>
+<td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1">CSHK is responsible to inspect and carry out the construction works. The following persons, as listed in the table below, will attend the specific tool-box talk and be responsible for the activities:Name PositionYeung Wai Lun Assistant Project DirectorCF Chan Construction ManagerLuqman Yung Construction ManagerAnthony He Assistant Construction ManagerNick Wang Section AgentAndrew Mak EngineerCai Jin Tian, Tim Engineer</td>
+</tr></table>
+
+
+<table border="1" ><tr>
+<td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1">This document is controlled in soft copy.cAhnoy phpaerdd wciothpi ea sr esde ecno natrreo l usntcaomnpt rolled unless Page 3 of 22</td>
+</tr><tr>
+<td colspan="1" rowspan="1">Andrew Lo </td>
+<td colspan="1" rowspan="1">Graduate Engineer</td>
+</tr><tr>
+<td colspan="1" rowspan="1">Charles Xu </td>
+<td colspan="1" rowspan="1">Graduate Engineer</td>
+</tr><tr>
+<td colspan="1" rowspan="1">Leung Kwok Fung </td>
+<td colspan="1" rowspan="1">Safety Manager</td>
+</tr><tr>
+<td colspan="1" rowspan="1">WK Hui </td>
+<td colspan="1" rowspan="1">Safety Officer</td>
+</tr><tr>
+<td colspan="1" rowspan="1">Ernest Young </td>
+<td colspan="1" rowspan="1">Assistant Safety Officer</td>
+</tr><tr>
+<td colspan="1" rowspan="1">Lau Yu Tat </td>
+<td colspan="1" rowspan="1">Surveyor</td>
+</tr><tr>
+<td colspan="1" rowspan="1">Cheung Siu Kei </td>
+<td colspan="1" rowspan="1">Superintendent</td>
+</tr><tr>
+<td colspan="1" rowspan="1">Ng Ho Lun </td>
+<td colspan="1" rowspan="1">Senior Foreman</td>
+</tr><tr>
+<td colspan="1" rowspan="1">Lam Ka Chun </td>
+<td colspan="1" rowspan="1">Senior Foreman</td>
+</tr><tr>
+<td colspan="1" rowspan="1">Singh Nirdeep </td>
+<td colspan="1" rowspan="1">Foreman</td>
+</tr></table>
+
+(a) Construction Manager 
+
+Responsible for overall administration, monitoring, controlling progress and quality of works in a safe manner.
+
+(b) Site Engineer/ Assistant Engineer/ Site Foreman
+
+b) Site Engineer/ Assistant Engineer/ Site Foreman Responsible for developing works procedures, controlling progress and quality of works in a safe manner. They also have to implement safety at works area for workers via guidance from safety officers.
+
+(c) Safety Manager/ Safety Officer
+
+Responsible for assessing working conditions of work areas in safety means. To prepare risk assessment before works, enforce safety works practice and environment in the workplace and work site.
+
+(d) Worksite Person In Charge (WPIC)
+
+WPIC is in charge of the work in the works areas, which are located at various positions of site. Site Supervisor is also responsible in implementing works control checklist.WPIC/ Site supervisor shall attend pre-work briefing and deliver the work arrangement,included but not limited to proposed working area, sequence of works and safety precautions measures.
+
+(e) Competent Person CP for Underground Utilities Survey
+
+ CP shall undertake the investigation for the purpose of ascertaining within the proposed works site and its vicinity the existence, alignment and depth of any cable and provision of a written report on the findings.
+
+(f) Workers
+
+Workers who have completed RSI training and received a valid qualification.
+
+Emergency Team contact list is enclosed so that work can be safely arranged to suspend for contingency/ reasons. Please refer to Appendix E.
+
+
+<table border="1" ><tr>
+<td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1">This document is controlled in soft copy.cAhnoy phpaerdd wciothpi ea sr esde ecno natrreo l usntcaomnpt rolled unless Page 4 of 22</td>
+</tr><tr>
+<td colspan="1" rowspan="1">4.</td>
+<td colspan="1" rowspan="1">Programme and Working Hours</td>
+</tr><tr>
+<td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1">The method statement is applicable for the Temporary Widening at Sham Shui Kok Drive.The general working hours will be from 08:00-19:00 daily. CSHK would check internally tofulfil the Construction Noise Permit Requirement.</td>
+</tr><tr>
+<td colspan="1" rowspan="1">5.</td>
+<td colspan="1" rowspan="1">Plant,Equipment & Material</td>
+</tr><tr>
+<td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1">All equipment will be inspected prior to the mobilization on site to ensure that they are ingood working condition and comply with the current regulations. The major equipment willbe deployed to carry out the works are as follow and the technical specification is attachedin Appendix D:Grab TruckExcavatorCrane LorryMini Crawler CraneConcrete Trucks</td>
+</tr><tr>
+<td colspan="1" rowspan="1">6.</td>
+<td colspan="1" rowspan="1">Works Methodology</td>
+</tr><tr>
+<td colspan="1" rowspan="1">6.1</td>
+<td colspan="1" rowspan="1">Preparation Works</td>
+</tr><tr>
+<td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1">UU Detection Works at Verge AreaRefer to separation submission under 1701-W-000-CSC-760-000095.The existing UU will be detected and recorded in layout plan.Appropriate tools for handling the plank cover should be utilized.Site Clearance Works at Verge Area·Refer to separation submission under 1701-W-000-CSC-760-000177.</td>
+</tr></table>
+
+⚫ The weeds within the verge area will be removed by hand tools, grab lorry by portions.
+
+<!--    -->
+
+Proposed work division along SSK Drive for site clearance.
+
+<!-- Typical works arrangement for grass removal by grab lorry  -->
+
+
+<table border="1" ><tr>
+<td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1">This document is controlled in soft copy.cAhnoy phpaerdd wciothpi ea sr esde ecno natrreo l usntcaomnpt rolled unless Page 6 of 22</td>
+</tr><tr>
+<td colspan="1" rowspan="1">6.2</td>
+<td colspan="1" rowspan="1">Detailed of Temporary Widening</td>
+</tr><tr>
+<td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1">6.2.1 GeneralThe widening of SSK Drive will be divided in portions, with approx.length of 30m,subject to site conditions.East GateHWM1 Rubble2237~30m 45 PRECAS6MTRCProposed extent of works by portions</td>
+</tr><tr>
+<td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1">6.2.2 Excavation and Preparation for concrete block placing (Portions 1-6)Survey reference marks will be provided on site to define the excavation level.3-tons excavator is used to excavate and prepare surface for concrete block placingwithin the verge area. For area adjacent to the RP fencing, preparation by hand tool isneeded.The excavator will be located on flat ground to prevent overturn.The work will be carried out portions by portions, approximately 30m per portion,depends on the actual site conditions.After completion of formation, blinding layer will be casted with approx. 75mm thick.For procedure of casting floor blinding, please refer to Appendix G.HWM3-tons Excavator xKIESS RSD EDOREMATERIAL STORAGE AREA--Fence off arrangement during excavation stage</td>
+</tr></table>
+
+Typical section of works during excavation and preparation stage
+
+Blinding layer construction before concrete block placing
+
+
+<table border="1" ><tr>
+<td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1">6.2.3 Concrete block placing by Crane Lorry / Mini Crawler Crane – site setting up layout for Portion 1⚫ Crane lorry / Mini Crawler Crane will occupy the SSK drive partly during the lifting operation.⚫ Coordination with Contract C7 and Depot area will be arranged prior to start.⚫ The works will be carried out portions by portions, approximately 30m per portion, depends on the actual site conditions.⚫ For concrete block placing and interlocking, temporary work inspection should be arranged with TWC before backfilling around the verge area.⚫ The steel pole and wire mesh fencing should be installed concurrently after a portion of blocks are in position, e.g. 15m extent.⚫ Briefing to workers will be conducted to prevent unauthorized entry to track area.</td>
+</tr></table>
+
+⚫ Briefing to workers will be conducted to prevent unauthorized entry to track area.
+
+<!-- Site set up for Crane Lorry / Mini Crawler Crane during concrete block placing (Portion 1) Typical Section of Works during concrete block placing by crane lorry / mini-crawler crane 6.2.4 Concrete block placing by Crane Lorry / Mini Crawler Crane – site setting up layout for Portion 2-6 ⚫ With the completion of portion 1 backfilling with compaction, the crane lorry / Min  -->
+
+⚫ The widening and backfilling works along the 180m extent will be carried out by portions.
+
+Site set up for Crane Lorry / Mini Crawler Crane during concrete block placing (Portion 2-6)
+
+* Clearance from the existing tension feeder wires
+
+⚫ The lifting operation shall NOT enter the RP fence area.
+
+⚫ Considering the existing tension feeder wires with the depot area, the clearance from the RP fencing to the wire is further checked, which is ranging from 2.2m – 3.7m.
+
+Clearance check between RP fence and feeder wires
+
+
+<table border="1" ><tr>
+<td colspan="1" rowspan="1">This document is controlled in soft copy.cAhnoy phpaerdd wciothpi ea sr esde ecno natrreo l usntcaomnpt rolled unless Page 10 of 22</td>
+</tr></table>
+
+6.2.5 Sequence of Concrete block placing and U-channel installation
+
+⚫ Concrete block placed will be interconnected by U-channel, fixed by bolts.
+
+⚫ Approximate 3 blocks will be connected as a group.
+
+Typical arrangement for concrete block interlocking
+
+Typical section for concrete block interlocking
+
+6.2.6 Backfilling at verge area
+
+⚫ After completion of block installation and interlocking by U-channel, the remaining verge area will be backfilled with compaction.
+
+⚫ The backfilling work will be demarcated within the verge area.
+
+⚫ Backfilled by excavator, the formation will be compacted by vibrating compactor.
+
+⚫ Reference mark will be provided during backfilling.
+
+Typical section for backfilling at verge area
+
+This document is controlled in soft copy.
+
+Any hard copies seen are uncontrolled unless Page 11 of 22
+
+chopped with a red control stamp 
+
+6.2.7 Installation of Wire Mesh
+
+⚫ Materials for the wire mesh fencing rail will be delivered on site for site installation.
+
+⚫ Wire mesh material will be erected and installed by manual handling through bolts and nuts connection. Suitable working platform with Form 5 endorsed by competent person shall be provided if working at height is required.
+
+⚫ Works will be carried out within backfilled area, fenced off by barrier.
+
+<!-- Sequence of works for wire mesh fence installation  -->
+
+
+<table border="1" ><tr>
+<td colspan="1" rowspan="1">This document is controlled in soft copy.cAhnoy phpaerdd wciothpi ea sr esde ecno natrreo l usntcaomnpt rolled unless Page 12 of 22</td>
+</tr></table>
+
+
+<table border="1" ><tr>
+<td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1">6.2.8 Installation of beam barrierMaterials for steel rail barrier will be delivered on site for site installation by bolts andnuts connections.Works will be carried out within backfilled area, fenced off by barrier.1.Installation ofrail barrier pole 2.Installation ofhorizontal railSequence of works for steel rail barrier installation</td>
+</tr><tr>
+<td colspan="1" rowspan="3"></td>
+<td colspan="1" rowspan="1">6.2.9 Concrete PavementAfter completion of all beam barrier and fencing, concrete pavement will be poured byportions.</td>
+</tr><tr>
+<td colspan="1" rowspan="1">Fence offCompleted concrete pavementHWMPaver machine12Rubble 3345 PRECNST 9.46</td>
+</tr><tr>
+<td colspan="1" rowspan="1">Site set up for concrete pavement at portion 1</td>
+</tr><tr>
+<td colspan="1" rowspan="3"></td>
+<td colspan="1" rowspan="1"></td>
+</tr><tr>
+<td colspan="1" rowspan="1"></td>
+</tr><tr>
+<td colspan="1" rowspan="1">Site set up for concrete pavement at portion 2-6</td>
+</tr><tr>
+<td colspan="1" rowspan="1">7. </td>
+<td colspan="1" rowspan="1">Safety</td>
+</tr><tr>
+<td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1">⚫ All workers shall be equipped with reflective vests and safety helmets during operation. All workers must go through a briefing by the Construction Manager / Engineer / Safety Officer / Safety Supervisor before commencement of any works.⚫ A pre-meeting will be arranged before commencement of the work among Survey Team, Construction Team and Safety Team to brief the nature of works, the safety aspects and the necessary safety requirements as identified in the Risk Assessment in Appendix C.⚫ To ensure the worker carrying out the inspection pit excavation works are fully informed of the risks and they are aware of the measures to control those risks, the Briefing will be provided before operation commence.⚫ Safety helmets fitted with chin straps must be worn within the site, safety boots, hearing protectors (if needed), high visibility jackets / sashes, reflective vests, goggles, gloves and full body harnesses for work at height will be provided to all staff working on site. Plastic barriers and reflective traffic cones will be prepared prior to work commencement to demarcate the working area.⚫ For any lifting operation, full supervision by lifting supervisor should be ensured. Only authorized personnel are allowed to assist the work.⚫ Prior to temporary traffic arrangement at SSK Drive, advance notification to depot shall be arranged. ⚫ Any emergency situation shall be reported to site supervisors (i.e. Construction Manager/ Engineer/ Foreman etc.) and Safety Department for prompt response. The emergency contact list is shown in Appendix E.</td>
+</tr></table>
+
+
+<table border="1" ><tr>
+<td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1">The risk for the works shall be assessed and the Risk Assessment Analysis is shown inAppendix C.</td>
+</tr><tr>
+<td colspan="1" rowspan="1">8.</td>
+<td colspan="1" rowspan="1">Environmental</td>
+</tr><tr>
+<td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1">General ArrangementGeneral works shall be carried out during normal hours from 08:00 am to 07:00 pm. No workswill be carried out after 07:00 pm on Sunday or public holiday without approval constructionnoise permit.ULSD diesel will be used in all PME.Plant with QPME label will be employ, if available.Only plant with NRMM label will be used unless exempted.All chemicals will be placed on drip tray.For site clearance, water spray will be carried out during the work to prevent dustgeneration.Waste water will be treated prior to disposal.Water spray will be carried to suppress dust during excavation.Materials (weeds, fragments) shall be temporary stored in designated location and removedoff site.·The works shall follow relevant mitigation measures as required under theEnvironmental Permit (EP) / EP submission and Contractor's EnvironmentalManagement Plan (EMP)</td>
+</tr><tr>
+<td colspan="1" rowspan="1">9.</td>
+<td colspan="1" rowspan="1">Quality Control</td>
+</tr><tr>
+<td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1">Refer to Appendix B for Inspection and Test Plan.· Construction works shall be fully complied with Quality Plan.For work activity which is classified as "Quality Hold Point", no subsequent work can bestarted unless the former work activity was inspected and accepted by MTR's inspectorate.</td>
+</tr><tr>
+<td colspan="1" rowspan="1">10.</td>
+<td colspan="1" rowspan="1">Appendices</td>
+</tr><tr>
+<td colspan="1" rowspan="1"></td>
+<td colspan="1" rowspan="1">A. Proposed extent of temporary widening at SSK DriveB. Inspection and Test Plan (ITP)C.Risk AssessmentD. Technical Specification for Equipment and PlantsE. Emergency Contact ListF. Lifting Method for concrete blocks and steel polesG. Lifting Method for concrete skip bucket</td>
+</tr></table>
+

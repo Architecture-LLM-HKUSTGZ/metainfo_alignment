@@ -1,0 +1,327 @@
+MS Reference Number: CSHK CET MS C 2024 000056
+
+ACC Reference Number: 1701 W 000 CSC 760 000138
+
+
+Rev.A
+
+
+Prepared by: 
+Checked by: 
+Reviewed by: 
+Reviewed by: 
+
+Signature: 
+
+Name: David Lam
+Vincent Li
+Leung Kwok Fung/HuiWai Kwan
+MH Isa/WH Lam
+
+Position: Senior Engineer
+Construction Manager
+SM/SO
+QM/QE
+
+Date: 21-Mar-2024
+21-Mar-2024
+21-Mar-2024
+21-Mar-2024
+
+Reviewed by: 
+Reviewed by: 
+Reviewed by: 
+Approved by: 
+
+Signature: 
+
+Name: MH Isa/tris Ho
+Yeung Wai Lun
+Paul Freeman/ MarkMcGleenon
+Eric Fong
+
+Position: EM/EO
+A. Project Director
+Sr.Project Director /A. Project Director
+Project Director
+
+Date: 21-Mar-2024
+21-Mar-2024
+21-Mar-2024
+21-Mar-2024
+
+CONTENT
+
+1. Introduction
+2. Reference Documents
+3. Details of Sub-Contractor/Specialist Sub-Contractor
+4. Responsibilities for Activities described within Method Statement
+5. Programme and Working Hours
+6. Plant, Equipment & Material
+7. Construction Methods / Construction Sequence
+8. Safety
+9. Environmental
+10. Quality Control
+11. Appendices
+
+This document is controlled in soft copy.
+Any hard copies seen are uncontrolled unless chopped with a red control stamp Page 2 of 42
+
+1. Introduction (Overview of the operation/works)
+
+According to the working drawing and BD approval drawing instrumentation and monitoring shall be installed before commencement of the piling works. The instrumentation monitoring (I&M) points should be installed in influence zone that may be affected during construction work. The regular settlement monitoring will be conducted during the construction period. Revisions to this document from the first approved submission are shown highlighted in yellow.
+
+accordance with the BUGN2023/21 (issue/Rev:1.0), RSR and EDOC procedure. This method statement described the I&M installation works details in CAs.
+
+This method statement included the type, sequence and installation details of instrumentation points.
+
+TPCAL OPTICAL PRISM FRONG DETALSoF OPTICAL PRSM ON THE TRACK SLEEPERELANVIEW ON INCUNOMETERVERTICALNONOMERINROCKANO.SOL) STANCERALATONDMTR
+
+SIU HO WAN DEPOT PROPERTY DEVELOPMENT
+
+CONTRACT NO. 1701OYSTER ASSOCIATED WORKSMITMATON ARO MO089T1701/m/5xb/0ur/C0953
+
+ARUPSported Cme &Bronhal Lad1701-W-5H0-0AP-5TE-003/
+
+Ground Settlement Marker (GS)
+
+Utility Settlement Marker (UT)
+
+Building Settlement Marker (BS)
+
+中國建築工程（香港）有限公司 CHINA STATE CONSTRUCTION ENGINEERING (HONG KONG) LIMITED
+
+This document is controlled in soft copy. Any hard copies seen are uncontrolled unless Page 3 of 42 chopped with a red control stamp
+
+Tilting Marker (TM) Vibration Marker (VM) Standpipe and Piezometer (SP) Inclinometer (IN) Crack Gauge
+
+2. Reference Documents (Identify relevant documents by name and reference number)
+
+1. PNAP APP-24 –Railway Protection under Railways Ordinance, Mass Transit Railway (Land Resumption and Related Provisions) Ordinance and Area Number 3 of the Scheduled Areas in Schedule 5 to the Buildings Ordinance
+2. PNAP APP-137 –Ground-borne Vibrations and Ground Settlements Arising from Pile Driving and Similar Operations
+3. PNRC 14 – Railway Protection under Railways Ordinance, Mass Transit Railway (Land Resumption and Related Provisions) Ordinance and Area Number 3 of the Scheduled Areas in Schedule 5 to the Buildings Ordinance
+4. MTRCL-New Works Design Standards Manual - Section 3-Railway Engineering
+5. Hong Kong Transport Services Business Unit Requirements and information for contractor
+6. Hong Kong Transport Services Unit Railway Safety Rules
+7. MTRCL Working Paper No.6-Railway Protection- Revision B-December 2022
+8. MTRCL Contract 1701 Oyster Bay Station and Associated Works-(S2) Scope-Vol 4 (Book 4 of 9) Appendix AM-Clients Rules and Procedures for Working Within or Adjacent to the Railway
+9. MTRCL Contract 1701 Oyster Bay Station and Associated Works – Instructions TO Tenders
+10. MTRCL Contract 1701 Oyster Bay Station and Associated Works – Contract Data
+
+3. Details of Sub-Contractor/Specialist Sub-Contractor
+
+Sub-contractor procurement is ongoing and shall be provided separately once awarded.
+
+4. Responsibilities for Activities described within Method Statement
+
+CSHK is responsible to inspect and carry out the construction works. The following persons, as listed in the table below, will attend the specific toolbox talk and be responsible for the activities:
+
+Company Name Position
+CSHK Vincent Li Construction Manager
+Nana Chung Assistant Construction Manager
+David Lam Senior Engineer
+Johnson Chung Senior Engineer
+Kingsley Zhao Assistant Engineer
+Li Man Hin Graduate Engineer
+Cheung Siu Kei Superintendent (WPIC)
+Wong Yu Fung Senior Foreman
+Ng Ho Lun Senior Foreman
+Pun Chi Ho Foreman
+Luk Si Sun Mechanic & authorized electrician
+Leung Ho Kit Survey Manager
+Lau Yu Tat Senior Surveyor
+
+5. Programme and Working Hours (Start & finish date of operation/works)
+
+The works will be carried on daytime from 08:00 am to 07:00 pm, Monday to Saturday.
+
+All plants and equipment will be inspected prior to the mobilization on site to ensure that they are in good working condition and comply with the current regulations.
+
+All statutory forms/certificates of Lifting Appliances (LA) and Lifting Gear (LG) must be valid.
+
+Before the operation of the plant, CSHK will arrange a plant inspection with MTR CWBU inspector, if they are in good working condition, CSHK will submit the plant permit and permit to lift of the plant.
+
+The major plants, equipment, and materials will be deployed to carry out the works are as follows:
+
+Plant / Equipment Quantity
+Drilling rigs 6
+12V/ 24V Battery Operated Handheld Drilling Machine 10
+Hand Excavation Tools 24
+Cable Detection Equipment 4
+50 Ton Crane Lorry 2
+Crane Lorry 2
+Total Station (TS16A-1”) 6
+Digital Level (LS15) 18
+Water Level Meter 12
+Portable Tilt Meter 6
+Portable Inclinometer Meter 6
+Portable Vibration Sensor 6
+Surveying Poles, 2.15m length (extendable) 12
+
+Materials Quantity
+Ground Settlement Marker (GS) 12mm dia. steel rod welded on 250x250x4mm thick steel plate 25mm dia. PVC sleeve 300 x 300 hinged cast iron cover 800 800 800
+Utility Settlement Marker (UT) 12mm dia. steel rod welded on 40x40x8mm thick steel plate 25mm dia. PVC sleeve 300 x 300 hinged cast iron cover Marker/ Paint 100 100 100 100
+Tilting Marker (TM) Survey Tag 600
+Track Monitoring Marker (TS) 
+Optical Prism Epoxy resin 1000 800
+Building Settlement Marker (BS) Marker/ Paint 700
+Crack Gauge 600
+Standpipe and Piezometer (SP), Inclinometer (IN) 140 140
+PVC Pipe, 6m length Backfilling materials 25kg 
+Actual Quantity are approximate only, actual quantity will be changed subject to the site conditions.
+
+7. Construction Methods / Construction Sequence Drawings
+
+1 Arrangement for Works within Construction Areas (CAs)
+1.1 For the drilling works, pit excavation the works area is required fence off by plastic barriers before commencing.
+1.2 All site staff should wear the required PPE such as safety helmet, reflective vest, and safety boots.
+1.3 CP(T) shall be appointed to escort all transportation inside the SHD.
+1.4 CP(T) shall be appointed to provide pre-work safety briefing at the worksite and WPIC to brief the works for all workers at the worksite before commencing the works.
+1.5 CP(T) shall report to depot before works could commence (if needs).
+1.6 For those who carried out works within 10m from the boundary of OAs, should have railway qualification of RSI and be supervised by CP(T). For easy identification on-site, the 10m extent will be set.
+1.7 Demarcate and barricade the operation zone with a reflective cone and work within the barricaded area.
+1.8 If the works will be affected operation of track, authority shall be sought in prior commencement of any operation.
+1.9 CP(T) shall coordinate with DYM when using the west level crossing to the works areas.
+1.10 CP(T) shall be responsible for measuring the height of the vehicle to ensure the height of vehicles with materials/plants is within 4m height restriction before allowing vehicles to use the west level crossing.
+1.11 Large plants transportation shall be carried out in NTH.
+1.12 If the GS/ UT construction works affected the access road, the temporary cover may be required.
+1.13 Fuel filling services for the drilling rig should be carried out at nighttime. To minimize the risk, keep the volume of the fuel tank enough for the next day’s work only. The adequate firefighting tools/materials will be provided on Site. (if needs).
+1.14 Keep the works area tidy daily.
+1.15 CP(T) ensure no any materials/ waste left in the boundary of OAs.
+1.16 Inform DYM before leaving daily (if needs).
+1.17 Apart from CP, WPIC will be assigned for the installation works (if needs). Details of traffic and security plan, and the control of movement in and out of the CA, shall refer to the separate submission.
+
+2Access Route
+
+Plant and material deliver to works area W3, W7, W11, and W12 shall be via the west gate and west level crossing in the initial stage when the vehicular bridge is not ready. Vehicles will be escorted by an escort car with CP(T) after entering the depot, or from the East gate when the vehicular bridge is open for use.
+
+MTR 中國建林工程（碧港）有限公司 MTR ONASI HONG KONG UMTID OHA SA CONTCTON INGNNG HONG KONG TD 中國建林工程（春港）有限公司
+
+2.TRAFFIC AND SECURITY MANAGEMENT
+
+Shuttle buses and Contractor Vehicle Arrangement
+
+Shuttle buses and Contractor Vehicle Arrangement ·Car type, car plate, and driver information will be provided to the Security Operation Centre (SOC) to obtain the entry permit through the west gate/east gate. ·Before entering the west gate/east gate, CSHK, CP(T)-8·Shuttle buses/Contractor Vehicle should display the entry permit, a label with the wordings '1701 Contractor Vehicle, 4m measure the height of the vehicle, ensure the height is within and the destination (e.g.W7) on the windscreen.
+
+·After entering the west gate/east gate, the shuttle bus. CSHK will report the total number of workers in/Out Records to SOC Daily / vehicle will be accompanied by the escort vehicle with CP(T)
+
+·After entering the west gate/east gate, the shuttle bus/Contractor Vehicle will be accompanied by the escort vehicle with CP(T) to entry Depot ·Before left SHD, CSHK, CP(T) will measure the height of the vehicle again, ensure the height is within 4m
+
+SW Su He Wan Depot Property
+Development
+
+(DETAILS REFER TO TRAFFIC AND SECURITY MANAGEMENT SUBMISSION)
+
+For W1, shall be from North Lantau Highway via Depot Slip Road.
+
+MTR CHINA STATE CONSTRUCTION ENGINEERING (HONG KONG) LIMITED 中國建築工程（香港）有限公司
+
+RAILWAY PROTECTION FENCING INSTALLATION (NTH)LAYOUT
+
+South Road AEL/TCL Works Area W1 小蠔灣車廠物 Siu Ho Wan Depot Development
+
+中國建築工程（香港）有限公司 This document is controlled in soft copy.
+
+CHINA STATE CONSTRUCTION ENGINEERING (HONG KONG) LIMITED Any hard copies seen are uncontrolled unless Page 7 of 42
+
+chopped with a red control stamp
+
+(Details please refer to submission “Traffic Management Plan”)
+
+When Work Area within Depot, CSHK would submit the NTH/NPH (SPA/PA) and AP(E) application with a program to MTR via ETMS accordingly.
+
+4 Worker Verification
+
+• All workers will be picked up at a designated area such as Tung Chung Station.
+
+• During boarding the shuttle bus, hand-held facial recognition will be performed to verify the worker's qualification.
+
+• The facial recognition system will check if the person has passed the RSI and possesses a green card.
+
+• List of workers shall be submitted for MTR for registration before starting works, the list shall be updated weekly and available for MTR as requested.
+
+Uniform and Safety Equipment: All workers shall wear PPE and the standard uniform and safety helmet for easy recognition by security guards and DYM.
+
+5 Preparation Works
+
+Before the commencement of the installation, the following works shall be completed
+
+5.1 General
+
+5.1.2 Identify all existing MTR’s facilities/ equipment/ materials (e.g. pipeline, ducting, and trough) at or within the installation area during the site condition survey. After that, the identified existing MTR’s facilities/ equipment/ materials will be fenced off/ protected/ isolated/ relocated/ diverted before starting the construction works.
+
+5.1.3 Site clearance will be carried out after the proposed installation locations are confirmed.
+
+5.2 Setting Out
+
+5.2.1 The location of each monitoring point will be set out at the coordinates shown on the Construction Drawings or as agreed with MTR’s representative on site.
+
+5.2.2 Once the location has been set out a joint inspection will be held with MTR’s representative on site and other stakeholders such as Utility Company or the land owner’s/ occupier’s representatives to agree on the location prior to further execution. At locations where the proposed monitoring point is unlikely to or dangerous to access for either installation or later monitoring works, relocation shall be considered. Alternatively, safe access to the location will be constructed.
+
+5.2.3 Referring to the railway safety requirements and construction drawings, if the proposed monitoring point is close to the OHL mast/ track, CSHK will further verify the site condition with the MTR representative onsite to ensure that the proposed location meets the minimum safety distance and take relative precautions, such as de-energize, isolation, or relocation.
+
+Minimum Safety Distance for Track
+
+Test Track/ Mainline 2995mm from the center of track
+Depot Track 2615mm from the center of track
+
+5.3 Cable Detection
+
+UU detection will be carried out before the start of the works. For details, please refer to a separate submission.
+
+5.4 Trial Pit
+
+Trial Pits will be carried out in accordance with Permit-to-Dig System before the start of the works. The details please refer to a separate submission.
+
+5.5 Utility Diversion/ Abended Works
+
+Any utility required to diversion or abandoned will be carried out with relevant approved EDOC prior to start the instrumentation installation works.
+
+5.6 Temporary Drainage System Supply
+
+Wetsep will be set up when fencing/ water-filled barriers once installed. Proposed locations please refer to Appendix D – Proposed Discharge Points.
+
+5.7 Pre-construction survey will be carried out before the commencement of the works, survey of existing MTR equipment at ground level, UU detections shall be completed. Reports to be submitted to MTR, showing the protections applying to the MTR equipment.
+
+6Lifting Arrangement
+
+6.1 Lifting Procedure
+
+6.1.1 Check the ground conditions for the crane lorry;
+
+6.1.2 Apply the Permit-to-Lift (e.g. Lifting Plan, 80% of Lifting Capacity checking);
+
+CNCTIH
+Siu Ho Wan Depot Property Deve Permit-to-LiftContract 1701-Oyster Bay Station and Associated Works吊運操作許可證
+
+Part A-Basic Information甲部·基本料
+
+Sub-Con／Dept分判商／部門 Date 日期Location位Dsta heMeter重福区内 evertead cabie费：- *购票Description of Lifting Works:吊運作内容Type of Crane 起重機類：□Crawer 履带式Hydraulic 液壓式□Crane Lorry-EN12999□OtherModel型號： Serial No 編號：Name of Operator: License No.:操作姓名 机用號碼Name of Signaler: Binper:吊索工姓名Lifting Gears: ID Mark SWL吊理工 1 碼 安操作章ID Mark SWL:2) 號碼 安操作息ID Mark SWL:3) 號碼 安操作章ID Mark SWL: 號碼 安全作ID Mark SWL:5) 等码 安全作
+
+6.1.3 After approved, fence off the lifting area by plastic barriers.
+
+CRANE LORRY PROPOSED ALIGNMENT OF Plastic Barriers Casing EXISTING OHL MAST
+
+中國建築工程（香港）有限公司 CHINA STATE CONSTRUCTION ENGINEERING (HONG KONG) LIMITED
+
+This document is controlled in soft copy. Any hard copies seen are uncontrolled unless Page 11 of 42 chopped with a red control stamp
+
+6.1.4 Lift the rig and equipment to the works area.
+
+6.1.5 Lifting Capacity Checking Details (Sample)
+
+Weight of Rig: 1460kg
+
+Capacity of Crane Lorry: 4135 kg@10.05m
+
+80% Capacity of Crane Lorry: 3308 kg
+
+3308&gt;14600K!
+
+10m CRANE LORRY PROPOSED ALIGNMENT OF ELS FOR TUFWL Plastic Barriers C70g UTe
+
+中國建築工程（香港）有限公司 This document is controlled in soft copy.
+
+CHINA STATE CONSTRUCTION ENGINEERING (HONG KONG) LIMITED Any hard copies seen are uncontrolled unless Page 12 of 42 chopped with a red control stamp
+
+FASSI F455A.2.230 2 4 6 8 10 12 DE 1216015138000118400975 15°031135009500681551504135kg2,954,206,108,0510,050N P Q332026202020kg12,1514,4516

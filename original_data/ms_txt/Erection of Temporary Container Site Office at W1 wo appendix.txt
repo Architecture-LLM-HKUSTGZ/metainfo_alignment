@@ -1,0 +1,81 @@
+MS Reference Number: CSHK CET MS C 2024 000028
+
+ACC Reference Number: 1701 W 000 CSC 760 000054
+
+METHOD STATEMENT TITLE: Rev.C
+
+Erection of Temporary Container Site Office at W11
+
+Prepared by: Nana Chung
+Checked by: Vincent Li
+Reviewed by: KF Leung/WK Hui, MH Isa/WH Lam, MH Isa/Iris Ho
+Approved by: Eric Fong
+
+Positions:
+- Assistant Construction Manager: Nana Chung
+- Construction Manager: Vincent Li
+- SM/SO: KF Leung/WK Hui
+- QM/QE: MH Isa/WH Lam
+- EM/EO: MH Isa/Iris Ho
+- Project Director: Eric Fong
+
+CHINA STATE CONSTRUCTION ENGINEERING (HONG KONG) LIMITED
+This document is controlled in soft copy. Any hard copies seen are uncontrolled unless chopped with a red control stamp.
+
+CONTENT
+
+1. Introduction
+
+2. Details of Sub-Contractor/Specialist Sub-Contractor
+
+3. Responsibilities for Activities described within Method Statement
+
+4. Programme and Working Hours
+
+5. Resources, Plant, Equipment & Material
+
+6. Traffic and Security Management
+
+7. Construction Methods / Construction Sequence
+
+8. Safety
+
+9. Environmental
+
+10. Appendices
+
+This document is controlled in soft copy.
+Any hard copies seen are uncontrolled unless chopped with a red control stamp.
+
+Introduction (Overview of the operation/works)
+After handover work areas to CSHK, the container site office at W11 will be erected to provide workstations and facilities. The method statement describes the method and sequence of erection.
+
+Details of Sub-Contractor/Specialist Sub-Contractor
+The works will be carried out by direct labour and supervised by front-line staff. A full-time CP (Railway Safety Rules and Requirements) will be on site, and workers must possess Railway Safety training (RSI).
+
+Responsibilities for Activities described within Method Statement
+CSHK is responsible for inspecting and carrying out the construction works, with specific personnel attending tool-box talks and being responsible for activities.
+
+Programme and Working Hours (Start & finish date of operation/works)
+The works will commence at the end of January 2024 and target completion by mid-March 2024, operating from 08:00 am to 07:00 pm, Monday to Saturday.
+
+Resources, Plant, Equipment & Material (Identify type, model, and specification of MAJOR plant & equipment)
+Plant and equipment will be inspected prior to mobilization on site. Major plants and equipment include Crane Lorry/Lorry, 3T Backhoe, Grab Lorry, Generator (QPME), Step Platform/Cherry Picker. Manpower will include General Labour, Rigger, Driver, Operator, Fire Warden.
+
+Lifting Plan
+45 tons Crane Lorry and 3T Backhoe lifting plans are detailed, ensuring safe operation within the calculated safety factor.
+
+Traffic and Security Management
+Contractor Vehicle Arrangement includes pre-registration, display of entry permit and destination, daily In/Out Records to SOC, and vehicle height checks. Worker Verification includes facial recognition and verification of worker qualifications.
+
+Construction Methods / Construction Sequence Drawings
+Preparation includes information provision to MTR CWBU Inspector, training for workers, and welfare facilities setup. Site Clearance and Construction Works include protection of existing MTR facilities, UU detection, site clearance works, and fencing. Laying Blinding Concrete and Erecting the Temporary Container Site Office involves laying concrete blinding, erecting the office, and connecting utilities.
+
+Safety (Risk Assessments)
+Risk assessment and Job hazard analysis are provided in Appendix A, with specific safety procedures and precautions developed for site operatives.
+
+Environmental (Environmental aspect & impact identification as well as mitigation measures)
+Mitigation measures include carrying out works during normal hours, using ULSD diesel, employing QPME labeled plant, and having facilities for a smoke area.
+
+Appendices (Identify and include additional information in the submission package)
+Include risk assessment, equipment catalogue, layout plan, lifting plan, emergency contact list, and ITP (N/A).

@@ -1,0 +1,358 @@
+MS Reference Number: CSHK CET MS C 2024 000067
+
+ACC Reference Number: 1701 W 000 CSC 760 000287
+
+
+METHOD STATEMENT TITLE Ref No. Rev.-
+
+General Lifting Plan for North of Bifurcation Works
+
+
+Prepared by: Checked by: Reviewed by: Reviewed by:
+
+Signature: P ← 君 거
+
+Name: LI Wenguang Vincent Li Leung Kwok Fung/Hui Wai Kwan MH Isa /WH-Lam
+
+Position: Engineer ConstructionManager SM/SO QM/QE
+
+Date: 16151261512024 16 1512024 171512024 171512024
+
+Reviewed by: Reviewed by: Reviewed by: Approved by:
+
+Signature: W Yeung u yeua ~
+
+Name: James Ma/Iris Ho Yeung Wai Lun Paul Freeman /Mark McGleenon Eric Fong
+
+Position: EM/EO A. Project Director Sr. Project Director /A. Project Director Project Director
+
+Date: 171512024 201512024 2015/2024 20/5/24
+
+中國建築工程（香港）有限公司CHINA STATE CONSTRUCTION ENGINEERING (HONG KONG) LIMITED
+
+This document is controlled in soft copy.Any hard copies seen are uncontrolled unless Page 1 of 48chopped with a red control stamp
+
+Date:
+
+
+**CONTENT**
+
+1. Introduction
+
+2. Reference Documents
+
+3. Details of Sub-Contractor/Specialist Sub-Contractor
+
+4. Responsibilities for Activities described within Method Statement
+
+5. Programme and Working Hours
+
+6. Plant, Equipment & Material
+
+7. Logistic Management
+
+8. Construction Methods / Construction Sequence
+
+9. Safety
+
+10. Environmental
+
+11. Quality Control
+
+12. Appendices
+
+This document is controlled in soft copy.
+
+Any hard copies seen are uncontrolled unless Page 2 of 48
+
+chopped with a red control stamp
+
+1. Introduction (Overview of the operation/works)
+
+For the construction of the north bifurcation works, access and material delivery shall be via the level crossings to be installed across the existing test track (method statement to be submitted separately). Due to the site constraint between the mainline and the Test Track it is not possible to maintain a site haul road throughout the works area during foundation works, especially at the east of works area W2 due to the existing exposed rock head and sloping ground profile. To support the construction work, a lifting method over the Test Track has been considered as an alternative means of delivery. In general, a mobile crane will be set up at the South Road and Works Area W11G for lifting material/equipment over the test track to the works areas between the test track and the mainline. All lifting works over the Test track are subject to EDOC and BUGN approval and it has been agreed with RP/HKTS to prepare this general lifting method statement so as to shorten the approval time. This method statement covers all lifting operations for the delivery of material/equipment above and across the live Test Track to Works Area W2. Typically, this includes 4.5m/ 7m RP fence material, piling material (socket H pile & mini pile), sheet piles, rebar, excavation spoil removal, other construction materials, etc. The detailed arrangement is described in the following sections.
+
+2. Reference Documents (Identify relevant documents by name and reference number)
+
+(Library) Working Paper No.6 – Railway Protection General Specification for Civil Engineering Works (NEC4) (MTR Corporation Limited - 2022) Scope for Contract 1701 Materials and Workmanship Specification for Civil Engineering Works
+
+3. Details of Sub-Contractor/Specialist Sub-Contractor
+
+The works will be carried out by our subcontractor and supervised by our front-line staff such as a WPIC. A CP(T) will also be provided as required with 1 CP appointed for every 20 workers at the same work area. All workers shall possess the qualification Railway Safety Training (RSI). A WPIC will be assigned to supervise the construction works at each work site.
+
+4. Responsibilities for Activities described within Method Statement
+
+CSHK is responsible to inspect, supervise and carry out the construction works. The following persons, as listed in the table below, will attend the specific tool-box talk and be responsible for the activities:
+
+Company Name Position
+
+CSHK Li Shek Chau, Vincent Construction Manager
+
+CHUNG Ying Na, Nana Assistant Project Manager
+
+LAM Toi Wai, David Senior Engineer
+
+CHUNG Hong Wing, Johnson Senior Engineer
+
+Tsang Kwok Ming Engineer
+
+LI Wenguang Engineer
+
+LI Man Hin Graduate Engineer
+
+ZHAO Jing, Kingsley Assistant Engineer
+
+Cheung Siu Kei Superintendent (WPIC)
+
+Benny Yeung General Foreman
+
+Jacky To Foreman
+
+TBC CP(T)
+
+5. Programme and Working Hours (Start & finish date of operation/works) The material/equipment lifting arrangement is planned to commence from Jul 2024. The lifting operation will be carried out in NTH from 02:00 – 4:00 am daily, from Monday subject to coordination and approval of the Depot Yard Master (DYM). Preparation works will be carried out in TH/ NPH. The above envisaged working times may be subject to amendment to suit the depot working and will be agreed with the DYM in advance. Plant, Equipment & Material (Identify type, model, and specification of MAJOR plant & equipment) All plant and equipment will be inspected prior to mobilization on site to ensure they are in good condition and comply with all current regulations. A plant permit system will be adopted to ensure all of the lifting crane and appliances are checked before use. Construction materials to be lifted are primarily RP fence components, sheet piles, casing and socketed H-Pile, excavation spoil, rebar or concrete, etc. Equipment/plant includes silent piling generators, skips, water/fuel tanks, and hand tools. Details are listed in the following table.
+
+Item Material Size (m) Weight (ton)
+
+1 Concrete Block （H） 5.7
+
+2 4.5m Fence Panel 2
+
+3 7m Fence Panel 2.25（L）×5.5 (H) 3
+
+4 Sheet Pile （Ⅲ） 6 to 12 2.5 to 5
+
+5 Casing (610 Dia. Min. 5mm Thk. ） 6 to 12 1.5 to 3
+
+6 Site Formation Material ( Concrete block, subbase material, etc.) 1m x1m x1m 1.5 to 3
+
+7 H-Beam （305x305x223kg/m） 6 to 12 2.6 to 5.2
+
+8 Water Tank（empty, capacity 15 to 150m³ ） N/A 0.5 to 5
+
+9 Rebars for Mini-pile （T50 Ribbed Bars*5 ） 6 to 12 2
+
+10 12m Timber 12m×0.15m×47mm 3
+
+11 Material Skip (empty) 408mm×1380mm（L ） 0.5
+
+12 Rebars For Bi-Furcation Works 12 2
+
+13 Plywood L 2.93m x W 900mm x T 54mm 2
+
+14 Scaffold Materials L=6m 3
+
+15 Concrete Pipe DN525, L=2500mm 3
+
+16 Concrete Skip (empty, capacity 4.5ton) 1620mm×1780mm×2440mm 4.5
+
+17 Generator 1740 mm×550 mm×1192 mm 1
+
+18 Wire Mesh W1524mm 1
+
+19 Steel Plate L 4000mm× W2000mm×10mm 2
+
+20 Dewatering Pump / 1
+
+21 Electric Distribution Board H 250mm× L 250mm × W150mm 1
+
+22 Transformer H680 mm×W500 mm×D410mm 1
+
+23 Cherry Picker AMWP11.5-8100 5
+
+24 Working Platform (Scissor Lift) XEMN SERIES 5
+
+25 Excavator 0.8 to 5 ton 5
+
+Table 6.1 – Materials Lists (to be lifted)
+
+Plant / Equipment Quantity
+
+80 Tons Mobile Crane 4 (included spare)
+
+Crane Lorry 4 (included spare)
+
+Generator 4 (included spare)
+
+Table 6.2 – Plant/ Equipment Lists
+
+Manpower Quantity
+
+General Labour 10
+
+Operator 6
+
+Rigger 6
+
+Table 6.3 – Manpower Lists The above quantities and sizes are estimated only, the actual quantity and size will be confirmed to suit the site condition.
+
+7. Logistic Management
+
+Up to June 2024, access to the site will be from the Depot West gate, and via the existing west level crossing details as shown in figure 7.1 Figure 7.1 – Access to Northern Work Area before Opening of the Vehicle Access Bridge
+
+From July 2024, vehicle access to the site will be from the East Gate of the depot and via the Vehicular AccessBridge to the South Road. Figure 7.2 below shows the routing of vehicle access:South Road After May 2024Temp Steel BridgeEast GateFigure 7.2 -Access to Northern Work Area after Opening of the Vehicle Access Bridge
+
+For details of the security and traffic arrangement please refer to the Security and Traffic Management (MainStage) under separate submission.
+
+8. Construction Methods /Construction Sequence Drawings
+
+8.1 Lifting ArrangementThe works at W2 is planned to have 6 work-fronts, hence lifting work is expected to be required at eachwork-front. Figures 8.1 to 8.8 show the mobile crane siting and lifting arrangement at each location.In general, an 80-ton mobile crane will be set up on the South Road & Works Area W11G (north side ofthe test track), from where construction materials will be lifted to the Bi-furcation Works Area (W2)between the test track and the mainline. The longest distance on plan from the 80-ton mobile crane positionon the South Road to the construction area is 21m as shown in Figure 8.4. The concrete blocks for theRP Fence will be lowered down closeto ground level (around 1m above) centrally between the Test Trackand Mainline and then positioned laterally in place. A "stopper” will be fixed on the concrete block prior tolifting to guide the subsequent mesh fence installation (Figure 8.5). The test track OHL shall be de-energized for lifting work for the RP fence on the north side of W2 during NPH. For the south side of W2,lifting shall be carried out during test track NTH.The selection of the 80-ton mobile crane is required to suit lifting of the heaviest material at the largestradius, with this size of crane then being used for all material lifting. As shown in Table 6.1 - MaterialsList (to be lifted), the concrete block for the RP fence is the heaviest material. As a result, an 80-tonmobile crane will be utilized. When the outriggers are fully extended, the width required is 8m. The widthof the south road is 8.5m, which is sufficient for the 80-ton mobile crane to work. Mobile cranes will notbe deployed at the intersection of South Road to ensure that other vehicles go to North Road.
+
+**Figure 8.1 – Layout Plan of G.L. ~80**
+
+**Figure 8.2 – Layout Plan of G.L. ~100**
+
+This document is controlled in soft copy.
+
+Any hard copies seen are uncontrolled unless Page 7 of 48
+
+chopped with a red control stamp
+
+**Figure 8.3 – Layout Plan of G.L. ~40, Works Area W11G**
+
+**Figure 8.4 –Elevation Plan for Cable Bridge**
+
+This document is controlled in soft copy.
+
+Any hard copies seen are uncontrolled unless Page 8 of 48
+
+chopped with a red control stamp
+
+**Figure 8.6 – “Stopper” Bar**
+
+**Figure 8.7 – Section** GL A3
+
+This document is controlled in soft copy.
+
+Any hard copies seen are uncontrolled unless Page 9 of 48
+
+chopped with a red control stamp
+
+**Figure 8.9 – Section** GL80
+
+**Figure 8.10 – Section GL100**
+
+8.2 Load Chart of 80-ton Mobile Crane
+
+An 80-ton mobile crane will be set up at the South Road & Works Area W11G, to lift over the existing test track RP fence and OHL with a minimum boom angle of 60°. At the maximum horizontal distance of 21m, the lifting height of the mobile crane is 30m.
+
+8.3 Safe Working Load Checking
+
+Refer to **Figure 8.3– 80-ton Mobile Crane Load Chart**, at a working range of 22m and lifting height of 30m,the maximum lifting capacity is 11.6 tons.
+
+Max. Lifting Capacity =11.6tans
+
+=9.28tons
+
+This document is controlled in soft copy.
+
+Weight of Concrete Block =5.7tans
+
+80% of Max. Lifting Capacity > Weight of Concrete Block
+
+**Figure 8.3 – 80- ton Mobile Crane Load Chart**
+
+8.4 Lifting Procedure
+
+Working Schedule During NTH Period
+
+Checking of valid certificates, pre-works safety briefing, Before 12:00 am
+
+grant track possession (NTH, 02:00 -04:00)
+
+Construction Materials: concrete block， prefabricated fence, sheet pile, casing, H-beam delivery to South Road 12:00 am
+
+Preparation work, Mobile Crane Setup 12:00 – 0200 am
+
+Lift the construction materials to bi-furcation area, Each lifting procedure (check ground condition for crane sitting, lifting practice, checking the stability of lifted material before de-sling, structural gauge checking) 02:00 – 03:50 am
+
+Before Leaving 1. Clean up the Works Area (site clearance), and inspection with MTR’s inspector 2. TWC checking for temporary works stability 3. Qualified personnel should check whether the resistance of REW earthing meets the requirements. 4. Line clear and return track possession to HKTS 03:50 – 04:00 am
+
+Leave the works area, close and lock the access Gates 04:00 am
+
+Vacate Mobile Crane to designated parking area 04:00 – 05:00 am
+
+8.5 Lifting Mitigation Measure
+
+8.5.1 Lifting Works close to Cable Bridges
+
+For lifting plant set up at the Works Area W11G, the minimum clearance distance to the existing cable bridges shall be 10 m. Also, use mobile crane limiter to ensure the jib radius & angle are locked as shown in **Figure 8.5.1**
+
+**Figure 8.5.1 – Lifting Arrangement at Works Area W11G**
+
+8.5.2 Other Construction Materials Lifting close to OHL
+
+Refer to the RSR, the minimum clearance distance from the track are as **Figure 8.5.2**.
+
+Before lifting works, confirm with the DYM that the traction current system has been de-energized.
+
+This document is controlled in soft copy.
+
+Any hard copies seen are uncontrolled unless Page 12 of 48
+
+chopped with a red control stamp
+
+During the lifting operation, any part of the lifting plant must be kept 2m distance from the OHL cables in any direction.
+
+Construction materials shall be stored at the bi-furcation area properly ensuring storage areas are kept the minimum distance from the track facilities as per the RSR requirement.
+
+In addition, the following measures will be implemented to avoid damage to the existing test track facilities
+
+Set out the 10m clearance zone on site;
+
+Check the existing ground condition is suitable to allow the setup of the mobile crane.
+
+Before lifting or when the mobile crane(s) are in standby, the jib direction must not point to the cable bridges.
+
+During lifting, the mobile crane(s) shall be set in a position that its jib is pointing a minimum of 10m away from the cable bridges.
+
+After lifting, the mobile crane(s) shall fully retract the jib and face away from the cable bridges.
+
+Apply 80% SWL selection of the mobile crane.
+
+Apply 3-3-3 lifting practice to ensure material is safe for lifting.
+
+Appoint a lifting supervisor to supervise the lifting works.
+
+**Figure 8.5.2 – Minimum Clearance**
+
+8.5.3 RP Fence Installation Works close to OHL
+
+This document is controlled in soft copy.
+
+Any hard copies seen are uncontrolled unless chopped with a red control stamp Page 13 of 48
+
+Figure 8.5.3-Minimum Distance of Structural Gauge for Test Track and Mainline Track
+
+The works will be carried out in close proximity to the existing test track and AEL/TCL mainline where proper railway protection measures need to be in place before the commencement of any physical site works.Referring to (Library) Working Paper No.6 & approved BUGN - Railway Protection, a minimum 4.5 m high fence is proposed for activities that do not require plant/machinery with high boom or where there are no overhead line (OHL) masts on that particular side of the track. A minimum 7 m high fence is proposed for activities that require the use of plant/machinery with high booms adjacent to the fence, or where the OHL masts are located on that side of the track. The minimum clearance between fence mesh and the OHL fault return wire is required to be at least 850 mm as shown in Figure 8.5.3. (For RP Fence Installation Details, please refer to a separate submission).
+
+LEFTING ARRANGEMENT Material, Plant, Garbage inside existing
+
+8.5.4 Lifting Method for Construction Materials
+
+A. H-beam
+
+General Lifting gear shall not be slung/rigged or lifted at an angle of greater than 90 degrees. In rare cases where physical load shapes or lifting space does not allow, written approval from the project leader must be obtained together with a designated lifting plan.
+
+Load Description H-Beam-Various length loads-MAX Weight 5.2 Tons to be verified prior to lifting
+
+Lifting Gear 2 Leg Chain slings with SWL 8 Tons
+
+Ancillary Equipment Double Tag-lines, Beam lifting clamp
+
+Slinging Method Shackles attached to the designated lifting point
+
+Alternative Single wrapped and choked and the wrapping points should be at the 1/ 3 and 2/3 of the lifting H-beam Lifting clamps with 2-legged chain slings
+
+Safety Restrictions The lifting angle should not exceed 90° Attaching 2 tag-lines The width of the flange between the edge of H beam and outer perimeter of lifting eye should be at least 50mm. The lifting capacity and the physical condition of the lifting clamp should be verified prior to lifting operation
+
+B. Timber
+
+General If you choke a chain or webbing sling you must derate SWL by 20% and only use chains or sling not exceeding 90°.
+
+Load Description Batten
+
+Lifting Gear 2 webbing slings with SWL 6 Tons
+
+Ancillary Equipment Double Tag-lines
+
+Slinging Method wrapped and choked with at least one ratchet

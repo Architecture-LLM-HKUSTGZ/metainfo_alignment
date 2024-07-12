@@ -1,0 +1,464 @@
+CSF Reference Number: CSHK CET CSF ELE 2024 000174
+
+ACC Reference Number: 1701 W 000 CSC 143 000613
+
+
+EDOC for Provision of Electricity Supply to Stoves and Associated Works-ABWF, BS and Modification of existing LV Switchboard Works
+
+Description:
+
+With reference to HAZOP Meeting dated 25-March-2024, we herewith enclosed the EDOC application for provision of electricity supply to stoves and associated works -ABWF, BS and modification of existing LV switchboard works for your review.
+
+
+Revision: B
+
+Date: 23/05/2024
+
+Prepared by: A
+
+Checked by: 儿
+
+Reviewed by: ellale
+
+Name: MaxsonWong, Hobby Leung, Max Leung, Paul Freeman /Mark McGleenon, Eric Fong
+
+Position: BS Engineer, Deputy BSManager, EngineeringManager, Sr.Project Director/A. Project Director, ProjectDirector
+
+
+Engineering Document for Works
+
+Part A
+
+Engineering Works No:  ZCH20243
+
+Change History
+
+Issue/Rev.: 0/2, 1/0
+
+Reason for Change: First Draft for Comment, First Formal Issue
+
+Date: 09/04/2024, 23/05/2024
+
+Part B
+
+1. F1 No.  [Not applied to Project Work]
+
+2. C&R Works No.  [Not applied to Project Work]
+
+3. Baseline Programmei Proposed milestone dates are as follows:
+
+Design: N/A
+
+Installation: Apr 2024 to Jun 2024(tentatively)
+
+Testing & Commissioning: Jun 2024 (tentatively)
+
+Completion: Jun 2024 (tentatively)
+
+Associated Actions (Refer to Item 19): Jun 2024 (tentatively)
+
+4. Description of works
+
+4.1 Title Contract 1701 - Provision of Electricity Supply to Stoves and Associated Works – ABWF, BS and Modification of existing LV Switchboard Works
+
+4.2 Reason
+
+The purpose of the work is to provides the electrical provision at existing SHD canteen, enable replacement of existing Towngas appliances with electric stoves. It involves some BS Works to facilitate the power supply for refurbishment of existing kitchen appliance as well as ABWF works including form wall and slab opening and reinstatement works after BS installation.
+
+4.3 Description 1701 Contractor will provide electrical provision at Existing SHD Canteen including to provide the new cables with associated cable containment.
+
+From the existing LV switch room to the power provisions of the new kitchen equipment of the canteen as per latest approved method statement under 1701 CSF: 1701-W-000-CSC-760-000178, 1701-W-000-CSC-760-000128 and 1701-W-000-CSC-760-000260.
+
+A. Preparation Work
+
+Priority to commencement of the works, initial site conditional surveys for both E&M and builder’s works will be conducted to identify the cable routing, wall partition materials and any concealed conduits inside the wall.
+
+Existing Depot’s stocks and materials to be coordinated with related parties and moved away from the working area temporary during the Renovation works period. Existing equipment to be covered with protective materials (e.g. polyethylene tarps, canvas, etc.) and the working area will be fenced off with barriers.
+
+B. ABWF Works Involved:
+
+2.1 LV Switch Room (Room No. 8.27) in Ground Floor
+
+Figure 5 – Part Plan of G/F, Room 8.27
+
+- Erection of metal scaffolding/working platform for installation of cable tray and cable laying works. (see Figure 5)
+
+- Protection will be provided in Room 8.27 during the floor coring works in Room 8.36 at level UG/F
+
+2.2 Top Level (UG/F) of Room 8.36
+
+- Protect the existing cable and equipment by fire retarded cover;
+
+- Modification works to the existing curb;
+
+- Formation of floor opening on slab and wall opening on drywall;
+
+- Reinstatement of floor and wall opening after cabling works completed
+
+2.3 Canteen Area at 1/F
+
+- Working area to be fenced off;
+
+- To form temporary openings on existing wall panels for enabling BS’s cabling installation works. (See Figure 6)
+
+Figure 6 – Part Plan of 1/F, Canteen Area
+
+2.4 Kitchen Dry Store Room at 1/F
+
+- Fence-off the working area with protection.
+
+- Formation of Wall Opening on Drywall and RC wall;
+
+- Temporary blank off wall openings with fire rated board and fire sealant;
+
+- Reinstatement of wall opening after cabling works completed
+
+Figure 8 – Part Plan to Kitchen Dry Store at 1/F
+
+2.5 Kitchen Area at 1/F
+
+- Fence-off the working area with protection; 
+
+- Formation of Wall Opening on Drywall and Opening on False Ceiling;
+
+- Temporary blank off wall openings with fire rated board and fire sealant.
+
+- Reinstatement of wall opening after cabling works completed
+
+C. BS Works Invloved:
+
+3.1 Power Supply Cable Laying and Cable Containment Installation
+
+Two nos. of 300mm2 XLPE/SWA/LSHF cable will be provided for the power distribution from new fuse switch panel adjacent to LVSB MSB2.2 at LV Switch Room to MCCB board located at 1/F Kitchen Dry Store. The cables will be terminated at newly installed 400A fused switches respectively for power supply fed from fuse switch panel in G/F Room 8.27 LV Switch Room and started running at existing cable riser up to upper ground floor (UG/F) and turn to dining area high level toward to steel deck. The cable containment will be mounted on existing structural steel frame. The following sketches and photos indicated the proposed cable routing in RED.
+
+Figure 9 - Layout of LV Switch Room (Room No. 8.27) at Ground Floor
+
+Figure 10 – Fuse Switch Panel Location at LV Switch Room 8.27
+
+Contract 1701 - Provision of Electricity Supply to Stoves and Associated Works – ABWF, BS and Modification of Existing LV Switchboard Works Issue/Rev. 1/0
+
+Figure 13 - Cable Riser at UG/F
+
+Figure 15 - Proposed Cable Routing at Canteen Dining Area
+
+Figure 16 - Proposed Cable Routing at Canteen Dining Area
+
+Figure 18 - Existing Cable Tray at Steel Deck
+
+Figure 19 - Dry Store inside Kitchen
+
+The following listed summary of the equipment and location.
+
+Location: Dry Store, Kitchen Area
+
+Equipment: - MCCB Boards, - Isolating Switches
+
+Contract 1701 - Provision of Electricity Supply to Stoves and Associated Works – ABWF, BS and Modification of Existing LV Switchboard Works Issue/Rev. 1/0
+
+Proposed isolators location
+
+Figures 20-21 – Proposed Location of Isolator Installation in Kitchen
+
+3.2 Cable Termination on Modified LV switchboard
+
+Since there are two nos. 300mm2 XLPE/ SWA/LSHF which will be terminated to the Panel 12 of MSB2.2 of modified LV switchboard for power supply to kitchen as below diagram. The power suspension is required during the cable termination on MSB2.2 of modified LV switchboard.
+
+Figure 23 - Part of Single Line Busbar Diagram
+
+Figure 24 - Elevation of LV Switchboard MSB2.2
+
+3.3 Procedure of Cable Termination
+
+I. The cables prior to being cut, appropriate tail length of cables shall be remained for terminated at the fuse switch panel next to switchboard MSB-2.2.
+
+II. The cables will be top entry of fuse switch panel’s rear compartment and properly gland on top of panel.
+
+III. The cables sheath shall be clasped by a gland with a compression washer which will hold the cable sheath securely.
+
+IV. The termination of the cable conductors shall be crimpled by cable lug with a hydraulic crimping tool.
+
+V. The cables connected to the designated busbar by bolts & nuts.
+
+D. Existting LV Switchboard Modification Works Invloved:
+
+The existing LV switchboard was planned to modify part of riser busbar for the connection of new busbar containment on power supply to new fuse switch panel. The works are split into two parts – A. new fuse switch panel & busbar installation: and B. Existing LV switchboard of busbar modification and connection to busbar in Part A.
+
+Prior to commencement of the works, initial site conditional surveys for E&M works will be conducted to identify the cable routing, wall partition materials and any concealed conduits inside the wall.
+
+Existing Depot’s stocks and materials to be coordinated with related parties and moved away from the working area temporary during the Renovation works period. Existing equipment to be covered with protective materials (e.g. polyethylene tarps, canvas, etc.) and the working area will be fenced off with barriers.
+
+1. Installation of New Fuse Switch Panel
+
+In order to sufficiently cater the power supply of new electric kitchen stoves and appliances, a new fuse switch panel will be installed and new fuse switches for aforesaid equipment in kitchen will be installed on that panel. The new fuse switch panel is pre-fabricated in factory, which can be easily installed in Room 8.27 – LV Switch Room with simple fixing works. The energisation of the new fuse switch panel will be carried out upon the installation and prompt testing of new busbar section connecting from existing Panel 12 of MSB-2.2 which to be indicated in specific part below. 2 nos. of 400A fuse switch will also be installed in this panel as the power points of new electric kitchen appliances.
+
+Since the installation work of new fuse switch panel does not require power interruption, the work, hence, could be carried out at the daytime.
+
+1.1 Procedure of New Fuse Switch Panel Installation
+
+a. Approval shall be obtained prior to work in SHD
+
+b. Working area of the work will be fenced off to prevent unauthorised entry.
+
+c. Perform pre-work briefing to all related personnel for introduction of work to be carried out and safety issues in advance.
+
+d. Work commences. The fuse switch panel and new busbar section will be moved from temporary storage area into the designated location in LV Switch Room, then fix the panel for further busbar and cable termination.
+
+e. Install the new busbar section between MSB-2.2 and new fuse switch panel. The termination is to be carried out upon switchboard modification.
+
+f. check and confirm that no foreign object is left inside the panel cubicle in advance after the installation work.
+
+g. Complete works and leave LV Switch Room.
+
+2. Modification and Extension of Busbar
+
+A new section of busbar will be extended to the new fuse switch panel from Panel 12 of existing LV switchboard MSB-2.2. A new spur will be modified from existing 2000A riser busbar inside Panel 12, the new busbar section connecting the new spur inside Panel 12 and fuse switch panel adjacent to Panel 12 will be installed afterwards. The new busbar section will be fully enclosed in the ceiling-mounted trunking, no live part to be exposed.
+
+2.1 Procedure of Busbar Modification
+
+a. Site work team arrive at SHD for preparation, all relevant permits should be granted and issued correspondingly prior to work commencement.
+
+b. Report duty to Yard Master regarding the works to obtain approval to work in Depot during Non-traffic Hour of the day (NTH).
+
+c. Perform pre-work briefing to all related personnel for introduction of work to be carried out and safety issues in advance.
+
+d. Ready for works in Room 8.27 LV Switch Room, working area in the room will be fenced off to prevent unauthorised entry.
+
+e. Work commences when NTH starts. Shut down the outgoing fuse switches on non-essential side one-by-one, then confirm with PSC to switch off the corresponding ACBs under remote control for power isolation.
+
+f. Open the rear cover of Panel 12 and carry out isolation test to make sure the power supply is completely isolated, then draw-out and padlock the switches to prevent re-energisation during works.
+
+g. Remove existing busbar and install new riser busbar inside Panel 12 of MSB-2.2 to cater the busbar extension.
+
+h. Connect and terminate the busbar between 2000A riser in Panel 12 and new fuse switch panel adjacent to Panel 12.
+
+Carry out function tests (e.g. megger test, Ductor Test, Torque Wrench Test, continuity test, insulation test, etc.) to ensure the correct termination of new busbar.
+
+i. Enclose all the busbar connection and termination points and reinstate the rear cover of Panel 12 of MSB-2.2, check and confirm that no foreign object is left inside the panel cubicle in advance after the installation work.
+
+j. Resume the power supply by confirming with PSC to switch on the incoming and section ACBs under remote control. Observation of power supply condition after power resumption shall be taken afterwards.
+
+k. Leave and lock the switch room after work and power supply resumption without leaving tools and equipment. Cancel the work permits and report to Yard Master regarding the work completion.
+
+After inspection and testing of new fuse switch panel and busbar section, energisation will be conducted and that the power cables connecting to electric appliances in SHD Kitchen will be terminated to the fuse switches once ready. After cable termination, testing will be carried out as well to ensure the normal power supply to the aforesaid equipment.
+
+Testing for Work Completion
+
+After the modification works are completed, T&C would be carried out to ensure the proper installation and termination of switchboard and fuse switch panel before official energization. Tests to be conducted for T&C refer to step i.) of Procedure of Busbar Modification.
+
+Once T&C result is accepted, WR1 certificate shall be issued by REW as the proof of works completion. The new fuse switches should thus be remained off and padlocked until the outgoing sub-circuit between fuse switch panel and MCCB boards installed in 1/F Kitchen Dry Store can be terminated and energized.
+
+E. Resources for ABWF Works
+
+The followings are the resources for the ABWF works:
+
+Plant / Equipment:
+
+1. Coring Machine
+
+2. Metal Scaffold
+
+3. Ladder Platform
+
+4. Tarpaulin
+
+5. Vacuum Cleaner
+
+6. Wall Scanner / Cover meter
+
+7. Soft water plastic pipes and plastic buckets
+
+8. Hand held electric tools such as grinder, screw driver, drill etc.
+
+9. Wooden Protection Board
+
+10. Polythene sheet
+
+Materials (If required):
+
+1. Gypsum Board
+
+2. Cement Board
+
+3. Rockwool
+
+4. F.R.R. Panel
+
+5. Non-shrink grout
+
+6. F.R.R. Sealant
+
+7. Cement, sand, screed
+
+8. Wall Paint
+
+9. Tile
+
+10. Tile Adhesive
+
+11. Tile Grout
+
+12. Silicone Sealant
+
+Manpower:
+
+Scaffolder: 2
+
+General Labour: 2
+
+Engineer / Foreman: 1
+
+F. Resources for E&M Works
+
+The followings are the resources for the E&M works:
+
+Plant / Equipment:
+
+1. Electrical drill and screwdriver
+
+2. Electrical cutter
+
+3. Portable task lighting
+
+4. Measuring tape
+
+5. Chain-block for cabling work
+
+6. Conduit bender
+
+7. Metal working platform
+
+Installation Material:
+
+1. 400A MCCB Board (10-way and 12-way)
+
+2. 63A TPN isolator
+
+3. 20A DP isolator
+
+4. fuse spur unit
+
+5. G.I Conduit
+
+6. Metal trunking and tray
+
+7. Adaptable boxes
+
+8. U-channel
+
+9. Screw, bolt and nuts
+
+10. Armoured cable
+
+11. Multi-core cable
+
+Manpower:
+
+Scaffolder CP: 2
+
+Electricians + REW (Grade B)
+
+Cabling workers: 4
+
+Engineer / Foreman: 2
+
+Resources and Equipment for LV switchboard Modification.
+
+Installation Material:
+
+1. Fuse switch panel (with 400A fuse switches)
+
+2. Busbar and associated accessories
+
+3. Trunking and associated containment for busbar
+
+4. Screw, bolt and nuts
+
+Manpower:
+
+Switchboard Worker: 3
+
+Switchboard worker (REW Grade C)For connection of busbar at NTH: 1
+
+Site Supervisor: 2
+
+Engineer / Foreman: 4
+
+G. Supervision and Operation
+
+All works will be supervised by a CP(NT) from the Contractors and is for leading the Contractors Operation team on-site. All workers should take the MTR safety course regarding working adjacent to live MTR track. CP(NT)/foremen must ensure all worker leaving the work area after each working session.
+
+4.5 Category  [Not applied to Project Work]
+
+4.6 In-house/Contract  Contract 1701
+
+4.7 Estimated Cost  State the cost centre and estimated costs of labour and materials for the works OR a referral to relevant contract document with such details]
+
+4.8 Nature  Trial project carried out by HKTS Business Yes  No
+
+Unit and costing $4.5M or above
+
+If yes, please attach the SMART Success Criteria for Trial
+
+[Template can be obtained via the link below
+
+http://opinfomall.corp.mtrc.com/dept_T&ES/tes_admin/other%20files /smart%20success%20criteria%20for%20trials.docx]
+
+5. Name and Title of Responsible Parties
+
+Design Manager / Chief Construction Manager: FK WongChief Construction Manager-BS
+
+Project Controller / Project Manager: Ryan SiuSenior Construction Manager-BS
+
+Implementer / Senior Construction Manager: Ryan SiuSenior Construction Manager-BS
+
+Maintainer / Asset Owner: Barry TsuiSenior Depot Manager -SHD
+
+6. Implication on Safety
+
+• Affecting / modifying on Safety Critical System(s)ii  Yes   No If no, please provide justification.
+
+Not applicable, no safety critical system involved
+
+ Yes  No
+
+• Confirming ISA Requirement for SCS Related Change Assessment Formiii is completed (ref. P/OD/SMS/004)If no, please provide justification.
+
+Not applicable, no safety critical system involved
+
+• Modifying on PSD/APG/MGF/Floodgate iv [Specific Safety  Yes   No Related System(s)] 
+
+ii The list of Safety Critical Systems (SCS) stipulated in Exhibits E1 of P/OD/SMS/004 refers.
+
+iv The list of Safety Related Systems (SRS) stipulated in Exhibits E1 of P/OD/SMS/004 refers. Independent safety review on operation and control, as well as signalling interface, shall be deployed for i) PSD and APG (automatic sliding door), ii) Floodgate and iii) MGF.
+
+LV Switchboard Works
+
+Issue/Rev. 1/0
+
+Confirming ISR Requirement fChange Assessment Formvis c
+
+or Safety Related System Related  ompleted (ref. P/OD/SMS/004)
+
+Yes  No
+
+If no, please provide justificatio
+
+n.
+
+Not applicable, no PSD & AP
+
+G involved
+
+ Mitigation of R1 / R2 Hazards 
+
+Yes  No
+
+Affecting Signal Sighting (ref. If yes, please specify
+
+P/OD/SMS/028) 
+
+Yes  No
+
+Affecting maintenance or operarelated Application Conditions Requirements (SOR)
+
+tional requirements e.g. Safety- (SRAC)

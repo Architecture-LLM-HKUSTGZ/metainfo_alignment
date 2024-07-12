@@ -1,0 +1,78 @@
+MS Reference Number: CSHK CET MS C 2024 000107
+
+ACC Reference Number: 1701 W 000 CSC 760 000122
+
+
+METHOD STATEMENT TITLE Rev.D
+
+Method Statement for Instrumentation and Monitoring Works at Operations Area (OA)
+
+
+Prepared by: David Lam
+Checked by: Vincent Li
+Reviewed by: Leung Kwok Fung/Hui Wai Kwan
+Reviewed by: MH Isa / WH Lam
+Reviewed by: James Ma/ Iris Ho
+Reviewed by: Yeung Wai Lun
+Reviewed by: Paul Freeman/MarkMcGleenon
+Approved by: Eric Fong
+Positions: Senior Engineer, Construction Manager, SM/SO, QM/QE, EM/EO, A.Project Director, Sr.Project Director /A. Project Director, Project Director
+
+
+CHINA STATE CONSTRUCTION ENGINEERING (HONG KONG) LIMITED
+This document is controlled in soft copy. Any hard copies seen are uncontrolled unless chopped with a red control stamp
+
+
+CONTENT
+
+1. Introduction
+2. Reference Documents
+3. Details of Sub-Contractor/Specialist Sub-Contractor
+4. Responsibilities for Activities described within Method Statement
+5. Programme and Working Hours
+6. Plant, Equipment & Material
+7. Construction Methods / Construction Sequence
+8. Safety
+9. Environmental
+10. Quality Control
+11. Appendices
+
+This document is controlled in soft copy. Any hard copies seen are uncontrolled unless chopped with a red control stamp.
+
+1. Introduction (Overview of the operation/works)
+Instrumentation and monitoring installation before commencement of piling works. Regular settlement monitoring during construction. Method statement mainly covers OA such as Mainline Bifurcation, OYB Station, SPS, L-Shape Ramp, and Drainage & Sewerage Construction Works. Installation at CA to be submitted separately. Amendments highlighted in yellow.
+
+Instrument types: Ground Settlement Marker (GS), Utility Settlement Marker (UT), Building Settlement Marker (BS), Tilting Marker (TM), Vibration Marker (VM), Track Monitoring Marker (TS), Standpipe and Piezometer (SP), Inclinometer (IN), Crack Gauge.
+
+2. Reference Documents
+PNAP APP-24, PNAP APP-137, PNRC 14, MTRCL-New Works Design Standards, Hong Kong Transport Services Business Unit Requirements, MTRCL Working Paper No.6, MTRCL Contract 1701 Oyster Bay Station and Associated Works.
+
+3. Details of Sub-Contractor/Specialist Sub-Contractor
+Sub-contractor procurement ongoing, details to be provided once awarded.
+
+4. Responsibilities for Activities described within Method Statement
+CSHK is responsible for inspecting and carrying out the construction works. Specific personnel from CSHK, including Construction Manager, Assistant Construction Manager, Senior Engineer, Engineer, Graduate Engineer, Assistant Engineer, Superintendent, Senior Foreman, Survey Manager, Senior Surveyor, are responsible for attending tool-box talks and activities.
+
+5. Programme and Working Hours
+Working hours for OAs: Mainline 3 Nos of NTH per week, Test Track 3 nights per week, Depot track NTH/NPH daily. Working hours subject to Depot Schedule. All plants and equipment inspected prior to site mobilization. Major plants, equipment, and materials listed with quantities.
+
+6. Plant, Equipment & Material
+Drilling rigs, battery-operated handheld drilling machines, hand excavation tools, cable detection equipment, mobile crane, crane lorry, total station, digital levels, water level meter, tilt meter, inclinometer meter, vibration sensor, surveying poles, etc. Materials include ground settlement markers, utility settlement markers, tilting markers, track monitoring markers, building settlement markers, crack gauge, standpipe and piezometer, inclinometer, PVC pipes, backfilling materials, etc.
+
+7. Construction Methods / Construction Sequence
+Arrangements for works within OAs, including fencing off areas, PPE requirements, CP(T) appointments, work notices, railway qualifications, demarcating operation zones, fuel filling services, and keeping the work area tidy. Access route and traffic management, including shuttle buses and contractor vehicle arrangement. Lifting operations, ETMS submissions, test track crossing arrangement, and manual handling methods.
+
+8. Safety
+Preparation works, site clearance, cable detection, trial pit, utility diversion/abandoned works, temporary drainage system supply, lifting operation, pre-construction survey, waterfilled barriers.
+
+9. Environmental
+Handling of materials and waste, minimizing environmental impact, compliance with environmental regulations.
+
+10. Quality Control
+Procedures to ensure the installation of instrumentation and monitoring works meet quality standards.
+
+11. Appendices
+Additional supporting documentation and detailed information related to the method statement.
+
+
+This document is controlled in soft copy. Any hard copies seen are uncontrolled unless chopped with a red control stamp.
