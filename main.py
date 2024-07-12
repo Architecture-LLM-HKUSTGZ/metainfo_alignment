@@ -118,10 +118,10 @@ if __name__ == "__main__":
     '''
 
     client = AzureOpenAI(
-            api_key='41df71f980554898b556b2ee3d3dc8d1',
-            azure_endpoint='https://openai-api-siat.openai.azure.com/',
-            api_version='2024-02-01'
-        )
+        api_key='your_api_here',
+        azure_endpoint='your_azure_endponit_here',
+        api_version='2024-02-01'
+    )
 
     user_prompt = '''
     Please extract the key details from the OCR-processed Method Statement html-format text.
