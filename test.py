@@ -73,7 +73,7 @@ def save_file(path, content):
         file.write(content)
 
 
-def split_text(text, max_tokens=5000, overlap=100):
+def split_text(text, max_tokens=4500, overlap=100):
     lines = text.split('\n')
     chunks = []
     current_chunk = []
@@ -118,28 +118,28 @@ if __name__ == "__main__":
     '''
 
     client = AzureOpenAI(
-        api_key='41df71f980554898b556b2ee3d3dc8d1',
-        azure_endpoint='https://openai-api-siat.openai.azure.com/',
+        api_key='4568e5656e3f4e9794ec2b6fed460917',
+        azure_endpoint='https://openai-hkustgz.openai.azure.com/',
         api_version='2024-02-01'
     )
 
     user_prompt = '''
-    Please extract the key details from the OCR-processed Method Statement file, which is the html-format markdown file.
+    Please extract the key details from the following html-format markdown file.
 
     Ensure to retain all specific implementation details, including locations, measurements,
     and other important information, without generalizing. For example, retain details like 
     specific work areas (e.g., 'Works Area W8A, W8B'), measurements, and other critical data points.
 
     Notice:
-    - Do not change the section titles. Keep the original section titles as they appear in the OCR-processed file, including their numbering (e.g., '1. **Introduction**', '2. **Scope of Works**').
+    - The output is in direct markdown format without any explanatory code. Level-1 headings start with #, Level-2 headings start with ##, Level-3 headings start with ###.
+    - Do not change the section titles. Keep the original section titles as they appear in the OCR-processed file, including their numbering and markdown-style format (e.g., '## 1. **<heading>**', '## 2. **<heading>**', etc).
     - Do not output any extraneous information other than to generate the Method Statement report.
-    - The output is in direct markdown format without any explanatory code.
     - The first heading of the generated markdown file should be the name of the source file.
     - Do not generate comments like ``markdown``.
     '''
 
     '''Path of file that needs to be processed'''
-    ocr_results_dir = 'results/test/test_alignment'
+    ocr_results_dir = 'results/ocr_results'
     llm_responses_dir = 'results/aligned_files'
     parsed_structure_dir = 'results/parsed_structure'
 
@@ -149,7 +149,7 @@ if __name__ == "__main__":
 
     # List of specific files to reprocess
     files_to_reprocess = [
-        "Predrilling works at CAs 10m away nearest track wo appendix.md"
+        "1.13.71 (CS) Method Statement for Assembly and Disassembly of Crawler Crane at CAs 10m away nearest track (For Model HS8130).md"
     ]
 
     '''Get a list of all text files in the OCR results directory'''
@@ -157,8 +157,12 @@ if __name__ == "__main__":
 
     '''Process each file with a progress bar'''
     for ocr_file in tqdm(ocr_files, desc="Files Aligned"):
-        '''单独再对齐一遍文件'''
-        if ocr_file not in files_to_reprocess:
+
+        '''if os.path.exists(os.path.join(llm_responses_dir, ocr_file)) and os.path.exists(os.path.join(parsed_structure_dir, ocr_file)):   # avoid repetitively processing the same file
+            print(f"Skipping {ocr_file} as it has already been processed!")
+            continue'''
+
+        if ocr_file not in files_to_reprocess:      # 单独再对齐一遍文件
             continue
 
         ocr_file_path = os.path.join(ocr_results_dir, ocr_file)
@@ -167,9 +171,9 @@ if __name__ == "__main__":
 
         '''api response'''
         responses = []
-        if token_count(documents) > 5000:
-            print(f"The documents {ocr_file} tokens exceed 5000, initializing split!")
-            document_chunks = split_text(documents, max_tokens=5000)
+        if token_count(documents) > 4500:
+            print(f"The documents {ocr_file} tokens exceed 4500, initializing split!")
+            document_chunks = split_text(documents, max_tokens=4500)
 
             for i, chunk in enumerate(document_chunks):
                 if i == 0:
@@ -207,12 +211,6 @@ if __name__ == "__main__":
         '''saving path'''
         response_saving_path = os.path.join(llm_responses_dir, ocr_file)
         structure_saving_path = os.path.join(parsed_structure_dir, f'{ocr_file.replace(".md", ".json")}')
-
-        '''avoid repetitively processing the same file'''
-        """if os.path.exists(response_saving_path) and os.path.exists(structure_saving_path):
-            print(f"Skipping {ocr_file} as it has already been processed!")
-            continue"""
-
 
         '''Save LLM response'''
         save_file(response_saving_path, full_response)

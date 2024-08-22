@@ -1,0 +1,16 @@
+{
+    "model_info":{
+        "provider":"azure_openai",
+        "name":"gpt-35-turbo"
+    },
+    "api_key_info":{
+        "api_keys":"41df71f980554898b556b2ee3d3dc8d1",
+        "azure_endpoint": "https://openai-api-siat.openai.azure.com/",
+        "api_version": "2024-02-01"
+    },
+    "params":{
+        "temperature":0.3,
+        "gpus":[],
+        "max_output_tokens":1000
+    }
+}

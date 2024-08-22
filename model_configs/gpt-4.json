@@ -1,0 +1,16 @@
+{
+    "model_info":{
+        "provider":"azure_openai",
+        "name":"gpt-4"
+    },
+    "api_key_info":{
+        "api_keys":"89a44fa0bed84cb58db0cd7b4c8b49d5",
+        "azure_endpoint": "https://openai-api-ae.openai.azure.com/",
+        "api_version": "2024-02-01"
+    },
+    "params":{
+        "temperature":0.3,
+        "gpus":[],
+        "max_output_tokens":1000
+    }
+}
