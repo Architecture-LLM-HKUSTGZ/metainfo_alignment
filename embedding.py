@@ -1,5 +1,6 @@
 from FlagEmbedding import FlagModel
 import json
+import os
 from tqdm import tqdm
 import faiss
 import logging
@@ -8,16 +9,32 @@ import numpy as np
 
 args = config.get_args()
 
+def setup_logging():
+
+    logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+
 def load_embeddings(load_path):
     return np.load(load_path)
 
 def save_embeddings(embeddings, save_path):
     np.save(save_path, embeddings)
 
-
-def setup_logging():
-
-    logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+def load_files(directory):
+    """Load and return content of all files (.json and .md) in the given directory."""
+    documents = []
+    for root, dirs, files in os.walk(directory):
+        for file in files:
+            print(file)
+            file_path = os.path.join(root, file)
+            if file.endswith(".json"):
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    json_content = json.load(f)
+                    documents.append(json.dumps(json_content, ensure_ascii=False))
+            elif file.endswith(".md"):
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    content = f.read()
+                    documents.append(content)
+    return documents
 
 
 # multilingual-e5-large是1024维度
@@ -31,7 +48,9 @@ def load_embedding_model(model_path):
 
 def create_index_knowledge_base(model_path, dimension):
     model = load_embedding_model(model_path)
-    knowledge_sources = load_json_data(args.knowledge_source)
+
+    # Load all files from the knowledge_source directory
+    knowledge_sources = load_files(args.knowledge_source)
 
     embeddings = []
     for knowledge in tqdm(knowledge_sources, desc="Creating embeddings from knowledge source"):

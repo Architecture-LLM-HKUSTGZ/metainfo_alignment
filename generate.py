@@ -59,6 +59,33 @@ def response_generation(llm, questions, node, relevant_source, k):
     return responses
 
 
+def sft_generation(llm, questions, node, relevant_source, k):
+    '''根据当前问题生成响应'''
+    prompt = f'''
+    Task Description:
+    Based on the following {k} questions, generate the corresponding {k} responses and construct {k} JSON objects based on these questions and responses. Each JSON object should contain the following two keys:
+    - "user": This part mimics the user's question based on the current node content (i.e., {node}), the aim of this part is to ask possible questions given by the user related to the method statement.
+    - "response": Combine the provided questions and relevant information to answer the question in the "user", please present it in a list format.
+
+    Here are the provided questions:
+    - '{questions}'
+    Here is the relevant information for the questions, which can be referenced for the responses:
+    - '{relevant_source}'
+
+    Example output:
+    - {{"user": "xxx", "response": ["xxx"]}}
+
+    Notes:
+    - The generated {k} JSON data should be in single-line format for easy processing and analysis.
+    - The output is in direct JSON format without any explanatory code.
+    - Do not generate comments like ``json``.
+    '''
+
+    responses = llm.get_completion(prompt)
+
+    return responses
+
+
 def get_relevant_source(questions, json_data, embedding_model, top_k):
     questions_embedding = embedding_model.encode([questions]).astype('float32')
     index = faiss.read_index(args.knowledge_index)
